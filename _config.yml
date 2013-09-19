@@ -2,20 +2,20 @@ name: Your New Jekyll Site
 pygments: true
 prose:
   media: "photos"
-	metadata:
-		_posts:
-			- name: "published"
-				field:
-					label: "Published"
-					element: "checkbox"
-					value: "true"
-			- name: "layout"
-				field:
-					label: "Layout"
-					element: "text"
-					value: "post"
-			- name: "title"
-					field:
-					label: "Title"
-					element: "text"
-					value: "A awesome Headline!"
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "post"
+      - name: "title"
+          field:
+          label: "Title"
+          element: "text"
+          value: "A awesome Headline!"
