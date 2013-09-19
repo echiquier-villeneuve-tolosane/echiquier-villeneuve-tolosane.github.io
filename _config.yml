@@ -1,7 +1,7 @@
 name: Your New Jekyll Site
 pygments: true
 prose:
-  media: "images"
+  media: "photos"
 	metadata:
 	_posts:
 	  - name: "published"
