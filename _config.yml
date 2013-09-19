@@ -16,6 +16,6 @@ prose:
           value: "post"
       - name: "title"
           field:
-          label: "Title"
-          element: "text"
-          value: "A awesome Headline!"
+            label: "Title"
+            element: "text"
+            value: "A awesome Headline!"
