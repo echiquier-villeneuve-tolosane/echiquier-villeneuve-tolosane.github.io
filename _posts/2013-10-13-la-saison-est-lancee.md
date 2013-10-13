@@ -1,6 +1,6 @@
 ---
 published: true
-layout: default
+layout: post
 title: La saison 2013 est lancée
 ---
 
