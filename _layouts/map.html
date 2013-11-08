@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="{{ page.description }}" />
+    <link rel="icon" href="{{ page.root }}/images/wn.ico"/>
+
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.css" />
+    <!--[if lte IE 8]>
+        <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.ie.css" />
+    <![endif]-->
+    <script src="http://cdn.leafletjs.com/leaflet-0.6.4/leaflet.js"></script>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ page.root }}/stylesheets/stylesheet.css">
+
+    <title>Échiquier de Villeneuve-Tolosane - {{ page.title }}</title>
+  </head>
+
+  <body>
+
+    {% include header.html %}
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+      {{ content }}
+      </section>
+
+    </div>
+
+    {% include footer.html %}
+
+<script type="text/javascript">
+// create a map in the "map" div, set the view to a given place and zoom
+var map = L.map('map').setView([43.52437,1.340817], 17);
+
+// add an MapQuest tile layer
+L.tileLayer('http://otile{s}.mqcdn.com/tiles/1.0.0/map/{z}/{x}/{y}.jpeg', {
+    attribution: "MapQuest / OpenStreetMap",
+    subdomains: '1234'
+  }).addTo(map);
+
+// add a marker in the given location, attach some popup content to it and open the popup
+L.marker([43.52437,1.340817]).addTo(map)
+    .bindPopup("Foyer du 3ème âge<br/><a target='_new' href='https://www.google.fr/maps/preview#!data=!1m8!1m3!1d3!2d1.341377!3d43.52419!2m2!1f294.17!2f83.14!4f75!2m7!1e1!2m2!1sNAXsSTICKq16il3Ti9w7MA!2e0!5m2!1sNAXsSTICKq16il3Ti9w7MA!2e0&fid=5'>Voir sur Google Streetview</a>")
+    .openPopup();
+</script>
+
+  </body>
+</html>

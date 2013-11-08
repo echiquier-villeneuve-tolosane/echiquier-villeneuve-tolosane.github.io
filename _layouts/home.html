@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8' />
+    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+    <meta name="description" content="{{ page.description }}" />
+    <link rel="icon" href="{{ page.root }}/images/wn.ico"/>
+
+    <link rel="stylesheet" type="text/css" media="screen" href="{{ page.root }}/stylesheets/stylesheet.css">
+
+    <title>Échiquier de Villeneuve-Tolosane - {{ page.title }}</title>
+  </head>
+
+  <body>
+
+    {% include header.html %}
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        {{ content }}
+        <h3>Les dernières actualités</h3>
+        <ul id="post-list">
+          {% for post in site.posts %}
+            <li>
+              <a href="{{ page.root }}{{ post.url }}">{{ post.title }}</a> - <span class="date">{{ post.date | date: "%d/%m/%Y" }}</span>
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+</html>

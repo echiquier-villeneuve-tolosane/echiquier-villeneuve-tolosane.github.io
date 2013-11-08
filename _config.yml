@@ -1,0 +1,4 @@
+name: Your New Jekyll Site
+pygments: true
+prose:
+  media: "photos"
