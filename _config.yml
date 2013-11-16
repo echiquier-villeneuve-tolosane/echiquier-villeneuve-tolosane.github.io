@@ -5,6 +5,11 @@ prose:
   siteurl: "http://echiquier-villeneuve-tolosane.github.io"
   metadata:
     _posts:
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
       - name: "layout"
         field:
           label: "Layout"
