@@ -20,3 +20,8 @@ prose:
           label: "Racine"
           element: "text"
           value: "../../.."
+      - name: "title"
+        field:
+          label: "Title"
+          element: "text"
+          value: "Le titre"
