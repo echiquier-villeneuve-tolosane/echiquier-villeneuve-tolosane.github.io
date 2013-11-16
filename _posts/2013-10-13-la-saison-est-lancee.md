@@ -9,4 +9,4 @@ L'EVT a engagé cette année deux équipes:
 
 - l'équipe 1 en N4,
 
-- l'équipe 2 en R2 dans le cadre d'une entente avec le club de Boulogne-sur-Gesse.
+- l'équipe 2 en R2 dans le cadre d'une entente avec le club de Ciadoux.
