@@ -2,3 +2,16 @@ name: Your New Jekyll Site
 pygments: true
 prose:
   media: "photos"
+  siteurl: "http://echiquier-villeneuve-tolosane.github.io"
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "text"
+          value: "default"
+      - name: "root"
+        field:
+          label: "Racine"
+          element: "text"
+          value: "../../.."
