@@ -33,11 +33,11 @@ Cadence 1h30 + 30s/c + 15min + 30s/c.
 
 | Ronde 2 (6/12 et 27/12)      |     |      |                              |
 | ---------------------------- |:---:| :---:| ---------------------------- |
-| GARCIA DEL PRADO Bruno       |     |      | DOUSTENS Jean-Jacques        |
-| GRASSAUD Guillaume           |     |      | DORIVAL Olivier              |
-| BREHAULT Eric                |     |      | LIDOINE Stéphane             |
-| COURET Henri                 |     |      | LAFFONT Jean-Christophe      |
-| BIGNEBAT Jean-Paul           |     |      | GUERIN Laurent               |
+| GARCIA DEL PRADO Bruno       | 1   | 0    | DOUSTENS Jean-Jacques        |
+| GRASSAUD Guillaume           | 0   | 1    | DORIVAL Olivier              |
+| BREHAULT Eric                | 1   | 0    | LIDOINE Stéphane             |
+| COURET Henri                 | 0   | 1    | LAFFONT Jean-Christophe      |
+| BIGNEBAT Jean-Paul           | 0   | 1    | GUERIN Laurent               |
 
 | Ronde 3 (3/01 et 17/01)      |     |      |                              |
 | ---------------------------- |:---:| :---:| ---------------------------- |
