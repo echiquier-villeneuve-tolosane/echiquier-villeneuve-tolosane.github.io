@@ -7,21 +7,21 @@ published: true
 
 ###Les équipes###
 
-L'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2155) joue en Nationale 4n dans le groupe [Midi-Pyrénées 1](http://www.echecs.asso.fr/Equipes.aspx?Groupe=84 "Nationale 4 / Midi-Pyrénées 1 / Groupe 1").
+L'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2155) joue en _Nationale 4_ dans le groupe [Midi-Pyrénées 1](http://www.echecs.asso.fr/Equipes.aspx?Groupe=84 "Nationale 4 / Midi-Pyrénées 1 / Groupe 1").
 
-L'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2790) joue en Régionale 2 (dans une entente avec Ciadoux).
+L'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2790) joue en _Régionale 2_ (dans une entente avec Ciadoux).
 
 ###Les cours###
 
-Cette année, Olivier Touzane (International Master) partage avec nous ses connaissances et revient sur nos parties.
+Cette année, **Olivier Touzane**,_Maître International_, partage avec nous ses connaissances et analyse les moments forts de nos parties.
 
 Le calendrier des cours est consultable [ici]({{ page.root }}/calendar.html).
 
 ###Le tournoi interne ouvert 2013-2014###
 
-Tournoi toutes rondes à 10 joueurs.
+Cette année, le Tournoi Interne est un Open - toutes rondes à 10 joueurs.
 
-Cadence 1h30 + 30s/c + 15min + 30s/c.
+La cadence est 1h30 + 30s/c + 15min + 30s/c.
 
 | Ronde 1 (15/11)              |     |      |                              |
 | ---------------------------- |:---:| :---:| ---------------------------- |
