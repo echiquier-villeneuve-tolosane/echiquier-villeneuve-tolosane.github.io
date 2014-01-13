@@ -1,8 +1,9 @@
 $(document).ready(function() {
-    $('.chessboard').each(function(i, el) {
-        el.style.width="400px";
+    $('code').each(function(i, el) {
         var fen = $(el).text();
-        var board = new ChessBoard(el, {
+        var div = $("<div class='chessboard' style='width: 400px' />");
+        $(el).replaceWith(div);
+        var board = new ChessBoard(div, {
           draggable: true,
           pieceTheme: '/images/chesspieces/wikipedia/{piece}.png'
         });
