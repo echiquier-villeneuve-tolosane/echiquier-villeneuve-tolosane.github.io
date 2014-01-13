@@ -13,7 +13,7 @@ L'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2
 
 ###Les cours###
 
-Cette année, **Olivier Touzane**,_Maître International_, partage avec nous ses connaissances et analyse les moments forts de nos parties.
+Cette année, **Olivier Touzane**, _Maître International_, partage avec nous ses connaissances et analyse les moments forts de nos parties.
 
 Le calendrier des cours est consultable [ici]({{ page.root }}/calendar.html).
 
