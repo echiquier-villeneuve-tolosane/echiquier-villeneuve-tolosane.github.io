@@ -395,7 +395,7 @@ Small Device Styles
 #map {
   height: 200px;
 }
-#map img {
+#map img, .chessboard img {
   padding: 0;
   margin: 0;
   border: 0;
