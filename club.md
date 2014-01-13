@@ -7,13 +7,13 @@ published: true
 
 ###Les équipes###
 
-L'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2155) joue en National 4.
+L'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2155) joue en Nationale 4n dans le groupe [Midi-Pyrénées 1](http://www.echecs.asso.fr/Equipes.aspx?Groupe=84 "Nationale 4 / Midi-Pyrénées 1 / Groupe 1").
 
 L'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2790) joue en Régionale 2 (dans une entente avec Ciadoux).
 
 ###Les cours###
 
-Cette année, Olivier Touzane partage avec nous ses connaissances.
+Cette année, Olivier Touzane (International Master) partage avec nous ses connaissances et revient sur nos parties.
 
 Le calendrier des cours est consultable [ici]({{ page.root }}/calendar.html).
 
