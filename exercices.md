@@ -6,12 +6,10 @@ title: Exercices et problèmes
 ---
 
 **Dorival-Séguelong**, _Nationale 4, Ronde 1, Condom 2-EVT, Ech. 2, 2013_ : Les Noirs viennent de jouer **44...g6??** Après le meilleur coup des Blancs, les Noirs sont perdus.
-
 `3b1nk1/6p1/p2p1p2/2pP1BP1/2P4P/8/P7/K3B3 w - - 0 44`
 
 
 **Dorival-Bréhault**, _Tournoi Interne EVT, Ronde 1, Ech. 2, 2013_ : Les Blancs font mat en 3 coups.
-
 `r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
 
 
