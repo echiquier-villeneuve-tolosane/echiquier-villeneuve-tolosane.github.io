@@ -5,6 +5,12 @@ root: .
 title: Exercices et problèmes
 ---
 
+Retrouvez dans cette rubrique les moments forts des parties de compétitions de l'EVT.
+
+###toto### 
+##toto##
+
+
 **Dorival-Séguelong**, _Nationale 4, Ronde 1, Condom 2-EVT, Ech. 2, 2013_ : Les Noirs viennent de jouer **44...g6??** Après le meilleur coup des Blancs, les Noirs sont perdus.
 `3b1nk1/6p1/p2p1p2/2pP1BP1/2P4P/8/P7/K3B3 w - - 0 44`
 
