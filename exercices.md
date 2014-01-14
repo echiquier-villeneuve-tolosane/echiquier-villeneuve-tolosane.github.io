@@ -15,7 +15,7 @@ title: Exercices et problèmes
 `r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
 
 
-**Grassaud-Dorival**, _Tournoi Interne EVT, Ronde 2, Tb. 2, 2013_ : Les Noirs viennent de jouer **17...Fxa4??** Les Blancs peuvent gagner une pièce.
+**Dorival-Bréhault**, _Tournoi Interne EVT, Ronde 1, Tb. 2, 2013_ : Les Blancs font mat en 3 coups.
 
 `r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
 
