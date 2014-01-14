@@ -13,7 +13,7 @@ title: Exercices et problèmes
 `r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
 
 
-**Guillory-Dorival**, _Coupe de France des Clubs, Ronde 1, Ech. 4, 2013_ : Les Noirs ont joué **24...Txe3** et les Blancs ont répliqué **25.Rxe3??** sur quoi **25...Te8** regagne la pièce. Quel était le bon coup exact des Blancs ?
+**Guillory-Dorival**, _Coupe de France des Clubs, Ronde 1, Ech. 4, 2013_ : Les Noirs ont joué **24...Txe3** et les Blancs ont répliqué **25.Rxe3??** sur quoi **25...Te8** regagne la pièce. Quel était le bon coup pour les Blancs ?
 
 `r5k1/B3rpbp/1P4p1/8/6b1/4R3/PP2BKPP/3R4 b - - 6 24`
 
