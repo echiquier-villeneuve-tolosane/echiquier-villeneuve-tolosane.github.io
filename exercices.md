@@ -15,7 +15,7 @@ title: Exercices et problèmes
 
 **Grassaud-Dorival**, _Tournoi Interne EVT, Ronde 2, Tb. 2, 2013_ : Les noirs viennent de jouer **17...Fxa4??** Les blancs peuvent gagner une pièce.
 
-`t4tk1/3qbppp/pp2pn2/2p3B1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
+`t4tk1/3qbppp/pp2pn2/2p3B1/b1B1PQ2/3P2NP/1PP3P1/T3T2K w - - 0 17`
 
 ** Problème ** : Les Blancs jouent et matent en deux coups.
 
