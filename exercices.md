@@ -34,7 +34,7 @@ Les Noirs viennent de jouer **17...Fxa4??** Les Blancs peuvent gagner une pièce
 
 `r4r1k/6bp/p3Q3/1pp5/4P2P/8/1PP1pqP1/6RK b - - 0 37`
 
-Les Noirs ont un mat en 5.
+Les Noirs ont un mat en 5 (et même plusieurs !).
 
 
 ### EVT - Loures-Barousse 2
