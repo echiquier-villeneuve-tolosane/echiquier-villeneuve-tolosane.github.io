@@ -10,14 +10,19 @@ title: Exercices et problèmes
 `3b1nk1/6p1/p2p1p2/2pP1BP1/2P4P/8/P7/K3B3 w - - 0 44`
 
 
-**Dorival-Bréhault**, _Tournoi Interne EVT, Ronde 1, Tb. 2, 2013_ : Les Blancs font mat en 3 coups.
+**Dorival-Bréhault**, _Tournoi Interne EVT, Ronde 1, Ech. 2, 2013_ : Les Blancs font mat en 3 coups.
 
 `r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
 
 
-**Grassaud-Dorival**, _Tournoi Interne EVT, Ronde 2, Tb. 2, 2013_ : Les Noirs viennent de jouer **17...Fxa4??** Les Blancs peuvent gagner une pièce.
+**Grassaud-Dorival**, _Tournoi Interne EVT, Ronde 2, Ech. 2, 2013_ : Les Noirs viennent de jouer **17...Fxa4??** Les Blancs peuvent gagner une pièce.
 
 `r4rk1/3qbppp/pp2pn2/2p3B1/b1B1PQ2/3P2NP/1PP3P1/R3R2K w - - 0 17`
+
+
+**Dorival-Grimault**, _Nationale 4, Ronde 3, Lardennes 2-EVT, Ech. 2, 2013_ : Les Blancs viennent de jouer **17.Tac1?** Comment les Noirs prennent-ils l'avantage ?
+
+`2r2rk1/pp3pbp/2n3p1/3q4/3P4/4B3/P1Q1NPPP/2R2RK1 b - - 2 17`
 
 
 **Problème** : Les Blancs jouent et matent en deux coups.
