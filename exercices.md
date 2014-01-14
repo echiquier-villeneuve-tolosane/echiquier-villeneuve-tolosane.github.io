@@ -27,7 +27,7 @@ _Ronde 2 (2013/12/06)_
 
 `r4rk1/3qbppp/pp2pn2/2p3B1/b1B1PQ2/3P2NP/1PP3P1/R3R2K w - - 0 17`
 
-Les Noirs viennent de jouer **17...Fxa4??** Les Blancs peuvent gagner une pièce.
+Les Noirs viennent de jouer **17...Fxa4??**. Les Blancs peuvent gagner une pièce.
 
 
 ($$)   **Grassaud-Dorival**, _Ech. 2_
@@ -64,7 +64,7 @@ _Nationale 4, ronde 1 (2013/10/13)_
 
 `3b1nk1/6p1/p2p1p2/2pP1BP1/2P4P/8/P7/K3B3 w - - 0 44`
 
-Les Noirs viennent de jouer **44...g6??** Si les Blancs jouent leur meilleur coup, les Noirs sont perdus.
+Les Noirs viennent de jouer **44...g6??**. Si les Blancs jouent leur meilleur coup, les Noirs sont perdus.
 
 ###Problèmes
 
