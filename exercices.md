@@ -15,6 +15,12 @@ title: Exercices et problèmes
 `r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
 
 
+**Guillory-Dorival**, _Coupe de France des Clubs, Ronde 1, Ech. 4, 2013_ : Les Noirs ont joué **24...Txe3** 
+
+`r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
+r5k1/B3rpbp/1P4p1/8/6b1/4R3/PP2BKPP/3R4 b - - 6 24
+
+
 **Grassaud-Dorival**, _Tournoi Interne EVT, Ronde 2, Ech. 2, 2013_ : Les Noirs viennent de jouer **17...Fxa4??** Les Blancs peuvent gagner une pièce.
 
 `r4rk1/3qbppp/pp2pn2/2p3B1/b1B1PQ2/3P2NP/1PP3P1/R3R2K w - - 0 17`
