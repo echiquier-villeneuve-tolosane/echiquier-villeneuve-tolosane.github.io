@@ -7,7 +7,7 @@ title: Exercices et problèmes
 
 Retrouvez dans cette rubrique les moments forts des parties de compétitions de l'EVT.
 
-EVT - CEIT 3, Nationale 4, ronde 4, 2014/01/12
+### EVT - CEIT 3, _Nationale 4, ronde 4, 2014/01/12_
 
 Lardennes 2 - EVT, Nationale 4, ronde 3, 2013/12/15
 
