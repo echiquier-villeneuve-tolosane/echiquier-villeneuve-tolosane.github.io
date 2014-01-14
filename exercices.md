@@ -10,6 +10,13 @@ title: Exercices et problèmes
 ### EVT - CEIT 3
 _Nationale 4, ronde 4 (2014/01/12)_
 
+($$) **Ouqabou-Dorival**, _Ech. 2_
+
+`8/4n1P1/3p2k1/2pP1p2/2P2P1K/8/2B5/8 b - - 6 65`
+
+Les Noirs peuvent-ils prendre le dangereux pion g7 ?
+
+
 ### Lardennes 2 - EVT
 _Nationale 4, ronde 3 (2013/12/15)_
 
