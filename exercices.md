@@ -8,10 +8,10 @@ title: Exercices et problèmes
 **Au travail !!! Retrouvez dans cette rubrique les moments forts des parties de compétitions de l'EVT.**
 
 ### EVT - CEIT 3
-_Nationale 4, ronde 4, 2014/01/12_
+_Nationale 4, ronde 4 (2014/01/12)_
 
 ### Lardennes 2 - EVT
-_Nationale 4, ronde 3, 2013/12/15_
+_Nationale 4, ronde 3 (2013/12/15)_
 
 ($$$)   **Dorival-Grimault**, _Ech. 2_
 
@@ -21,7 +21,7 @@ Les Blancs viennent de jouer **17.Tac1?**. Comment les Noirs prennent-ils l'avan
 
 
 ### Tournoi Interne EVT
-_Ronde 2, 2013/12/06_
+_Ronde 2 (2013/12/06)_
 
 ($$$)   **Grassaud-Dorival**, _Ech. 2_
 
@@ -31,7 +31,7 @@ Les Noirs viennent de jouer **17...Fxa4??** Les Blancs peuvent gagner une pièce
 
 
 ### EVT - Loures-Barousse 2
-_Nationale 4, ronde 2, 2013/11/24_
+_Nationale 4, ronde 2 (2013/11/24)_
 
 ($$$) **Guillory-Dorival**, _Ech. 2_
 
@@ -41,7 +41,7 @@ Les Noirs ont joué **24...Txe3** et les Blancs ont répliqué **25.Rxe3??** sur
  
 
 ###Tournoi Interne EVT
-_Ronde 1, 2013/11/15_
+_Ronde 1 (2013/11/15)_
 
 ($) **Dorival-Bréhault**, _Ech. 2_
 
@@ -51,7 +51,7 @@ Les Blancs font mat en 3 coups.
 
 
 ###Condom - EVT
-_Nationale 4, ronde 1, 2013/10/13_
+_Nationale 4, ronde 1 (2013/10/13)_
 
 ($$) **Dorival-Séguelong**, _Ech. 2_
 
