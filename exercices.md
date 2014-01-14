@@ -19,7 +19,7 @@ Tournoi Interne EVT, ronde 2, 2013/12/06
 `r4rk1/3qbppp/pp2pn2/2p3B1/b1B1PQ2/3P2NP/1PP3P1/R3R2K w - - 0 17`
 Les Noirs viennent de jouer **17...Fxa4??** Les Blancs peuvent gagner une pièce.
 
-EVT - Loures-Barousse 2, Nationale 4, ronde 2, 2013/11/24### 
+EVT - Loures-Barousse 2, Nationale 4, ronde 2, 2013/11/24
 **Guillory-Dorival**, Ech. 2
 `r5k1/B3rpbp/1P4p1/8/6b1/4R3/PP2BKPP/3R4 b - - 6 24`
 Les Noirs ont joué **24...Txe3** et les Blancs ont répliqué **25.Rxe3??** sur quoi **25...Te8+** regagne une pièce pour compenser les pions blancs. Au lieu de cela, quel était le bon coup pour les Blancs ?
