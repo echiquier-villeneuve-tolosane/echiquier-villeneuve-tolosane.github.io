@@ -5,7 +5,7 @@ root: .
 title: Exercices et problèmes
 ---
 
-**Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.**
+###### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.**
 
 ### EVT - CEIT 3
 _Nationale 4, ronde 4 (2014/01/12)_
