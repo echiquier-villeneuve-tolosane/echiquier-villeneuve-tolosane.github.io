@@ -68,7 +68,7 @@ Les Blancs font mat en 3 coups.
 ###Condom - EVT
 _Nationale 4, ronde 1 (2013/10/13)_
 
-##### &#9823;&#9823;&#9823; ##### **Dorivl-Séguelong**, _Ech. 2_
+##### &#9823;&#9823;&#9823; **Dorivl-Séguelong**, _Ech. 2_
 
 `3b1nk1/6p1/p2p1p2/2pP1BP1/2P4P/8/P7/K3B3 w - - 0 44`
 
@@ -76,6 +76,6 @@ Les Noirs viennent de jouer **44...g6??**. Si les Blancs jouent leur meilleur co
 
 ###Problèmes
 
-##### &#9820;
+##### &#9820; Problème 1
 `3brrb1/2N4B/8/2p4Q/2p2k2/5P2/4P1KR/2N2RB1 w - - 0 1`
 Les Blancs jouent et matent en deux coups.
