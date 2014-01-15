@@ -68,7 +68,7 @@ Les Blancs font mat en 3 coups.
 ###Condom - EVT
 _Nationale 4, ronde 1 (2013/10/13)_
 
-##### &#9823;&#9823;&#9823;  **Dorival-Séguelong**, _Ech. 2_
+##### &#9823;&#9823;&#9823; ## **Dorival-Séguelong**, _Ech. 2_
 
 `3b1nk1/6p1/p2p1p2/2pP1BP1/2P4P/8/P7/K3B3 w - - 0 44`
 
