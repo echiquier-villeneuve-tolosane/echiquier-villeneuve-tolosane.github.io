@@ -9,9 +9,9 @@ title: Exercices et problèmes
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé.
 
 ### EVT - CEIT 3
-_tionale 4, ronde 4 (2014/01/12)_
+_Nationale 4, ronde 4 (2014/01/12)_
 
-##### &#9823; &#9823;  **Ouqabou-Dorival**, _Ech. 2_
+##### &#9823;&#9823;  **Ouqabou-Dorival**, _Ech. 2_
 
 `8/4n1P1/3p2k1/2pP1p2/2P2P1K/8/2B5/8 b - - 6 65`
 
