@@ -5,7 +5,8 @@ root: .
 title: Exercices et problèmes
 ---
 
-##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.**
+##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
+La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé.
 
 ### EVT - ###### EIT 3
 _Nationale 4, ronde 4 (2014/01/12)_
