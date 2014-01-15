@@ -75,6 +75,6 @@ Les Noirs viennent de jouer **44...g6??**. Si les Blancs jouent leur meilleur co
 
 ###Problèmes
 
-($$$$)![BT.tif](/images/BT.png)
+($$$$)![Difficulté : 5](/images/chesspieces/wikipedia/bR.png)
 `3brrb1/2N4B/8/2p4Q/2p2k2/5P2/4P1KR/2N2RB1 w - - 0 1`
 Les Blancs jouent et matent en deux coups.
