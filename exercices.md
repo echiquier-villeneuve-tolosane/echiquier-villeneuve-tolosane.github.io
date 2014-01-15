@@ -47,7 +47,7 @@ Les Noirs ont un mat en 5.
 ### EVT - Loures-Barousse 2
 _Nationale 4, ronde 2 (2013/11/24)_
 
-##### &#9823; &#9823; &#9823;  **Guillory-Dorival**, _Ech. 2_
+##### &#9823;&#9823;&#9823;  **Guillory-Dorival**, _Ech. 2_
 
 `r5k1/B3rpbp/1P4p1/8/6b1/4R3/PP2BKPP/3R4 b - - 6 24`
 
@@ -67,7 +67,7 @@ Les Blancs font mat en 3 coups.
 ###Condom - EVT
 _Nationale 4, ronde 1 (2013/10/13)_
 
-##### &#9823; &#9823; &#9823;  **Dorival-Séguelong**, _Ech. 2_
+##### &#9823;&#9823;&#9823;  **Dorival-Séguelong**, _Ech. 2_
 
 `3b1nk1/6p1/p2p1p2/2pP1BP1/2P4P/8/P7/K3B3 w - - 0 44`
 
