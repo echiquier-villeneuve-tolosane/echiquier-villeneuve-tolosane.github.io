@@ -37,11 +37,11 @@ _Ronde 2 (2013/12/06)_
 Les Noirs viennent de jouer **17...Fxa4??**. Les Blancs peuvent gagner une pièce.
 
 
-($$)   **Grassaud-Dorival**, _Ech. 2_
+($$$)   **Grassaud-Dorival**, _Ech. 2_
 
 `r4r1k/6bp/p3Q3/1pp5/4P2P/8/1PP1pqP1/6RK b - - 0 37`
 
-Les Noirs ont un mat en 5 (et même plusieurs !).
+Les Noirs ont un mat en 5.
 
 
 ### EVT - Loures-Barousse 2
