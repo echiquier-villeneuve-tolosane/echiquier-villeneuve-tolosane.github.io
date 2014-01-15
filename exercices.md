@@ -7,8 +7,7 @@ title: Exercices et problèmes
 
 **Au travail !!! Retrouvez dans cette rubrique les moments forts des parties de compétitions de l'EVT.**
 
-### EVT - CEIT 3
-_Nationale 4, ronde 4 (2014/01/12)_
+### EVT - CEIT 3 ###### _Nationale 4, ronde 4 (2014/01/12)_
 
 ##### &#9823;&#9823;  **Ouqabou-Dorival**, _Ech. 2_
 
