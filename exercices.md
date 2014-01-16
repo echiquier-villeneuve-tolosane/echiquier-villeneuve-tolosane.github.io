@@ -64,6 +64,12 @@ Les Noirs ont joué **24...Txe3** et les Blancs ont répliqué **25.Rxe3??** sur
 ### EVT - Ramonville
 _Coupe de France, 1er tour (2013/11/17)_
 
+##### &#9822;  **Dorival-Hoeltzel**, _Ech. 4_
+
+`1rb3k1/1p2b1pp/p1nqp3/2pp4/2P3n1/PPNBPr1P/1B3PP1/R2Q1RK1 w - - 0 14`
+
+Les Blancs ont tenté de repousser le cavalier noir par **13.h3**, sur quoi les Noirs ont continué l'attaque par **13...Txf3?!**. Comment les Blancs prennent-ils l'avantage ?
+
 ##### &#9820;  **Rich-Woloszyn**, _Ech. 1_
 
 `r3k1r1/p4p2/2p4p/P3p2q/2Q1Ppbb/1PN2N1P/5PPK/3R2R1 b q - 2 24`
