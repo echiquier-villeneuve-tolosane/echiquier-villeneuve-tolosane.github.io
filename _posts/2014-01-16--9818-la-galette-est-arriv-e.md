@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#9818; La galette des &#9812; est arrivée !"
+title: "La galette des rois est arrivée !"
 layout: default
 root: ../../..
 ---
