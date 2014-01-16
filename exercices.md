@@ -54,6 +54,16 @@ _Nationale 4, ronde 2 (2013/11/24)_
 
 Les Noirs ont joué **24...Txe3** et les Blancs ont répliqué **25.Rxe3??** sur quoi **25...Te8+** regagne une pièce pour compenser les pions blancs. Au lieu de cela, quel était le bon coup pour les Blancs ?
  
+ 
+### EVT - Ramonville
+_Coupe de France, 1er tour (2013/11/17)_
+
+##### &#9820;  **Rich-Woloszyn**, _Ech. 1_
+
+`r3k1r1/p4p2/2p4p/P3p2q/2Q1Ppbb/1PN2N1P/5PPK/3R2R1 b q - 2 24`
+
+Les Blancs pensent avoir résisté à l'attaque noire et viennent de sonner la contre-attaque avec **25.Dc4??**. Malheureusement c'était trop tôt, et les Noirs ont un coup gagnant.
+
 
 ###Tournoi Interne EVT
 _Ronde 1 (2013/11/15)_
