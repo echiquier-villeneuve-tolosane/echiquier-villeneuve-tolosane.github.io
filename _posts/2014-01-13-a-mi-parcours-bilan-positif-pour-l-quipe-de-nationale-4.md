@@ -1,6 +1,6 @@
 ---
 published: true
-title: "A mi-parcours, bilan positif pour l'équipe de Nationale 4"
+title: "&#9822; A mi-parcours, bilan positif pour l'équipe de Nationale 4"
 layout: default
 root: ../../..
 ---
