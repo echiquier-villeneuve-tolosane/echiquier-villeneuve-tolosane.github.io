@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#9819; Premiers diagrammes issues des parties de l'EVT !"
+title: "&#9820; Premiers diagrammes issues des parties de l'EVT !"
 layout: default
 root: ../../..
 ---
