@@ -2,7 +2,7 @@
 published: true
 layout: default
 root: ../../..
-title: La saison 2013 est lancée
+title: "&#9823; La saison 2013 est lancée"
 ---
 
 L'EVT a engagé cette année deux équipes:
