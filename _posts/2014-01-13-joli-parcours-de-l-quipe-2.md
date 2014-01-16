@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Joli parcours de l'équipe 2"
+title: "&#9819; Joli parcours de l'équipe 2"
 layout: default
 root: ../../..
 ---
