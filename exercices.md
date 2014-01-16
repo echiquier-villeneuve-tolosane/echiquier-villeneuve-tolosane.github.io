@@ -48,7 +48,7 @@ Les Noirs ont un mat en 5.
 ### EVT - Loures-Barousse 2
 _Nationale 4, ronde 2 (2013/11/24)_
 
-##### &#9820  **Guillory-Dorival**, _Ech. 2_
+##### &#9820;  **Guillory-Dorival**, _Ech. 2_
 
 `r5k1/B3rpbp/1P4p1/8/6b1/4R3/PP2BKPP/3R4 b - - 6 24`
 
