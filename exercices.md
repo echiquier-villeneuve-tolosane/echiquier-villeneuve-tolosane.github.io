@@ -48,12 +48,18 @@ Les Noirs ont un mat en 5.
 ### EVT - Loures-Barousse 2
 _Nationale 4, ronde 2 (2013/11/24)_
 
+##### &#9820;  **Rich-Roques**, _Ech. 1_
+
+`2r2rk1/1pqnbppp/p2p1n2/4pP2/2b1P1P1/1NN1B3/PPPQB2P/R4RK1 w - - 1 13`
+
+Les Noirs viennent de jouer **24...Tac8??**. Les Blancs peuvent gagner une pièce en profitant de la position exposée de la dame adverse.
+
 ##### &#9820;  **Guillory-Dorival**, _Ech. 2_
 
 `r5k1/B3rpbp/1P4p1/8/6b1/4R3/PP2BKPP/3R4 b - - 6 24`
 
 Les Noirs ont joué **24...Txe3** et les Blancs ont répliqué **25.Rxe3??** sur quoi **25...Te8+** regagne une pièce pour compenser les pions blancs. Au lieu de cela, quel était le bon coup pour les Blancs ?
- 
+  
  
 ### EVT - Ramonville
 _Coupe de France, 1er tour (2013/11/17)_
