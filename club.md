@@ -56,3 +56,43 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 | BREHAULT Eric                |     |      | GUERIN Laurent               |
 | DORIVAL Olivier              |     |      | LIDOINE Stéphane             |
 | COURET Henri                 |     |      | DOUSTENS Jean-Jacques        |
+
+| Ronde 5 (28/02 et 7/03)      |     |      |                              |
+| ---------------------------- |:---:| :---:| ---------------------------- |
+| LIDOINE Stéphane             |     |      | GARCIA DEL PRADO Bruno       |
+| BIGNEBAT Jean-Paul           |     |      | COURET Henri                 |
+| LAFFONT Jean-Christophe      |     |      | DORIVAL Olivier              |
+| GUERIN Laurent               |     |      | GRASSAUD Guillaume           |
+| DOUSTENS Jean-Jacques        |     |      | BREHAULT Eric                |
+
+| Ronde 6 (28/03 et 11/04)     |     |      |                              |
+| ---------------------------- |:---:| :---:| ---------------------------- |
+| GARCIA DEL PRADO Bruno       |     |      | COURET Henri                 |
+| GRASSAUD Guillaume           |     |      | DOUSTENS Jean-Jacques        |
+| BREHAULT Eric                |     |      | BIGNEBAT Jean-Paul           |
+| DORIVAL Olivier              |     |      | GUERIN Laurent               |
+| LIDOINE Stéphane             |     |      | LAFFONT Jean-Christophe      |
+
+| Ronde 7 (18/04 et 2/05)      |     |      |                              |
+| ---------------------------- |:---:| :---:| ---------------------------- |
+| COURET Henri                 |     |      | BREHAULT Eric                |
+| BIGNEBAT Jean-Paul           |     |      | GRASSAUD Guillaume           |
+| LAFFONT Jean-Christophe      |     |      | GARCIA DEL PRADO Bruno       |
+| GUERIN Laurent               |     |      | LIDOINE Stéphane             |
+| DOUSTENS Jean-Jacques        |     |      | DORIVAL Olivier              |
+
+| Ronde 8 (23/05 et 6/06)      |     |      |                              |
+| ---------------------------- |:---:| :---:| ---------------------------- |
+| GARCIA DEL PRADO Bruno       |     |      | BREHAULT Eric                |
+| GRASSAUD Guillaume           |     |      | COURET Henri                 |
+| DORIVAL Olivier              |     |      | BIGNEBAT Jean-Paul           |
+| LIDOINE Stéphane             |     |      | DOUSTENS Jean-Jacques        |
+| LAFFONT Jean-Christophe      |     |      | GUERIN Laurent               |
+
+| Ronde 9 (20/06 et 27/06)     |     |      |                              |
+| ---------------------------- |:---:| :---:| ---------------------------- |
+| BREHAULT Eric                |     |      | GRASSAUD Guillaume           |
+| COURET Henri                 |     |      | DORIVAL Olivier              |
+| BIGNEBAT Jean-Paul           |     |      | LIDOINE Stéphane             |
+| GUERIN Laurent               |     |      | GARCIA DEL PRADO Bruno       |
+| DOUSTENS Jean-Jacques        |     |      | LAFFONT Jean-Christophe      |
