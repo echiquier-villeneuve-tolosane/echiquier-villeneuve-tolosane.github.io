@@ -43,8 +43,16 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 
 | Ronde 3 (3/01 et 17/01)      |     |      |                              |
 | ---------------------------- |:---:| :---:| ---------------------------- |
-| DORIVAL Olivier              |     |      | GARCIA DEL PRADO Bruno       |
+| DORIVAL Olivier              | 1   | 0    | GARCIA DEL PRADO Bruno       |
 | LIDOINE Stéphane             |     |      | GRASSAUD Guillaume           |
-| LAFFONT Jean-Christophe      |     |      | BREHAULT Eric                |
-| GUERIN Laurent               |     |      | COURET Henri                 |
-| DOUSTENS Jean-Jacques        |     |      | BIGNEBAT Jean-Paul           |
+| LAFFONT Jean-Christophe      | 0   | 1    | BREHAULT Eric                |
+| GUERIN Laurent               | 1   | 0    | COURET Henri                 |
+| DOUSTENS Jean-Jacques        | 0   | 1    | BIGNEBAT Jean-Paul           |
+
+| Ronde 4 (24/01 et 7/02)      |     |      |                              |
+| ---------------------------- |:---:| :---:| ---------------------------- |
+| GARCIA DEL PRADO Bruno       |     |      | BIGNEBAT Jean-Paul           |
+| GRASSAUD Guillaume           |     |      | LAFFONT Jean-Christophe      |
+| BREHAULT Eric                |     |      | GUERIN Laurent               |
+| DORIVAL Olivier              |     |      | LIDOINE Stéphane             |
+| COURET Henri                 |     |      | DOUSTENS Jean-Jacques        |
