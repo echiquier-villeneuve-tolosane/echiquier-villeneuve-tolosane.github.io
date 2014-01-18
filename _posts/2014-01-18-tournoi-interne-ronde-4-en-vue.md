@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#9822; Tournoi Interne : Ronde 4 en vue !"
+title: "&#9821; Tournoi Interne : Ronde 4 en vue !"
 layout: default
 root: ../../..
 ---
