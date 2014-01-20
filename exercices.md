@@ -8,6 +8,18 @@ title: Exercices et problèmes
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé.
 
+
+
+### Tournoi Interne EVT
+_Ronde 3 (2014/01/17)_
+
+##### &#9820;  **Dorival-Garcia Del Prado**, _Ech. 1_
+
+`r1b1kr2/ppp1b1pp/2P2n2/4N1p1/2B5/2N5/PPP3PP/3RR2K w q - 5 17`
+
+L'égalité matérielle est toujours là et pourtant les Blancs ont sans conteste une position énorme. Dans la partie ils ont continué par **18.cxb7** et ont obtenu une qualité et une finale gagnante. Mais il y avait une suite bien plus forte. La voyez-vous ?
+
+
 ### EVT - CEIT 3
 _Nationale 4, ronde 4 (2014/01/12)_
 
