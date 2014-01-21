@@ -26,7 +26,7 @@ _Régionale 2, ronde 4 (2014/01/12)_
 
 `rr6/3k4/3pp2p/p4pp1/Np2n3/1PPRB1PP/P4P2/2K2R2 w - - 0 24`
 
-Les Blancs ont une pièce d'avance, mais ils peuvent encore augmenter leur avanatge matériel.
+Les Blancs ont une pièce d'avance, mais ils peuvent encore augmenter leur avantage matériel.
 
 ### EVT - CEIT 3
 _Nationale 4, ronde 4 (2014/01/12)_
