@@ -17,7 +17,7 @@ _Ronde 3 (2014/01/17)_
 
 `r3k3/pbp1b1p1/1p2pp1r/3qPnN1/5P2/P1NP1QP1/1P1B3P/R4RK1 b q - 0 21`
 
-La situation était jusque là complexe avec des forces et des faiblesses des deux cotés, mais les Blancs viennent de commettre l'irréparable en jouant **21.Cxc3??**. Comment les Noirs peuvent-ils profiter de la situation ? (Plusieurs suites sont possibles).
+La situation était jusque là complexe avec des forces et des faiblesses des deux cotés, mais les Blancs viennent de commettre l'irréparable en jouant **21.Ce4xc3??**. Comment les Noirs peuvent-ils profiter de la situation ? (Plusieurs suites sont possibles).
 
 ##### &#9820;  **Dorival-Garcia Del Prado**, _Ech. 1_
 
