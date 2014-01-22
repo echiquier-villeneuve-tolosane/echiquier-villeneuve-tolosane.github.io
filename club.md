@@ -56,3 +56,5 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*3*| [2] | BREHAULT Eric          |**-**|**-**| GUERIN Laurent          | [3] |
 |*4*| [1] | GRASSAUD Guillaume     |**-**|**-**| LAFFONT Jean-Christophe | [1] |
 |*5*| [3] | DORIVAL Olivier        |**-**|**-**| LIDOINE Stéphane        |[0,5]|
+
+
