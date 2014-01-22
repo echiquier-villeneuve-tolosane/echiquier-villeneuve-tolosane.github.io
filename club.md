@@ -33,13 +33,13 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |4| [0] | LAFFONT Jean-Christophe    | 0   | 1    | BIGNEBAT Jean-Paul        | [0] |
 |5| [0] | GUERIN Laurent             | 1   | 0    | DOUSTENS Jean-Jacques     | [0] |
 
-| Ronde 2 (6/12 et 27/12)      |     |      |                              |
-| ---------------------------- |:---:| :---:| ---------------------------- |
-| GARCIA DEL PRADO Bruno       | 1   | 0    | DOUSTENS Jean-Jacques        |
-| GRASSAUD Guillaume           | 0   | 1    | DORIVAL Olivier              |
-| BREHAULT Eric                | 1   | 0    | LIDOINE Stéphane             |
-| COURET Henri                 | 0   | 1    | LAFFONT Jean-Christophe      |
-| BIGNEBAT Jean-Paul           | 0   | 1    | GUERIN Laurent               |
+|Ech |     | Ronde 2                 |     |      |  (6/12 et 27/12)          |     |
+|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|1| [0] | GARCIA DEL PRADO Bruno     | 1   | 0    | DOUSTENS Jean-Jacques     | [0] |
+|2| [1] | BIGNEBAT Jean-Paul         | 0   | 1    | GUERIN Laurent            | [1] |
+|3| [0,5] | COURET Henri             | 0   | 1    | LAFFONT Jean-Christophe   | [0] |
+|4| [0] | BREHAULT Eric              | 1   | 0    | LIDOINE Stéphane          |[0,5]|
+|5| [1] | GRASSAUD Guillaume         | 0   | 1    | DORIVAL Olivier           | [1] |
 
 | Ronde 3 (3/01 et 17/01)      |     |      |                              |
 | ---------------------------- |:---:| :---:| ---------------------------- |
