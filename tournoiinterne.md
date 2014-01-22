@@ -1,3 +1,10 @@
+---
+layout: default
+root: .
+title: Tournoi interne
+published: true
+---
+
 ## Le classement du tourni interne après la ronde 3 ##
 
 |*Pl*| Joueur  |*ELO (R1)*|1|2|3|4|5|6|7|8|9|10|**Pts** | *J* | Cu. | Bu. | Perf. |
