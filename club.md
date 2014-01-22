@@ -44,7 +44,7 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*Ech*|     | **Ronde 3**        |     |     |  (3/01 et 17/01)          |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
 |*1*| [2] | DORIVAL Olivier      |**1**|**0**| GARCIA DEL PRADO Bruno    | [1] |
-|*2*|[0,5]| LIDOINE Stéphane     |     |     | GRASSAUD Guillaume        | [1] |
+|*2*|[0,5]| LIDOINE Stéphane     |**-**|**-**| GRASSAUD Guillaume        | [1] |
 |*3*| [1] | LAFFONT Jean-Christophe  |**0**|**1**| BREHAULT Eric         | [1] |
 |*4*| [2] | GUERIN Laurent           |**1**|**0**| COURET Henri          |[0,5]|
 |*5*| [0] | DOUSTENS Jean-Jacques    |**0**|**1**| BIGNEBAT Jean-Paul    | [1] |
