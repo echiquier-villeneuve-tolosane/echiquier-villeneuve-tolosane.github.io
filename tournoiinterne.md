@@ -17,7 +17,7 @@
 |*5*| [1] | GRASSAUD Guillaume        |**0**|**1**| DORIVAL Olivier           | [1] |
 
 |*Ech*|     | **Ronde 3**            |     |     |  (3/01 et 17/01)          |     |
-|-|-----| -------------------------- |:---:|:---:| ------------------------- |-----|
+|:-:|:-:| -------------------------- |:---:|:---:| ------------------------- |:---:|
 |*1*| [2] | DORIVAL Olivier           |**1**|**0**| GARCIA DEL PRADO Bruno    | [1] |
 |*2*|[0,5]| LIDOINE Stéphane          |     |     | GRASSAUD Guillaume        | [1] |
 |*3*| [1] | LAFFONT Jean-Christophe   |**0**|**1**| BREHAULT Eric             | [1] |
