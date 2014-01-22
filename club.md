@@ -49,4 +49,10 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*4*| [2] | GUERIN Laurent           |**1**|**0**| COURET Henri          |[0,5]|
 |*5*| [0] | DOUSTENS Jean-Jacques    |**0**|**1**| BIGNEBAT Jean-Paul    | [1] |
 
-toto
+|*Ech*|   | **Ronde 4**          |     |     |  (24/01 et 7/02)          |     |
+|:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
+|*1*| [1] | GARCIA DEL PRADO Bruno    | .| .| BIGNEBAT Jean-Paul        | [2] |
+|*2*|[0,5]| COURET Henri              | | | DOUSTENS Jean-Jacques     | [0] |
+|*3*| [2] | BREHAULT Eric             | | | GUERIN Laurent            | [3] |
+|*4*| [1] | GRASSAUD Guillaume        | | | LAFFONT Jean-Christophe   | [1] |
+|*5*| [3] | DORIVAL Olivier           | | | LIDOINE Stéphane          |[0,5]|
