@@ -89,11 +89,4 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*4*| [ ] | LIDOINE Stéphane        |**-**|**-**| DOUSTENS Jean-Jacques  | [ ] |
 |*5*| [ ] | LAFFONT Jean-Christophe |**-**|**-**| GUERIN Laurent         | [ ] |
 
-|*Ech*|   | **Ronde 9**            |     |     |  (20/06 et 27/06)       |     |
-|:-:|:---:| ---------------------- |:---:|:---:| ----------------------- |:---:|
-|*1*| [ ] | GUERIN Laurent         |**-**|**-**| GARCIA DEL PRADO Bruno  | [ ] |
-|*2*| [ ] | DOUSTENS Jean-Jacques  |**-**|**-**| LAFFONT Jean-Christophe | [ ] |
-|*3*| [ ] | BIGNEBAT Jean-Paul     |**-**|**-**| LIDOINE Stéphane        | [ ] |
-|*4*| [ ] | COURET Henri           |**-**|**-**| DORIVAL Olivier         | [ ] |
-|*5*| [ ] | BREHAULT Eric          |**-**|**-**| GRASSAUD Guillaume      | [ ] |
-
+toto1
