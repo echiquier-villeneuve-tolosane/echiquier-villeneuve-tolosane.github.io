@@ -57,42 +57,42 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |4| [1] | GRASSAUD Guillaume         |     |      | LAFFONT Jean-Christophe   | [1] |
 |5| [3] | DORIVAL Olivier            |     |      | LIDOINE Stéphane          |[0,5]|
 
-| Ronde 5 (28/02 et 7/03)      |     |      |                              |
-| ---------------------------- |:---:| :---:| ---------------------------- |
-| LIDOINE Stéphane             |     |      | GARCIA DEL PRADO Bruno       |
-| BIGNEBAT Jean-Paul           |     |      | COURET Henri                 |
-| LAFFONT Jean-Christophe      |     |      | DORIVAL Olivier              |
-| GUERIN Laurent               |     |      | GRASSAUD Guillaume           |
-| DOUSTENS Jean-Jacques        |     |      | BREHAULT Eric                |
+|Ech |     | Ronde 5                 |     |      |  (28/02 et 7/03)          |     |
+|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|1| [ ] | LIDOINE Stéphane           |     |      | GARCIA DEL PRADO Bruno    | [ ] |
+|2| [ ] | LAFFONT Jean-Christophe    |     |      | DORIVAL Olivier           | [ ] |
+|3| [ ] | GUERIN Laurent             |     |      | GRASSAUD Guillaume        | [ ] |
+|4| [ ] | DOUSTENS Jean-Jacques      |     |      | BREHAULT Eric             | [ ] |
+|5| [ ] | BIGNEBAT Jean-Paul         |     |      | COURET Henri              | [ ] |
 
-| Ronde 6 (28/03 et 11/04)     |     |      |                              |
-| ---------------------------- |:---:| :---:| ---------------------------- |
-| GARCIA DEL PRADO Bruno       |     |      | COURET Henri                 |
-| GRASSAUD Guillaume           |     |      | DOUSTENS Jean-Jacques        |
-| BREHAULT Eric                |     |      | BIGNEBAT Jean-Paul           |
-| DORIVAL Olivier              |     |      | GUERIN Laurent               |
-| LIDOINE Stéphane             |     |      | LAFFONT Jean-Christophe      |
+|Ech |     | Ronde 6                 |     |      |  (28/03 et 11/04)         |     |
+|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|1| [ ] | GARCIA DEL PRADO Bruno     |     |      | COURET Henri              | [ ] |
+|2| [ ] | BREHAULT Eric              |     |      | BIGNEBAT Jean-Paul        | [ ] |
+|3| [ ] | GRASSAUD Guillaume         |     |      | DOUSTENS Jean-Jacques     | [ ] |
+|4| [ ] | DORIVAL Olivier            |     |      | GUERIN Laurent            | [ ] |
+|5| [ ] | LIDOINE Stéphane           |     |      | LAFFONT Jean-Christophe   | [ ] |
 
-| Ronde 7 (18/04 et 2/05)      |     |      |                              |
-| ---------------------------- |:---:| :---:| ---------------------------- |
-| COURET Henri                 |     |      | BREHAULT Eric                |
-| BIGNEBAT Jean-Paul           |     |      | GRASSAUD Guillaume           |
-| LAFFONT Jean-Christophe      |     |      | GARCIA DEL PRADO Bruno       |
-| GUERIN Laurent               |     |      | LIDOINE Stéphane             |
-| DOUSTENS Jean-Jacques        |     |      | DORIVAL Olivier              |
+|Ech |     | Ronde 7                 |     |      |  (18/04 et 2/05)          |     |
+|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|1| [ ] | LAFFONT Jean-Christophe    |     |      | GARCIA DEL PRADO Bruno    | [ ] |
+|2| [ ] | GUERIN Laurent             |     |      | LIDOINE Stéphane          | [ ] |
+|3| [ ] | DOUSTENS Jean-Jacques      |     |      | DORIVAL Olivier           | [ ] |
+|4| [ ] | BIGNEBAT Jean-Paul         |     |      | GRASSAUD Guillaume        | [ ] |
+|5| [ ] | COURET Henri               |     |      | BREHAULT Eric             | [ ] |
 
-| Ronde 8 (23/05 et 6/06)      |     |      |                              |
-| ---------------------------- |:---:| :---:| ---------------------------- |
-| GARCIA DEL PRADO Bruno       |     |      | BREHAULT Eric                |
-| GRASSAUD Guillaume           |     |      | COURET Henri                 |
-| DORIVAL Olivier              |     |      | BIGNEBAT Jean-Paul           |
-| LIDOINE Stéphane             |     |      | DOUSTENS Jean-Jacques        |
-| LAFFONT Jean-Christophe      |     |      | GUERIN Laurent               |
+|Ech |     | Ronde 8                 |     |      |  (23/05 et 6/06)          |     |
+|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|1| [ ] | GARCIA DEL PRADO Bruno     |     |      | BREHAULT Eric             | [ ] |
+|2| [ ] | GRASSAUD Guillaume         |     |      | COURET Henri              | [ ] |
+|3| [ ] | DORIVAL Olivier            |     |      | BIGNEBAT Jean-Paul        | [ ] |
+|4| [ ] | LIDOINE Stéphane           |     |      | DOUSTENS Jean-Jacques     | [ ] |
+|5| [ ] | LAFFONT Jean-Christophe    |     |      | GUERIN Laurent            | [ ] |
 
-| Ronde 9 (20/06 et 27/06)     |     |      |                              |
-| ---------------------------- |:---:| :---:| ---------------------------- |
-| BREHAULT Eric                |     |      | GRASSAUD Guillaume           |
-| COURET Henri                 |     |      | DORIVAL Olivier              |
-| BIGNEBAT Jean-Paul           |     |      | LIDOINE Stéphane             |
-| GUERIN Laurent               |     |      | GARCIA DEL PRADO Bruno       |
-| DOUSTENS Jean-Jacques        |     |      | LAFFONT Jean-Christophe      |
+|Ech |     | Ronde 9                 |     |      |  (20/06 et 27/06)          |     |
+|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|1| [ ] | GUERIN Laurent             |     |      | GARCIA DEL PRADO Bruno    | [ ] |
+|2| [ ] | DOUSTENS Jean-Jacques      |     |      | LAFFONT Jean-Christophe   | [ ] |
+|3| [ ] | BIGNEBAT Jean-Paul         |     |      | LIDOINE Stéphane          | [ ] |
+|4| [ ] | COURET Henri               |     |      | DORIVAL Olivier           | [ ] |
+|5| [ ] | BREHAULT Eric              |     |      | GRASSAUD Guillaume        | [ ] |
