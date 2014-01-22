@@ -8,6 +8,6 @@ published: true
 En conssssstruction.
 
 |*Pl*| **Joueurs**  | *ELO*          |
-|:--:|:------------ | -------------- |
+|:--:|:------------ |:--------------:|
 |*1* | DORIVAL Olivier | *1730*      |
 
