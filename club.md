@@ -64,4 +64,3 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*3*| [ ] | GUERIN Laurent          |**-**|**-**| GRASSAUD Guillaume     | [ ] |
 |*4*| [ ] | DOUSTENS Jean-Jacques   |**-**|**-**| BREHAULT Eric          | [ ] |
 |*5*| [ ] | BIGNEBAT Jean-Paul      |**-**|**-**| COURET Henri           | [ ] |
-
