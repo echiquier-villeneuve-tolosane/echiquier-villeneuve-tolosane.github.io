@@ -86,12 +86,3 @@ published: true
 |*3*| [ ] | DORIVAL Olivier         |**-**|**-**| BIGNEBAT Jean-Paul     | [ ] |
 |*4*| [ ] | LIDOINE Stéphane        |**-**|**-**| DOUSTENS Jean-Jacques  | [ ] |
 |*5*| [ ] | LAFFONT Jean-Christophe |**-**|**-**| GUERIN Laurent         | [ ] |
-
-|*Ech*|   | **Ronde 9**            |     |     |  (20/06 et 27/06)       |     |
-|:-:|:---:| ---------------------- |:---:|:---:| ----------------------- |:---:|
-|*1*| [ ] | GUERIN Laurent         |**-**|**-**| GARCIA DEL PRADO Bruno  | [ ] |
-|*2*| [ ] | DOUSTENS Jean-Jacques  |**-**|**-**| LAFFONT Jean-Christophe | [ ] |
-|*3*| [ ] | BIGNEBAT Jean-Paul     |**-**|**-**| LIDOINE Stéphane        | [ ] |
-|*4*| [ ] | COURET Henri           |**-**|**-**| DORIVAL Olivier         | [ ] |
-|*5*| [ ] | BREHAULT Eric          |**-**|**-**| GRASSAUD Guillaume      | [ ] |
-
