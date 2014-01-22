@@ -5,6 +5,8 @@ title: Tournoi interne
 published: true
 ---
 
+Après la ronde 3, le classement provisoire est le suivant :
+
 |*Pl*|  **Joueur** |   *ELO *          |1 |2 |3 |4 |5 |6 |7 |8 |9 |10|**Pts**|*Cu.*|*Bu.*|*Perf.*|
 |:-:|:------------------------ |:---------: |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |*1*| DORIVAL Olivier         | *1730* |&#10022;| | |1|1|1| | | | |**3**|*6*|*4,5*|*-*|
