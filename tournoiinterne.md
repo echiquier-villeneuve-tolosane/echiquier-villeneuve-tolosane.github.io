@@ -5,7 +5,7 @@ title: Tournoi interne
 published: true
 ---
 
-### Classement provisoire
+**Classement provisoire**
 
 Après la ronde 3, le classement provisoire est le suivant :
 
@@ -23,4 +23,3 @@ Après la ronde 3, le classement provisoire est le suivant :
 |*10*| DOUSTENS Jean-Jacques  | *1550* | |0|0| | |0| | | |&#10022;|**0**|*0*|*6*|*-*|
 
 toto
-
