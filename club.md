@@ -65,10 +65,10 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*4*| [ ] | DOUSTENS Jean-Jacques   |**-**|**-**| BREHAULT Eric          | [ ] |
 |*5*| [ ] | BIGNEBAT Jean-Paul      |**-**|**-**| COURET Henri           | [ ] |
 
-|*Ech*|   | **Ronde 5**             |     |     |  (28/02 et 7/03)       |     |
-|:-:|:---:| ----------------------- |:---:|:---:| ---------------------- |:---:|
-|*1*| [ ] | LIDOINE Stéphane        |**-**|**-**| GARCIA DEL PRADO Bruno | [ ] |
-|*2*| [ ] | LAFFONT Jean-Christophe |**-**|**-**| DORIVAL Olivier        | [ ] |
-|*3*| [ ] | GUERIN Laurent          |**-**|**-**| GRASSAUD Guillaume     | [ ] |
-|*4*| [ ] | DOUSTENS Jean-Jacques   |**-**|**-**| BREHAULT Eric          | [ ] |
-|*5*| [ ] | BIGNEBAT Jean-Paul      |**-**|**-**| COURET Henri           | [ ] |
+|*Ech*|   | **Ronde 6**          |     |     |  (28/03 et 11/04)         |     |
+|:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
+|*1*| [ ] | GARCIA DEL PRADO Bruno    |**-**|**-**| COURET Henri         | [ ] |
+|*2*| [ ] | BREHAULT Eric        |**-**|**-**| BIGNEBAT Jean-Paul        | [ ] |
+|*3*| [ ] | GRASSAUD Guillaume   |**-**|**-**| DOUSTENS Jean-Jacques     | [ ] |
+|*4*| [ ] | DORIVAL Olivier      |**-**|**-**| GUERIN Laurent            | [ ] |
+|*5*| [ ] | LIDOINE Stéphane     |**-**|**-**| LAFFONT Jean-Christophe   | [ ] |
