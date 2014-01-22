@@ -73,6 +73,4 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*4*| [ ] | DORIVAL Olivier      |**-**|**-**| GUERIN Laurent            | [ ] |
 |*5*| [ ] | LIDOINE Stéphane     |**-**|**-**| LAFFONT Jean-Christophe   | [ ] |
 
-|*Ech*|     | **Ronde 8**          |     |     |  (23/05 et 6/06)        |     |
-|:-:|:---:| ---------------------- |:---:|:---:| ----------------------- |:---:|
-|*1*| [ ] | GARCIA DEL PRADO Bruno |**-**|**-**| BREHAULT Eric           | [ ] |
+toto
