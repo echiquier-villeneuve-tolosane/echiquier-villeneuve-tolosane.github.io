@@ -22,5 +22,5 @@ Après la ronde 3, le classement provisoire est le suivant :
 |*9*| LIDOINE Stéphane        | *1220* | | | |0| | | |&#189;|&#10022;| |**0,5**|*1,5*|*2,5*|*-*|
 |*10*| DOUSTENS Jean-Jacques  | *1550* | |0|0| | |0| | | |&#10022;|**0**|*0*|*6*|*-*|
 
-### Le détail ronde après ronde
+toto
 
