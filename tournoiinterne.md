@@ -7,6 +7,6 @@ published: true
 
 En conssssstruction.
 
-|*Pl*|  **Joueur** | **ELO**     |     |     |  (28/02 et 7/03)          |     |
-|:-:|:------------:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*1*| [ ] | LIDOINE Stéphane        |**-**|**-**| GARCIA DEL PRADO Bruno | [ ] |
+|*Pl*|  **Joueur** |   *ELO (R1)*     |
+|:-:|:------------ |:----------------:|
+|*1*| DORIVAL Olivier       | *1730* |
