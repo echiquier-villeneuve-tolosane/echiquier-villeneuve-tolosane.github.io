@@ -6,6 +6,7 @@ published: true
 ---
 
 ### Classement provisoire
+
 Après la ronde 3, le classement provisoire est le suivant :
 
 |*Pl*|  **Joueur** |   *ELO *          |1 |2 |3 |4 |5 |6 |7 |8 |9 |10|**Pts**|*Cu.*|*Bu.*|*Perf.*|
