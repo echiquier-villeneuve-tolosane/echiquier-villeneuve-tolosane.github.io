@@ -81,4 +81,12 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*4*| [ ] | BIGNEBAT Jean-Paul      |**-**|**-**| GRASSAUD Guillaume     | [ ] |
 |*5*| [ ] | COURET Henri            |**-**|**-**| BREHAULT Eric          | [ ] |
 
-toto2
+|*Ech*|     | **Ronde 8**           |     |     |  (23/05 et 6/06)       |     |
+|:-:|:---:| ----------------------- |:---:|:---:| ---------------------- |:---:|
+|*1*| [ ] | GARCIA DEL PRADO Bruno  |**-**|**-**| BREHAULT Eric          | [ ] |
+|*2*| [ ] | GRASSAUD Guillaume      |**-**|**-**| COURET Henri           | [ ] |
+|*3*| [ ] | DORIVAL Olivier         |**-**|**-**| BIGNEBAT Jean-Paul     | [ ] |
+|*4*| [ ] | LIDOINE Stéphane        |**-**|**-**| DOUSTENS Jean-Jacques  | [ ] |
+|*5*| [ ] | LAFFONT Jean-Christophe |**-**|**-**| GUERIN Laurent         | [ ] |
+
+
