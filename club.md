@@ -51,10 +51,18 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 
 |*Ech*|     | **Ronde 4**        |     |     |  (24/01 et 7/02)          |     |
 |:-:|:-:| ---------------------- |:---:|:---:| ------------------------- |:---:|
-|*1*| [1] | GARCIA DEL PRADO Bruno    | 2| 2| BIGNEBAT Jean-Paul        | [2] |
+|*1*| [1] | GARCIA DEL PRADO Bruno    | | | BIGNEBAT Jean-Paul        | [2] |
 |*2*|[0,5]| COURET Henri              | | | DOUSTENS Jean-Jacques     | [0] |
 |*3*| [2] | BREHAULT Eric             | | | GUERIN Laurent            | [3] |
 |*4*| [1] | GRASSAUD Guillaume        | | | LAFFONT Jean-Christophe   | [1] |
 |*5*| [3] | DORIVAL Olivier           | | | LIDOINE Stéphane          |[0,5]|
+
+|*Ech*|     | **Ronde 5**        |     |     |  (28/02 et 7/03)          |     |
+|:-:|:-:| ---------------------- |:---:|:---:| ------------------------- |:---:|
+|*1*| [ ] | LIDOINE Stéphane     | | | GARCIA DEL PRADO Bruno    | [ ] |
+|*2*| [ ] | LAFFONT Jean-Christophe   | | | DORIVAL Olivier      | [ ] |
+|*3*| [ ] | GUERIN Laurent       | | | GRASSAUD Guillaume        | [ ] |
+|*4*| [ ] | DOUSTENS Jean-Jacques | | | BREHAULT Eric            | [ ] |
+|*5*| [ ] | BIGNEBAT Jean-Paul   | | | COURET Henri              | [ ] |
 
 
