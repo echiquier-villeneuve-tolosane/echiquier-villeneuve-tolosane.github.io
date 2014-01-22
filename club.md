@@ -25,7 +25,7 @@ Cette année, le **Tournoi Interne** est un Open - toutes rondes à 10 joueurs.
 
 La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 15min + 30s/c.
 
-| |     | Ronde 1 (15/11)            |     |      |                           |     |
+|Ech |     | Ronde 1                 |     |      |  (15/11)                  |     |
 |-|-----|----------------------------|:---:| :---:| --------------------------|-----|
 |1| [0] | GRASSAUD Guillaume         | 1   | 0    | GARCIA DEL PRADO Bruno    | [0] |
 |2| [0] | DORIVAL Olivier            | 1   | 0    | BREHAULT Eric             | [0] |
