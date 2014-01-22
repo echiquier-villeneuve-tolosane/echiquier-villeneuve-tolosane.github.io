@@ -5,7 +5,7 @@ title: Tournoi interne
 published: true
 ---
 
-**Le classement provisoire (après la ronde 3)**
+### Le classement provisoire (après la ronde 3)
 
 |*Pl*|  **Joueur** |   *ELO *          |1 |2 |3 |4 |5 |6 |7 |8 |9 |10|**Pts**|*Cu.*|*Bu.*|*Perf.*|
 |:-:|:------------------------ |:---------: |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -20,7 +20,7 @@ published: true
 |*9*| LIDOINE Stéphane        | *1220* | | | |0| | | |&#189;|&#10022;| |**0,5**|*1,5*|*2,5*|*-*|
 |*10*| DOUSTENS Jean-Jacques  | *1550* | |0|0| | |0| | | |&#10022;|**0**|*0*|*6*|*-*|
 
-**Le détail, ronde après ronde**
+### Le détail, ronde après ronde**
 
 |*Ech*|     | **Ronde 1**        |     |     |  (15/11)                  |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
