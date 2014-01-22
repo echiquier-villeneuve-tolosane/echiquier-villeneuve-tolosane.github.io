@@ -22,3 +22,5 @@ published: true
 |*10*| DOUSTENS Jean-Jacques  | *1550* | |0|0| | |0| | | |&#10022;|**0**|*0*|*6*|*-*|
 
 **Le détail, ronde après ronde**
+
+
