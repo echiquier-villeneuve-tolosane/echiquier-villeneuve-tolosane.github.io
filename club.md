@@ -72,11 +72,3 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*3*| [ ] | GRASSAUD Guillaume   |**-**|**-**| DOUSTENS Jean-Jacques     | [ ] |
 |*4*| [ ] | DORIVAL Olivier      |**-**|**-**| GUERIN Laurent            | [ ] |
 |*5*| [ ] | LIDOINE Stéphane     |**-**|**-**| LAFFONT Jean-Christophe   | [ ] |
-
-|*Ech*|     | **Ronde 7**       |     |      |  (18/04 et 2/05)          |     |
-|:-:|:---:| ------------------- |:---:| :---:| ------------------------- |:---:|
-|*1*| [ ] | LAFFONT Jean-Christophe |**-**|**-**| GARCIA DEL PRADO Bruno | [ ] |
-|*2*| [ ] | GUERIN Laurent          |**-**|**-**| LIDOINE Stéphane       | [ ] |
-|*3*| [ ] | DOUSTENS Jean-Jacques   |**-**|**-**| DORIVAL Olivier        | [ ] |
-|*4*| [ ] | BIGNEBAT Jean-Paul      |**-**|**-**| GRASSAUD Guillaume     | [ ] |
-|*5*| [ ] | COURET Henri            |**-**|**-**| BREHAULT Eric          | [ ] |
