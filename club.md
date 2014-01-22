@@ -74,3 +74,4 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |*5*| [ ] | LIDOINE Stéphane     |**-**|**-**| LAFFONT Jean-Christophe   | [ ] |
 
 toto
+
