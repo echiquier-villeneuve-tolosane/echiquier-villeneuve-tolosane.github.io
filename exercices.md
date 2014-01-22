@@ -58,14 +58,14 @@ _Nationale 4, ronde 3 (2013/12/15)_
 ### Tournoi Interne EVT
 _Ronde 2 (2013/12/06)_
 
-##### &#9822;   **Grassaud-Dorival**, _Ech. 2_
+##### &#9822;   **Grassaud-Dorival**, _Ech. 5_
 
 `r4rk1/3qbppp/pp2pn2/2p3B1/b1B1PQ2/3P2NP/1PP3P1/R3R2K w - - 0 17`
 
 &#9675; Les Noirs viennent de jouer **17...Fxa4??**. Les Blancs peuvent gagner une pièce.
 
 
-##### &#9820;   **Grassaud-Dorival**, _Ech. 2_
+##### &#9820;   **Grassaud-Dorival**, _Ech. 5_
 
 `r4r1k/6bp/p3Q3/1pp5/4P2P/8/1PP1pqP1/6RK b - - 0 37`
 
