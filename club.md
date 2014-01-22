@@ -96,3 +96,18 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |3| [ ] | BIGNEBAT Jean-Paul         |     |      | LIDOINE Stéphane          | [ ] |
 |4| [ ] | COURET Henri               |     |      | DORIVAL Olivier           | [ ] |
 |5| [ ] | BREHAULT Eric              |     |      | GRASSAUD Guillaume        | [ ] |
+
+## Le classement du tourni interne après la ronde 3 ##
+
+|*Pl*| Joueur  |*ELO (R1)*|1|2|3|4|5|6|7|8|9|10|**Pts** | *J* | Cu. | Bu. | Perf. |
+|:--:|:------------- |:--------:|| | | | | | | | ||:---|:---:|:---:|:---:|:-----:|
+|*1* | Olivier Dorival  |  *1730*  |-|||1|1|1|||||  **3**  | *3* | 6   | 4.5 |  2246 |
+|*2* | Laurent Guérin   |  *1650*  ||-|1|||||1||1|  **3**  | *3* | 6   | 2.5 |  2116 |
+|*3* | Jean-Paul Bignebat |*1510*  ||0|-||||1|||1|  **2**  | *3* | 4   | 4   |  1695 |
+|*4* | Eric Brehault |  *1440*  |0|||-|||1||1||  **2**  | *3* | 3   | 5   |  1611 |
+|*5* | Guillaume Grassaud | *1699*  |0||||-|1||||1|  **1**  | *2* | 3   | 4   |  1746 |
+|*6* | Bruno Garcia Del Prado     |  *1759*  |0||||0|-||||1|  **1**  | *3* | 2   | 4.5 |  1526 |
+|*7* | Jean-Christophe Laffont    |  *1521*  |||0|0|||-|1|||  **1**  | *3* | 2   | 4.5 |  1332 |
+|*8* | Henri Couret               |  *1410*  ||0|||||0|-|1/2|| **0,5** | *3* | 1,5 | 5   |  1191 |
+|*9* | Stéphane Lidoine           |  *1220*  ||||0||||1/2|-|| **0,5** | *2* | 1,5 | 2.5 |  1236 |
+|*10*| Jean-Jacques Doustens      |  *1550*  ||0|0|||0||||-|  **0**  | *3* | 0   | 6   |  1014 |
