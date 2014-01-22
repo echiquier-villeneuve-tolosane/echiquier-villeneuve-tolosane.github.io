@@ -26,7 +26,7 @@ Cette année, le **Tournoi Interne** est un Open - toutes rondes à 10 joueurs.
 La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 15min + 30s/c.
 
 |Ech |     | Ronde 1                 |     |      |  (15/11)                  |     |
-|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|:-:|:-:| -------------------------- |:---:| :---:| ------------------------- |:---:|
 |1| [0] | GRASSAUD Guillaume         | 1   | 0    | GARCIA DEL PRADO Bruno    | [0] |
 |2| [0] | DORIVAL Olivier            | 1   | 0    | BREHAULT Eric             | [0] |
 |3| [0] | LIDOINE Stéphane           | 1/2 | 1/2  | COURET Henri              | [0] |
@@ -34,7 +34,7 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |5| [0] | GUERIN Laurent             | 1   | 0    | DOUSTENS Jean-Jacques     | [0] |
 
 |Ech |     | Ronde 2                 |     |      |  (6/12 et 27/12)          |     |
-|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|:-:|:-:| -------------------------- |:---:| :---:| ------------------------- |:---:|
 |1| [0] | GARCIA DEL PRADO Bruno     | 1   | 0    | DOUSTENS Jean-Jacques     | [0] |
 |2| [1] | BIGNEBAT Jean-Paul         | 0   | 1    | GUERIN Laurent            | [1] |
 |3| [0,5] | COURET Henri             | 0   | 1    | LAFFONT Jean-Christophe   | [0] |
@@ -50,7 +50,7 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |5| [0] | DOUSTENS Jean-Jacques      | 0   | 1    | BIGNEBAT Jean-Paul        | [1] |
 
 |Ech |     | Ronde 4                 |     |      |  (24/01 et 7/02)          |     |
-|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|:-:|:-:| -------------------------- |:---:| :---:| ------------------------- |:---:|
 |1| [1] | GARCIA DEL PRADO Bruno     |     |      | BIGNEBAT Jean-Paul        | [2] |
 |2|[0,5]| COURET Henri               |     |      | DOUSTENS Jean-Jacques     | [0] |
 |3| [2] | BREHAULT Eric              |     |      | GUERIN Laurent            | [3] |
@@ -58,7 +58,7 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |5| [3] | DORIVAL Olivier            |     |      | LIDOINE Stéphane          |[0,5]|
 
 |Ech |     | Ronde 5                 |     |      |  (28/02 et 7/03)          |     |
-|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|:-:|:-:| -------------------------- |:---:| :---:| ------------------------- |:---:|
 |1| [ ] | LIDOINE Stéphane           |     |      | GARCIA DEL PRADO Bruno    | [ ] |
 |2| [ ] | LAFFONT Jean-Christophe    |     |      | DORIVAL Olivier           | [ ] |
 |3| [ ] | GUERIN Laurent             |     |      | GRASSAUD Guillaume        | [ ] |
@@ -66,7 +66,7 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |5| [ ] | BIGNEBAT Jean-Paul         |     |      | COURET Henri              | [ ] |
 
 |Ech |     | Ronde 6                 |     |      |  (28/03 et 11/04)         |     |
-|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|:-:|:-:| -------------------------- |:---:| :---:| ------------------------- |:---:|
 |1| [ ] | GARCIA DEL PRADO Bruno     |     |      | COURET Henri              | [ ] |
 |2| [ ] | BREHAULT Eric              |     |      | BIGNEBAT Jean-Paul        | [ ] |
 |3| [ ] | GRASSAUD Guillaume         |     |      | DOUSTENS Jean-Jacques     | [ ] |
@@ -74,7 +74,7 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |5| [ ] | LIDOINE Stéphane           |     |      | LAFFONT Jean-Christophe   | [ ] |
 
 |Ech |     | Ronde 7                 |     |      |  (18/04 et 2/05)          |     |
-|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|:-:|:-:| -------------------------- |:---:| :---:| ------------------------- |:---:|
 |1| [ ] | LAFFONT Jean-Christophe    |     |      | GARCIA DEL PRADO Bruno    | [ ] |
 |2| [ ] | GUERIN Laurent             |     |      | LIDOINE Stéphane          | [ ] |
 |3| [ ] | DOUSTENS Jean-Jacques      |     |      | DORIVAL Olivier           | [ ] |
@@ -82,15 +82,15 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |5| [ ] | COURET Henri               |     |      | BREHAULT Eric             | [ ] |
 
 |Ech |     | Ronde 8                 |     |      |  (23/05 et 6/06)          |     |
-|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|:-:|:-:| -------------------------- |:---:| :---:| ------------------------- |:---:|
 |1| [ ] | GARCIA DEL PRADO Bruno     |     |      | BREHAULT Eric             | [ ] |
 |2| [ ] | GRASSAUD Guillaume         |     |      | COURET Henri              | [ ] |
 |3| [ ] | DORIVAL Olivier            |     |      | BIGNEBAT Jean-Paul        | [ ] |
 |4| [ ] | LIDOINE Stéphane           |     |      | DOUSTENS Jean-Jacques     | [ ] |
 |5| [ ] | LAFFONT Jean-Christophe    |     |      | GUERIN Laurent            | [ ] |
 
-|Ech |     | Ronde 9                 |     |      |  (20/06 et 27/06)          |     |
-|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|Ech |     | Ronde 9                 |     |      |  (20/06 et 27/06)         |     |
+|:-:|:-:| -------------------------- |:---:| :---:| ------------------------- |:---:|
 |1| [ ] | GUERIN Laurent             |     |      | GARCIA DEL PRADO Bruno    | [ ] |
 |2| [ ] | DOUSTENS Jean-Jacques      |     |      | LAFFONT Jean-Christophe   | [ ] |
 |3| [ ] | BIGNEBAT Jean-Paul         |     |      | LIDOINE Stéphane          | [ ] |
