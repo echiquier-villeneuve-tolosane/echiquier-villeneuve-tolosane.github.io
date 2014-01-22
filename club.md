@@ -41,7 +41,7 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |4| [0] | BREHAULT Eric              | 1   | 0    | LIDOINE Stéphane          |[0,5]|
 |5| [1] | GRASSAUD Guillaume         | 0   | 1    | DORIVAL Olivier           | [1] |
 
-|Ech |     | Ronde 1                 |     |      |  (15/11)                  |     |
+|Ech |     | Ronde 3                 |     |      |  (3/01 et 17/01)          |     |
 |-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
 |1| [2] | DORIVAL Olivier            | 1   | 0    | GARCIA DEL PRADO Bruno    | [1] |
 |2|[0,5]| LIDOINE Stéphane           |     |      | GRASSAUD Guillaume        | [1] |
@@ -49,21 +49,13 @@ La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 
 |4| [2] | GUERIN Laurent             | 1   | 0    | COURET Henri              |[0,5]|
 |5| [0] | DOUSTENS Jean-Jacques      | 0   | 1    | BIGNEBAT Jean-Paul        | [1] |
 
-| Ronde 3 (3/01 et 17/01)      |     |      |                              |
-| ---------------------------- |:---:| :---:| ---------------------------- |
-| DORIVAL Olivier              | 1   | 0    | GARCIA DEL PRADO Bruno       |
-| LIDOINE Stéphane             |     |      | GRASSAUD Guillaume           |
-| LAFFONT Jean-Christophe      | 0   | 1    | BREHAULT Eric                |
-| GUERIN Laurent               | 1   | 0    | COURET Henri                 |
-| DOUSTENS Jean-Jacques        | 0   | 1    | BIGNEBAT Jean-Paul           |
-
-| Ronde 4 (24/01 et 7/02)      |     |      |                              |
-| ---------------------------- |:---:| :---:| ---------------------------- |
-| GARCIA DEL PRADO Bruno       |     |      | BIGNEBAT Jean-Paul           |
-| GRASSAUD Guillaume           |     |      | LAFFONT Jean-Christophe      |
-| BREHAULT Eric                |     |      | GUERIN Laurent               |
-| DORIVAL Olivier              |     |      | LIDOINE Stéphane             |
-| COURET Henri                 |     |      | DOUSTENS Jean-Jacques        |
+|Ech |     | Ronde 4                 |     |      |  (24/01 et 7/02)          |     |
+|-|-----| -------------------------- |:---:| :---:| ------------------------- |-----|
+|1| [1] | GARCIA DEL PRADO Bruno     |     |      | BIGNEBAT Jean-Paul        | [2] |
+|2|[0,5]| COURET Henri               |     |      | DOUSTENS Jean-Jacques     | [0] |
+|3| [2] | BREHAULT Eric              |     |      | GUERIN Laurent            | [3] |
+|4| [1] | GRASSAUD Guillaume         |     |      | LAFFONT Jean-Christophe   | [1] |
+|5| [3] | DORIVAL Olivier            |     |      | LIDOINE Stéphane          |[0,5]|
 
 | Ronde 5 (28/02 et 7/03)      |     |      |                              |
 | ---------------------------- |:---:| :---:| ---------------------------- |
