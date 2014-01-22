@@ -25,13 +25,13 @@ Cette année, le **Tournoi Interne** est un Open - toutes rondes à 10 joueurs.
 
 La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 15min + 30s/c.
 
-| Ronde 1 (15/11)              |     |      |                              |
-| ---------------------------- |:---:| :---:| ---------------------------- |
-| GRASSAUD Guillaume           | 1   | 0    | GARCIA DEL PRADO Bruno       |
-| DORIVAL Olivier              | 1   | 0    | BREHAULT Eric                |
-| LIDOINE Stéphane             | 1/2 | 1/2  | COURET Henri                 |
-| LAFFONT Jean-Christophe      | 0   | 1    | BIGNEBAT Jean-Paul           |
-| GUERIN Laurent               | 1   | 0    | DOUSTENS Jean-Jacques        |
+| Ronde 1 (15/11)           |   |     |      |   |                          |
+| --------------------------|:-:|:---:| :---:|:-:|------------------------- |
+| GRASSAUD Guillaume        |[0]| 1   | 0    |[0]| GARCIA DEL PRADO Bruno   |
+| DORIVAL Olivier           |[0]| 1   | 0    |[0]| BREHAULT Eric            |
+| LIDOINE Stéphane          |[0]| 1/2 | 1/2  |[0]| COURET Henri             |
+| LAFFONT Jean-Christophe   |[0]| 0   | 1    |[0]| BIGNEBAT Jean-Paul       |
+| GUERIN Laurent            |[0]| 1   | 0    |[0]| DOUSTENS Jean-Jacques    |
 
 | Ronde 2 (6/12 et 27/12)      |     |      |                              |
 | ---------------------------- |:---:| :---:| ---------------------------- |
