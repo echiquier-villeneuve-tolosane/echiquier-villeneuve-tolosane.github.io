@@ -25,4 +25,4 @@ Cette année, le **Tournoi Interne** est un Open - toutes rondes à 10 joueurs.
 
 La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 15min + 30s/c. Le départage est le suivant : cumulatif, Buchholz, performance ELO. Daniel Poussy nous fera l'honeeur d'être l'infatigable arbitre du tournoi.
 
-Les résultats du cru 2013/2013 sont consultables sur la page du [tournoi interne]({{ page.root }}/tournoiinterne.html)
+Les résultats du cru 2013/2013 sont consultables sur la page du [tournoi interne]({{ page.root }}/tournoiinterne.html).
