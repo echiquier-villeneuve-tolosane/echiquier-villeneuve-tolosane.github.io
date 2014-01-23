@@ -268,7 +268,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 800px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -410,4 +410,11 @@ Small Device Styles
 #post-list li {
   list-style-type: none;
   padding-left: 0;
+}
+
+#news {
+  float: right;
+  width: 40%;
+  background-color: white;
+  padding: 0 1em;
 }
