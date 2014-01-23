@@ -15,9 +15,8 @@ Débutant, amateur intéressé ou passioné inconditionnel, n'hésitez pas à ve
 
 **Retourvez tous les diagrammes issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9820;  **Rich-Roques**, _Ech. 1_
+##### &#9820;  **Rich** (EVT) - **Roques** (Loures-Barousse 2), 2013, _Nationale 4_, _Ronde 2_, _Ech. 1_
 
 `2r2rk1/1pqnbppp/p2p1n2/4pP2/2b1P1P1/1NN1B3/PPPQB2P/R4RK1 w - - 1 13`
 
 &#9675; Les Noirs viennent de jouer **24...Tac8??**. Les Blancs peuvent gagner une pièce.
-
