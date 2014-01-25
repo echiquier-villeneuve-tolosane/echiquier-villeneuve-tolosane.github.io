@@ -58,11 +58,11 @@ published: true
 
 |*Ech*|   | **Ronde 5**             |     |     |  (28/02 et 7/03)       |     |
 |:-:|:---:| ----------------------- |:---:|:---:| ---------------------- |:---:|
-|*1*| [ ] | LIDOINE Stéphane        |**-**|**-**| GARCIA DEL PRADO Bruno | [ ] |
-|*2*| [ ] | LAFFONT Jean-Christophe |**-**|**-**| DORIVAL Olivier        | [ ] |
-|*3*| [ ] | GUERIN Laurent          |**-**|**-**| GRASSAUD Guillaume     | [ ] |
-|*4*| [ ] | DOUSTENS Jean-Jacques   |**-**|**-**| BREHAULT Eric          | [ ] |
-|*5*| [ ] | BIGNEBAT Jean-Paul      |**-**|**-**| COURET Henri           | [ ] |
+|*1*| [0,5] | LIDOINE Stéphane        |**-**|**-**| GARCIA DEL PRADO Bruno | [2] |
+|*2*| [1] | LAFFONT Jean-Christophe |**-**|**-**| DORIVAL Olivier        | [4] |
+|*3*| [4] | GUERIN Laurent          |**-**|**-**| GRASSAUD Guillaume     | [2] |
+|*4*| [0] | DOUSTENS Jean-Jacques   |**-**|**-**| BREHAULT Eric          | [2] |
+|*5*| [2] | BIGNEBAT Jean-Paul      |**-**|**-**| COURET Henri           | [1,5] |
 
 |*Ech*|   | **Ronde 6**          |     |     |  (28/03 et 11/04)         |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
