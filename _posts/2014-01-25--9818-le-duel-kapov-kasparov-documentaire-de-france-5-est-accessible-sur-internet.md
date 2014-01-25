@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#9818; Le duel Kapov-Kasparov (documentaire de France 5) est accessible sur internet"
+title: "&#9822; Le duel Kapov-Kasparov (documentaire de France 5) est accessible sur internet"
 layout: default
 root: ../../..
 ---
