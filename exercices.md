@@ -29,6 +29,12 @@ _Ronde 3 (2014/01/17)_
 ### Fontenilles 3 - Entente Ciadoux/EVT
 _Régionale 2, ronde 4 (2014/01/12)_
 
+##### &#9823;&#9823;  **Lidoine-Samson**, _Ech. 4_
+
+`r2qkbnr/2p2ppp/p1np4/1p1bp1N1/4P3/1B1PB3/PPP2PPP/R2QK2R w KQkq - 0 9`
+
+&#9675; Les Noirs, en retard de développement, ont tenté de supprimer une pièce d'attaque adverse par **Fxd5??**, mais ils n'ont pas vu la réalité du danger. Comment les Blancs obtiennent-ils une avance définitive ?
+
 ##### &#9823;  **Bréhault-Petithomme**, _Ech. 2_
 
 `rr6/3k4/3pp2p/p4pp1/Np2n3/1PPRB1PP/P4P2/2K2R2 w - - 0 24`
