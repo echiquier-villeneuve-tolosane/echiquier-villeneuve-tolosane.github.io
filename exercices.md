@@ -8,7 +8,7 @@ title: Exercices et problèmes
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé.
 
-### Tournoi Interne EVT
+### Tournoi Interne EVT, ronde 4
 _Ronde 4 (2014/01/24)_
 
 ##### &#9822;  **Dorival-Lidoine**, _Ech. 5_
@@ -18,7 +18,7 @@ _Ronde 4 (2014/01/24)_
 &#9679; Jusqu'ici, les Noirs ont fait jeu égal, conservant l'égalité matérielle, et transposant dans une finale où les Blancs ont seulement des pièces légèrement plus actives. Mais les Noirs choisissent alors de jouer **30...Te5?!** qui laisse le pion a7 sans compensation. Au lieu de se coup, quelles étaient les deux répliques possible ?
 
 
-### Tournoi Interne EVT
+### Tournoi Interne EVT, ronde 3
 _Ronde 3 (2014/01/17)_
 
 ##### &#9822;  **Laffont-Bréhault**, _Ech. 3_
@@ -69,7 +69,7 @@ _Nationale 4, ronde 3 (2013/12/15)_
 &#9679; Les Blancs viennent de jouer **17.Tac1?**. Comment les Noirs prennent-ils l'avantage ?
 
 
-### Tournoi Interne EVT
+### Tournoi Interne EVT, ronde 2
 _Ronde 2 (2013/12/06)_
 
 ##### &#9822;   **Grassaud-Dorival**, _Ech. 5_
@@ -118,7 +118,7 @@ _Coupe de France, 1er tour (2013/11/17)_
 &#9679; Les Blancs pensent avoir résisté à l'attaque noire et viennent de sonner la contre-attaque avec **25.Dc4??**. Malheureusement c'était trop tôt, et les Noirs ont un coup gagnant.
 
 
-###Tournoi Interne EVT
+###Tournoi Interne EVT, 1e ronde
 _Ronde 1 (2013/11/15)_
 
 ##### &#9823;  **Dorival-Bréhault**, _Ech. 2_
