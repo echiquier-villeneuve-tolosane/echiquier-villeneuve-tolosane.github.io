@@ -8,6 +8,14 @@ title: Exercices et problèmes
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé.
 
+### Tournoi Interne EVT
+_Ronde 4 (2014/01/24)_
+
+##### &#9822;  **Dorival-Lidoine**, _Ech. 5_
+
+`4rk2/R4ppp/p5b1/1p6/8/1BP5/PP3KPP/8 b - - 5 30`
+
+&#9679; Jusqu'ici, les Noirs ont fait jeu égal, conservant l'égalité matérielle, et transposant dans une finale où les Blancs ont seulement des pièces légèrement plus actives. Mais les Noirs choisissent alors de jouer **30...Te5?!** qui laisse le pion a7 sans compensation. Au lieu de se coup, quelles étaient les deux répliques possible ?
 
 
 ### Tournoi Interne EVT
@@ -39,7 +47,7 @@ _Régionale 2, ronde 4 (2014/01/12)_
 
 `r2qkbnr/2p2ppp/p1np4/1p1bp1N1/4P3/1B1PB3/PPP2PPP/R2QK2R w KQkq - 0 9`
 
-&#9675; Les Noirs, en retard de développement, ont tenté de supprimer une pièce d'attaque adverse par **9.Fxd5??**, mais ils n'ont pas vu la réalité du danger. Comment les Blancs prennent-ils un avantage définitif ?
+&#9675; Les Noirs, en retard de développement, ont tenté de supprimer une pièce d'attaque adverse par **9...Fxd5??**, mais ils n'ont pas vu la réalité du danger. Comment les Blancs prennent-ils un avantage définitif ?
 
 ### EVT - CEIT 3
 _Nationale 4, ronde 4 (2014/01/12)_
@@ -48,7 +56,7 @@ _Nationale 4, ronde 4 (2014/01/12)_
 
 `8/4n1P1/3p2k1/2pP1p2/2P2P1K/8/2B5/8 b - - 6 65`
 
-&#9679; Les Noirs peuvent-ils prendre le dangereux pion par **Rxg7** pour revenir à égalité matérielle et tenter de l'emporter contre le mauvais fou des Blancs ?
+&#9679; Les Noirs peuvent-ils prendre le dangereux pion par **65...Rxg7** pour revenir à égalité matérielle et tenter de l'emporter contre le mauvais fou des Blancs ?
 
 
 ### Lardennes 2 - EVT
