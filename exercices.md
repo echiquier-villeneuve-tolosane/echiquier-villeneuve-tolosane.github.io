@@ -39,7 +39,7 @@ _Régionale 2, ronde 4 (2014/01/12)_
 
 `r2qkbnr/2p2ppp/p1np4/1p1bp1N1/4P3/1B1PB3/PPP2PPP/R2QK2R w KQkq - 0 9`
 
-&#9675; Les Noirs, en retard de développement, ont tenté de supprimer une pièce d'attaque adverse par **Fxd5??**, mais ils n'ont pas vu la réalité du danger. Comment les Blancs obtiennent-ils une avance définitive ?
+&#9675; Les Noirs, en retard de développement, ont tenté de supprimer une pièce d'attaque adverse par **Fxd5??**, mais ils n'ont pas vu la réalité du danger. Comment les Blancs obtiennent-ils un avantage définitif ?
 
 ### EVT - CEIT 3
 _Nationale 4, ronde 4 (2014/01/12)_
