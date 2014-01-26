@@ -15,8 +15,8 @@ Débutant, amateur intéressé ou passioné inconditionnel, n'hésitez pas à ve
 
 **Retourvez tous les diagrammes issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9820;  **Rich** (EVT) - **Roques** (Loures-Barousse 2), 2013, _Nationale 4_, _Ronde 2_, _Ech. 1_
+##### &#9823;&#9823;  **Lidoine** (EVT) - **Samson (Fontenilles 2)**, 2013, _Régionale 2_, _Ronde 4_, _Ech. 4_
 
-`2r2rk1/1pqnbppp/p2p1n2/4pP2/2b1P1P1/1NN1B3/PPPQB2P/R4RK1 w - - 1 13`
+`r2qkbnr/2p2ppp/p1np4/1p1bp1N1/4P3/1B1PB3/PPP2PPP/R2QK2R w KQkq - 0 9`
 
-&#9675; Les Noirs viennent de jouer **24...Tac8??**. Les Blancs peuvent gagner une pièce.
+&#9675; Les Noirs, en retard de développement, ont tenté de supprimer une pièce d'attaque adverse par **9.Fxd5??**, mais ils n'ont pas vu la réalité du danger. Comment les Blancs prennent-ils un avantage définitif ?
