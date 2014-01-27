@@ -76,7 +76,7 @@ _Coupe MP Gilbert Rouède, ronde 1 (2013/12/08)_
 
 `4R3/p4pk1/2p5/3p1b2/P1q2PpP/P1b5/2P1R3/1KQ5 w - - 5 31`
 
-&#9675; Les Noirs ont sacrifié deux qualités afin d'obtenir une belle position d'attaque : deux fous pleinement actifs et le roi blanc à découvert. Ils viennent de jouer **31...Dc4** menaçant le mat par Db3. Les Blancs peuvent-ils s'en sortir sains et saufs ?
+&#9675; Les Noirs ont sacrifié deux qualités afin d'obtenir une belle position d'attaque : deux fous pleinement actifs et le roi blanc à découvert. Ils viennent de jouer **31...Dc4** menaçant mat par Db3. Les Blancs peuvent-ils s'en sortir sains et saufs ?
 
 ##### &#9820;   **Hervet-Dorival**, _Ech. 1_
 
