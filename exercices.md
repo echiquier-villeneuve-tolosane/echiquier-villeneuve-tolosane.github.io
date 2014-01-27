@@ -69,6 +69,28 @@ _Nationale 4, ronde 3 (2013/12/15)_
 &#9679; Les Blancs viennent de jouer **17.Tac1?**. Comment les Noirs prennent-ils l'avantage ?
 
 
+### Muret - EVT
+_Coupe Gilbert Rouède, ronde 1 (2013/12/08)_
+
+##### &#9822;   **Hervet-Dorival**, _Ech. 1_
+
+`4R3/p4pk1/2p5/3p1b2/P1q2PpP/P1b5/2P1R3/1KQ5 w - - 5 31`
+
+&#9679; Les Noirs ont sacrifié deux qualités afin d'obtenir une belle position d'attaque : deux fous pleinement actifs, le roi blanc à découvert. Ils viennent de jouer 31.Dc4 menaçant le mat par Db3. Les Noirs peuvent-ils s'en sortir sains et sauf ?
+
+
+
+
+
+6R1/p4p2/2p3kP/3p1b2/P4Pp1/P7/2Pbq3/1KQ5 b - - 8 37
+
+Les Blancs répètent la position, et les Noirs voient leurs espoirs de gain disparaître. Après Rh7 Tg8! les N sont obligés de jouer Rg6 car sur Rxh8?? les blancs materaient par Db2+ suivis de Dg7#. Les Blancs peuvent-ils continuer autrement ?
+
+
+
+
+
+
 ### Tournoi Interne EVT, ronde 2
 _Ronde 2 (2013/12/06)_
 
