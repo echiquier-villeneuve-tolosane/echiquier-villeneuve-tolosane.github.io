@@ -79,16 +79,11 @@ _Coupe Gilbert Rouède, ronde 1 (2013/12/08)_
 &#9679; Les Noirs ont sacrifié deux qualités afin d'obtenir une belle position d'attaque : deux fous pleinement actifs, le roi blanc à découvert. Ils viennent de jouer 31.Dc4 menaçant le mat par Db3. Les Noirs peuvent-ils s'en sortir sains et sauf ?
 
 
-
 ##### &#9822;   **Hervet-Dorival**, _Ech. 1_
 
 `6R1/p4p2/2p3kP/3p1b2/P4Pp1/P7/2Pbq3/1KQ5 b - - 8 37`
 
 &#9679; Les Blancs répètent la position, et les Noirs voient leurs espoirs de gain disparaître. Après Rh7 Tg8! les N sont obligés de jouer Rg6 car sur Rxh8?? les blancs materaient par Db2+ suivis de Dg7#. Les Blancs peuvent-ils continuer autrement ?
-
-
-
-
 
 
 ### Tournoi Interne EVT, ronde 2
