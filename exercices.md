@@ -80,9 +80,9 @@ _Coupe Gilbert Rouède, ronde 1 (2013/12/08)_
 
 ##### &#9820;   **Hervet-Dorival**, _Ech. 1_
 
-`6R1/p4p2/2p3kP/3p1b2/P4Pp1/P7/2Pbq3/1KQ5 b - - 8 37`
+`7R/p4p1k/2p4P/3p1b2/P4Pp1/P7/2Pbq3/1KQ5 b - - 6 36`
 
-&#9679; Les Blancs répètent la position : **35.Th8+ Rg6 36.Tg8+ Rh7 37.Th8+**. Les Noirs peuvent-ils obtenir mieux que la nulle ?
+&#9679; Les Blancs répètent la position : **34.Th8+ Rg6 35.Tg8+ Rh7 36.Th8+**. Les Noirs peuvent-ils obtenir mieux que la nulle ?
 
 ### Tournoi Interne EVT, ronde 2
 _Ronde 2 (2013/12/06)_
