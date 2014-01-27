@@ -70,7 +70,7 @@ _Nationale 4, ronde 3 (2013/12/15)_
 
 
 ### Muret - EVT
-_Coupe Gilbert Rouède, ronde 1 (2013/12/08)_
+_Coupe MP Gilbert Rouède, ronde 1 (2013/12/08)_
 
 ##### &#9820;   **Hervet-Dorival**, _Ech. 1_
 
