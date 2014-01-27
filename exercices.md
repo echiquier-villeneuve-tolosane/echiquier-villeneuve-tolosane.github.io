@@ -72,19 +72,17 @@ _Nationale 4, ronde 3 (2013/12/15)_
 ### Muret - EVT
 _Coupe Gilbert Rouède, ronde 1 (2013/12/08)_
 
-##### &#9822;   **Hervet-Dorival**, _Ech. 1_
+##### &#9820;   **Hervet-Dorival**, _Ech. 1_
 
 `4R3/p4pk1/2p5/3p1b2/P1q2PpP/P1b5/2P1R3/1KQ5 w - - 5 31`
 
-&#9679; Les Noirs ont sacrifié deux qualités afin d'obtenir une belle position d'attaque : deux fous pleinement actifs, le roi blanc à découvert. Ils viennent de jouer 31.Dc4 menaçant le mat par Db3. Les Noirs peuvent-ils s'en sortir sains et sauf ?
+&#9675; Les Noirs ont sacrifié deux qualités afin d'obtenir une belle position d'attaque : deux fous pleinement actifs et le roi blanc à découvert. Ils viennent de jouer **31...Dc4** menaçant le mat par Db3. Les Blancs peuvent-ils s'en sortir sains et sauf ?
 
-
-##### &#9822;   **Hervet-Dorival**, _Ech. 1_
+##### &#9820;   **Hervet-Dorival**, _Ech. 1_
 
 `6R1/p4p2/2p3kP/3p1b2/P4Pp1/P7/2Pbq3/1KQ5 b - - 8 37`
 
-&#9679; Les Blancs répètent la position, et les Noirs voient leurs espoirs de gain disparaître. Après Rh7 Tg8! les N sont obligés de jouer Rg6 car sur Rxh8?? les blancs materaient par Db2+ suivis de Dg7#. Les Blancs peuvent-ils continuer autrement ?
-
+&#9679; Les Blancs répètent la position : **35.Th8+ Rg6 36.Tg8+ Rh7 37.Th8+**. Les Noirs peuvent-ils obtenir mieux que la nulle ?
 
 ### Tournoi Interne EVT, ronde 2
 _Ronde 2 (2013/12/06)_
