@@ -84,6 +84,7 @@ _Coupe MP Gilbert Rouède, ronde 1 (2013/12/08)_
 
 &#9679; Les Blancs répètent la position : **34.Th8+ Rg6 35.Tg8+ Rh7 36.Th8+**. Les Noirs peuvent-ils obtenir mieux que la nulle ?
 
+
 ### Tournoi Interne EVT, ronde 2
 _Ronde 2 (2013/12/06)_
 
