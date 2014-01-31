@@ -112,7 +112,7 @@ _Coupe MP Gilbert Rouède, ronde 1 (2013/12/08)_
 ### Tournoi Interne EVT, ronde 2
 _Ronde 2 (2013/12/06)_
 
-##### &#9822;   **Couret-Laffont**, _Ech. 3_
+##### &#9823;&#9823;  **Couret-Laffont**, _Ech. 3_
 
 `6k1/1q2r1pp/2R1p3/rPQn1p2/p2Pp3/P3P3/1BR2PPP/6K1 b - - 16 35`
 
