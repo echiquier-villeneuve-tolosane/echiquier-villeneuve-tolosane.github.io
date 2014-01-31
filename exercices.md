@@ -52,6 +52,12 @@ _Régionale 2, ronde 4 (2014/01/12)_
 ### EVT - CEIT 3
 _Nationale 4, ronde 4 (2014/01/12)_
 
+##### &#9823;&#9823;  **Espineira-Laffont**, _Ech. 6_
+
+`8/4n1P1/3p2k1/2pP1p2/2P2P1K/8/2B5/8 b - - 6 65`
+
+&#9679; Les Noirs peuvent en finir par un joli tableau de mat.
+
 ##### &#9823;&#9823;  **Ouqabou-Dorival**, _Ech. 2_
 
 `8/4n1P1/3p2k1/2pP1p2/2P2P1K/8/2B5/8 b - - 6 65`
