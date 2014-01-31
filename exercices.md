@@ -54,7 +54,7 @@ _Nationale 4, ronde 4 (2014/01/12)_
 
 ##### &#9823;&#9823;  **Espineira-Laffont**, _Ech. 6_
 
-`8/4n1P1/3p2k1/2pP1p2/2P2P1K/8/2B5/8 b - - 6 65`
+`6k1/1pp2r2/3p3B/p2P1q2/2P2Pr1/PP2R1Rb/7P/6K1 b - - 0 36`
 
 &#9679; Les Noirs peuvent en finir par un joli tableau de mat.
 
