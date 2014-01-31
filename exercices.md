@@ -112,6 +112,12 @@ _Coupe MP Gilbert Rouède, ronde 1 (2013/12/08)_
 ### Tournoi Interne EVT, ronde 2
 _Ronde 2 (2013/12/06)_
 
+##### &#9822;   **Couret-Laffont**, _Ech. 3_
+
+`6k1/1q2r1pp/2R1p3/rPQn1p2/p2Pp3/P3P3/1BR2PPP/6K1 b - - 16 35`
+
+&#9679; Les Blancs étaient un peu mieux mais au lieu de continuer l'attaque, ils viennent de jouer **17...Tc4-c2??**. Les Noirs peuvent reprendre un avantage irrémédiable.
+
 ##### &#9822;   **Grassaud-Dorival**, _Ech. 5_
 
 `r4rk1/3qbppp/pp2pn2/2p3B1/b1B1PQ2/3P2NP/1PP3P1/R3R2K w - - 0 17`
