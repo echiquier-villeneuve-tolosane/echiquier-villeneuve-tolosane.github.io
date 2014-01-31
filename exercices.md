@@ -72,6 +72,18 @@ _Nationale 4, ronde 3 (2013/12/15)_
 ### Muret - EVT
 _Coupe MP Gilbert Rouède, ronde 1 (2013/12/08)_
 
+##### &#9823;&#9823; **Pastorelli-Laffont**, _Ech. 4_
+
+`r4rk1/p1qn1pp1/2p1pn1p/1pPp4/3PbPPP/P1P1PB2/1B1N2K1/R2Q1R2 b - - 4 19`
+
+&#9679; Les Blancs viennent de parer l'échec par **19.Ff3?!**. Les Noirs peuvent prendre un avantage à ce moment de la partie.
+
+##### &#9823; **Pastorelli-Laffont**, _Ech. 4_
+
+`r4rk1/p1qn1pp1/2p1p2p/1pPp4/3PBPnP/P1P1P3/1B1N2K1/R2Q1R2 b - - 0 20`
+
+&#9679; Déstabilisés par le coup précédent, les Blancs tentent d'arrêter l'attaque adverse par la bourde irréparable **20.Fxe4??**. Les Noirs remportent le jack-pot.
+
 ##### &#9820;   **Hervet-Dorival**, _Ech. 1_
 
 `4R3/p4pk1/2p5/3p1b2/P1q2PpP/P1b5/2P1R3/1KQ5 w - - 5 31`
