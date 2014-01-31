@@ -68,6 +68,12 @@ _Nationale 4, ronde 3 (2013/12/15)_
 
 &#9679; Les Blancs viennent de jouer **17.Tac1?**. Comment les Noirs prennent-ils l'avantage ?
 
+##### &#9820;   **Nassar-Laffont**, _Ech. 7_
+
+`2r5/pp2n3/4k3/2p1Nb1p/3Pp1pP/2P3P1/PP2KR2/1R6 b - - 2 27`
+
+&#9679; Les Blancs viennent de jouer **27.Tb1??**, qui a l'air presque anodin ; en fait il perd rapidement.
+
 
 ### Muret - EVT
 _Coupe MP Gilbert Rouède, ronde 1 (2013/12/08)_
