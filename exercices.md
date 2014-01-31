@@ -82,7 +82,7 @@ _Coupe MP Gilbert Rouède, ronde 1 (2013/12/08)_
 
 `r4rk1/p1qn1pp1/2p1p2p/1pPp4/3PBPnP/P1P1P3/1B1N2K1/R2Q1R2 b - - 0 20`
 
-&#9679; Déstabilisés par le coup précédent, les Blancs tentent d'arrêter l'attaque adverse par la bourde irréparable **20.Fxe4??**. Les Noirs remportent le jack-pot.
+&#9679; Déstabilisés par le coup précédent, les Blancs tentent commettent immédiatement une bourde en tentant d'arrêter l'attaque adverse par **20.Fxe4??**. Les Noirs remportent le jack-pot.
 
 ##### &#9820;   **Hervet-Dorival**, _Ech. 1_
 
