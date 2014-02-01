@@ -11,6 +11,12 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 ### Tournoi Interne EVT, ronde 4
 _Ronde 4 (2014/01/24)_
 
+##### &#9822;  **Grassaud-Laffont**, _Ech. 4_
+
+`r1bqk1nr/ppp3pp/2np4/1Bb1pp2/N3P3/3P1N2/PPP2PPP/R1BQK2R b KQkq - 1 6`
+
+&#9675; Dès l'ouverture, les Blancs ont une opportunité sérieuse d'obtenir un avantage de structure ... et même plus !
+
 ##### &#9822;  **Dorival-Lidoine**, _Ech. 5_
 
 `4rk2/R4ppp/p5b1/1p6/8/1BP5/PP3KPP/8 b - - 5 30`
