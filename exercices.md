@@ -183,6 +183,16 @@ _Nationale 4, ronde 1 (2013/10/13)_
 
 &#9675; Les Noirs viennent de jouer **44...g6??**. Si les Blancs jouent leur meilleur coup, les Noirs sont perdus.
 
+###Lardennes - EVT
+_Coupe Loubatière, ronde 1 (2013/10/13)_
+
+##### &#9822; **Laffont-Guérin**, _Ech. 1_
+
+`2r4k/6p1/pp5p/4bq2/1P6/P5P1/4QNKP/3R4 w - - 4 35`
+
+&#9675; Les Noirs viennent de jouer **35...Tc8??**. Les Blancs ont un motif tactique qui leur permet de prendre un avantage décisif.
+
+
 ###Problèmes
 
 ##### &#9819; Problème 1
