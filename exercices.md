@@ -13,9 +13,9 @@ _Ronde 4 (2014/01/24)_
 
 ##### &#9822;  **Grassaud-Laffont**, _Ech. 4_
 
-`r1bqk1nr/ppp3pp/2np4/1Bb1pp2/N3P3/3P1N2/PPP2PPP/R1BQK2R b KQkq - 1 6`
+`r1bqk1nr/1pp3pp/p1np4/1Bb1pp2/N3P3/3P1N2/PPP2PPP/R1BQK2R w KQkq - 0 6`
 
-&#9675; Dès l'ouverture, les Blancs ont une opportunité sérieuse d'obtenir un avantage de structure ... et même plus !
+&#9675; Les Noirs viennent de questionner le fou par **6...a6?!**. Dès l'ouverture, les Blancs ont une opportunité sérieuse d'obtenir un avantage de structure ... et même plus !
 
 ##### &#9822;  **Dorival-Lidoine**, _Ech. 5_
 
