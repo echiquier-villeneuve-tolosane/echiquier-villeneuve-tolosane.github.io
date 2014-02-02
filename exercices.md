@@ -187,7 +187,7 @@ _Nationale 4, ronde 1 (2013/10/13)_
 
 `3b1nk1/6p1/p2p1p2/2pP1BP1/2P4P/8/P7/K3B3 w - - 0 44`
 
-&#9675; Les Noirs viennent de jouer **44...g6??**. Si les Blancs jouent leur meilleur coup, les Noirs sont perdus.
+&#9675; Les Noirs viennent de jouer **44...f6??**. Si les Blancs jouent leur meilleur coup, les Noirs sont perdus.
 
 ###EVT - Lardennes
 _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
