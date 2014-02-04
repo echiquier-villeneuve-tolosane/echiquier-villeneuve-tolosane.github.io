@@ -15,8 +15,8 @@ Débutant, amateur intéressé ou passioné inconditionnel, n'hésitez pas à ve
 
 **Retourvez tous les diagrammes issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9823;&#9823;  **Lidoine** (EVT) - **Samson (Fontenilles 2)**, 2013, _Régionale 2_, _Ronde 4_, _Ech. 4_
+##### &#9820;   **Nassar (Lardennes 2) - Laffont (EVT) **, 2013, _Nationale 4_, _Ronde 3_, _Ech. 7_
 
-`r2qkbnr/2p2ppp/p1np4/1p1bp1N1/4P3/1B1PB3/PPP2PPP/R2QK2R w KQkq - 0 9`
+`2r5/pp2n3/4k3/2p1Nb1p/3Pp1pP/2P3P1/PP2KR2/1R6 b - - 2 27`
 
-&#9675; Les Noirs, en retard de développement, ont tenté de supprimer une pièce d'attaque adverse par **9.Fxd5??**, mais ils n'ont pas vu la réalité du danger. Comment les Blancs prennent-ils un avantage définitif ?
+&#9679; Les Blancs viennent de jouer **27.Tb1??**, qui a l'air presque anodin ; en fait il perd rapidement.
