@@ -282,19 +282,27 @@ Le plus résistant était **31.De3! Db3+ 32.Rc1 Dxa3+ 33.Rd1 Da1+ 34.Dc1 Dxa4 35
 &#9820; **Hervet-Dorival (2)** : 
 Surtout pas **36...Rxh8?? 37.Db2+** et les Noirs n'ont aucun moyen de parer le mat en g7 ! Par contre, les Noirs avaient **36...Rg6 37.Tg8+ Rf6 38.Db2+ Re7** (et non **38...Re6?? 40.Te8+ (+-)**) **39.Db7+ Fd7!** et les Blancs sont forcés de se replier en défense pour parer le mat : **40.Da8?? Dd1+ 41.Rb2 Dc1+ 42.Rb3 Dc1#**.
 
-&#9823;&#9823;  **Couret-Laffont**, _Ech. 3_
+&#9823;&#9823;  **Couret-Laffont** : 
+**35...Txb5!** et la Dame blanche ne peut pas défendre le fou : **36.Dd6 Txb2 37.Txb2 Dxb2 (-+)** et attention à la menace de mat de couloir.
 
-&#9822;   **Grassaud-Dorival**, _Ech. 5_
+&#9822; **Grassaud-Dorival (1)** :
+**17.e5! Ce8** et la Dame noire est surchargée : **18.Fxe7 Dxe7 19.Txa4 (+-)**.
 
-&#9820;   **Grassaud-Dorival**, _Ech. 5_
+&#9820; **Grassaud-Dorival (2)** :
+Le coup gagnant le plus rapidement est **37...Fd4!! 38.Tc1 Dg3!! 39.Tg1 Tf1 40.Dg8+h Rxg8 41.Txf1 exf1=D#**.
 
-&#9820;  **Guillory-Dorival**, _Ech. 2_
+&#9820; **Guillory-Dorival** :
+Dans la partie, les Blancs ont joué **25.Rxe3??** et les Noirs récupèrent une pièce par **25...Te8+**. Au lieu de ça, les Blancs avaient **25.Fxg5!** et les trois pions libres à l'aile Dame devraient largement compenser la qualité investie.
 
 &#9820;  **Rich-Roques**, _Ech. 1_
 
-&#9822;  **Dorival-Hoeltzel**, _Ech. 4_
+&#9822;  **Dorival-Hoeltzel** :
+Surtout pas **14.Dxf3?? Dh2#**. Mais les Blancs ont **14.hxg4 Tf8** et maintenant les Blancs peuvent gagner un pion par **15.cxd5 Ce5 16.Fc2 exd5 17.Dxd5+ Dxd5 18.Cxd5** et les Noirs ne peuvent pas reprendre en f4 : **18...Cxf4?? 19.Cxe7+**.
 
-&#9820;  **Rich-Woloszyn**, _Ech. 1_
+&#9820;  **Rich-Woloszyn** :
+Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après **25.fxg3 fxg3+** puis :
+- soit **26.Rh1 Fxf3 27.Dxc6+ Rf8 28.Dd6+ Rg7** avec une défense du mat difficile : **29.Dd7 (-+)**,
+- soit **26.Rxg3 Fe6+ 27.Rh2 Fxc4 28.bxc4 (-+)**.
 
 &#9823;  **Dorival-Bréhault**, _Ech. 2_
 
