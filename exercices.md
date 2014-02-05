@@ -303,7 +303,7 @@ Surtout pas **14.Dxf3?? Dh2#**. Mais les Blancs ont **14.hxg4 Tf8** et maintenan
 
 &#9820;  **Rich-Woloszyn** :
 Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après **25.fxg3 fxg3+** puis :
-- soit **26.Rh1 Fxf3 27.Dxc6+ Rf8 28.Dd6+ Rg7** avec une défense du mat difficile : **29.Dd7 (-+)**,
+- soit **26.Rh1 Fxh3!!** (plus précis que **26...Fxf3 27.Dxc6+ Rf8 28.Dd6+ Rg7** avec une défense du mat difficile : **29.Dd7 (-+)**) **27.Tgf1 Fe6+ 28.Rg1 Fxc4 29.bxc4 (-+)**,
 - soit **26.Rxg3 Fe6+ 27.Rh2 Fxc4 28.bxc4 (-+)**.
 
 &#9823;  **Dorival-Bréhault** :
