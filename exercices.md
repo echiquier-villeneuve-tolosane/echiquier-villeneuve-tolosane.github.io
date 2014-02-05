@@ -258,9 +258,9 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 
 &#9820; **Nassar-Laffont** : Les Noirs avaient la possibilité de l'emporter par **27...cxd4!!** et les Blancs ont alors un choix difficile : soit perdre le cavalier e5 (qui n'a pas de case), soit accepter la suite **28.cxd4 Tc2+! 29.Re1 Txf2 30.Rxf2 e3+! 31.Rxe3 Fxb1 (-+)**.
 
-&#9823;&#9823; **Pastorelli-Laffont**, _Ech. 4_
+&#9823;&#9823; **Pastorelli-Laffont (1)** : Les Noirs gagnent un bon pion par **19...Cxg4!**, le fou blanc étant cloué.
 
-&#9823; **Pastorelli-Laffont**, _Ech. 4_
+&#9823; **Pastorelli-Laffont (2)** : **20...Cxe3+** a ruiné les espoirs des Blancs.
 
 &#9820;  **Hervet-Dorival (1)** : Le plus résistant était **31.De3! Db3+ 32.Rc1 Dxa3+ 33.Rd1 Da1+ 34.Dc1 Dxa4 35.T2e3 Dc4 36.Txc3 Txc3 (-+)**, bien que les Noirs soient mieux grâce aux pions. Au lieu de ça, ils ont joué **31.Tb8**, et les Noirs ont encaissé la tour restante **31...Dxe2 (-+)**.
 
