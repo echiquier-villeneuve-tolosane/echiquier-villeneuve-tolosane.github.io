@@ -222,44 +222,67 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 
 &#9675; Les Noirs viennent de jouer **35...Tc8??**. Les Blancs ont un motif tactique qui leur permet de prendre un avantage décisif.
 
+
+
+
+
 ## Solutions des exercices
 
-&#9679; **Boufarachan-Laffont (1)** : Les Blancs avaient la fourchette **38.Cd4!** et sur **38...Fxd1** ils prennent une pièce d'avance avec le coup intermédiaire **39.Cxf5+ Rh7 40.Txd1 (+-)**.
 
-&#9679; **Boufarachan-Laffont (2)** : Il faut à tout prix parer le mat en g5 ! Le bon coup était **53.Tf4!!** et sur **53...Fxf4 54.Cxf4 (+-)** et les Blancs sont mieux.
+&#9822;  **Boufarachan-Laffont** : **Boufarachan-Laffont (1)** : Les Blancs avaient la fourchette **38.Cd4!** et sur **38...Fxd1** ils prennent une pièce d'avance avec le coup intermédiaire **39.Cxf5+ Rh7 40.Txd1 (+-)**.
 
-&#9679; **Haddab-Dorival** : Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20...Fxc7 21.Ce7+** gagne la dame. Le mieux est encore de laisser le fou : **20...Tb7 21.cxd8=D Txd8 (+-)**.
+&#9822;  **Boufarachan-Laffont (2)** : Il faut à tout prix parer le mat en g5 ! Le bon coup était **53.Tf4!!** et sur **53...Fxf4 54.Cxf4 (+-)** et les Blancs sont mieux.
 
-&#9679; **Grassaud-Laffont** : 
+&#9823;&#9823;  **Haddab-Dorival** : Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20...Fxc7 21.Ce7+** gagne la dame. Le mieux est encore de laisser le fou : **20...Tb7 21.cxd8=D Txd8 (+-)**.
 
-&#9679; **Dorival-Lidoine** : Les Noirs pouvaient contre attaquer les pions blancs par **30...Td8!** sur quoi la position est à peu près égale : **31.Txa6 Td2+ 32.Rf3 Txb2 (=)**.
+&#9822;  **Grassaud-Laffont**, _Ech. 4_
 
-&#9679; **Dorival-Garcia Del Prado** : Les Blancs ont le très fort **17.Cb5!!** qui menace mat en c7, et les réponses des noires sont désespérées :
+&#9822;  **Dorival-Lidoine** : Les Noirs pouvaient contre attaquer les pions blancs par **30...Td8!** sur quoi la position est à peu près égale : **31.Txa6 Td2+ 32.Rf3 Txb2 (=)**.
+
+&#9822;  **Laffont-Bréhault** : Les Noirs ont gagné une pièce par **21...Dd4+ 22.Df2 Dxf2+ 23.Txf2 fxg5**. Ils avaient même encore mieux avec la suite **21...Dc5+ 22.Df2 Dc6!! 23.Df3 Fc5+ 24.Rg2 fxg5 25.Dxc6+ Fxc6+**.
+
+&#9820;  **Dorival-Garcia Del Prado** : Les Blancs ont le très fort **17.Cb5!!** qui menace mat en c7, et les réponses des noires sont désespérées :
 - **17...Fd8 18.Cf7+ Ce4 19.Txe4+ Fe6 (19...Fe7 20.Cxc7#) 20.Cfd6+!! cxd6 (20...Re7 21.Txe6#) 21.Cxd6+ Re7 22.Txe6#**,
 - **17...Fd6 18.Cxc7+ Re7 (18...Fxc7 19.cxb7 Fxb7 20.Cc6+ Ce4 21.Txe4+ Fe5 22.Txe5#) 19.Cg6+ Rd8 20.Cxa8 hxg6 21.c7+ Rd7 22.Fb5#**,
 - **17...Tf7**, le plus résistant, mais désespéré, **18.Cxc7+ Rf8 19.Cxa8 bxc6 20.Cxf7 (+-)**.
 
-&#9679; **Laffont-Bréhault** : Les Noirs ont gagné une pièce par **21...Dd4+ 22.Df2 Dxf2+ 23.Txf2 fxg5**. Ils avaient même encore mieux avec la suite **21...Dc5+ 22.Df2 Dc6!! 23.Df3 Fc5+ 24.Rg2 fxg5 25.Dxc6+ Fxc6+**.
+&#9823; **Bréhault-Petithomme** : Les Blancs peuvent encore gagner une qualité par **24.Cb6+ Txb6 25.Fxb6 (+-)**.
 
-&#9679; **Bréhault-Petithomme** : Les Blancs peuvent encore gagner une qualité par **24.Cb6+ Txb6 25.Fxb6 (+-)**.
+&#9823;&#9823; **Lidoine-Samson** : Les Blancs prennent l'avantage par **9.Fxd5** avec la double attaque sur le Cc6 et la case f7 : **9...Dd7 10.Cxf7 Cf6 11.Cxh8 (+-)**.
 
-&#9679; **Lidoine-Samson** : Les Blancs prennent l'avantage par **9.Fxd5** avec la double attaque sur le Cc6 et la case f7 : **9...Dd7 10.Cxf7 Cf6 11.Cxh8 (+-)**.
+&#9823;&#9823;  **Espineira-Laffont** : Les Noirs finissent avec le joli **36...Db1+! 37.Rf2 (37.Te1 Dxe1#) 37...Df1#**.
 
-&#9679; **Ouqabou-Dorival** : Les Noirs n'ont pas besoin de prendre des risques par **65...Rxg7** car ils reperdent immédiatement le pion par **66.Rg5 Cg8 67.Rxf5**, bien qu'il semblent qu'ils puissent tenir la position.
+&#9823;&#9823;  **Ouqabou-Dorival** : Les Noirs n'ont pas besoin de prendre des risques par **65...Rxg7** car ils reperdent immédiatement le pion par **66.Rg5 Cg8 67.Rxf5**, bien qu'il semblent qu'ils puissent tenir la position.
 
-&#9679; **Espineira-Laffont** : Les Noirs finissent avec le joli **36...Db1+! 37.Rf2 (37.Te1 Dxe1#) 37...Df1#**.
+&#9822; **Dorival-Grimault** : Les Blancs n'ont pas vu qu'ils perdent deux pions après **17...Cxd4 18.Dxc8?! Cxe2+ **(et non **18...Txc8?? 19.Txc8+ Ff8 20.Cxd4 (+-)**) **19.Rh1 Cxc1 20.Dxc1 Dxa2 (-+)**. Plus résistant était  **18.Dd2 Cxe2+ 19.Dxe2 b6 (-+)** avec un seul pion de retard.
 
-&#9679; **Dorival-Grimault** : Les Blancs n'ont pas vu qu'ils perdent deux pions après **17...Cxd4 18.Dxc8?! Cxe2+ **(et non **18...Txc8?? 19.Txc8+ Ff8 20.Cxd4 (+-)**) **19.Rh1 Cxc1 20.Dxc1 Dxa2 (-+)**. Plus résistant était  **18.Dd2 Cxe2+ 19.Dxe2 b6 (-+)** avec un seul pion de retard.
+&#9820; **Nassar-Laffont** : Les Noirs avaient la possibilité de l'emporter par **27...cxd4!!** et les Blancs ont alors un choix difficile : soit perdre le cavalier e5 (qui n'a pas de case), soit accepter la suite **28.cxd4 Tc2+! 29.Re1 Txf2 30.Rxf2 e3+! 31.Rxe3 Fxb1 (-+)**.
 
-&#9679; **Nassar-Laffont** : Les Noirs avaient la possibilité de l'emporter par **27...cxd4!!** et les Blancs ont alors un choix difficile : soit perdre le cavalier e5 (qui n'a pas de case), soit accepter la suite **28.cxd4 Tc2+! 29.Re1 Txf2 30.Rxf2 e3+! 31.Rxe3 Fxb1 (-+)**.
+&#9823;&#9823; **Pastorelli-Laffont**, _Ech. 4_
 
-&#9679; **Hervet-Dorival (1)** : Le plus résistant était **31.De3! Db3+ 32.Rc1 Dxa3+ 33.Rd1 Da1+ 34.Dc1 Dxa4 35.T2e3 Dc4 36.Txc3 Txc3 (-+)**, bien que les Noirs soient mieux grâce aux pions. Au lieu de ça, ils ont joué **31.Tb8**, et les Noirs ont encaissé la tour restante **31...Dxe2 (-+)**.
+&#9823; **Pastorelli-Laffont**, _Ech. 4_
 
-&#9679; **Hervet-Dorival (2)** : Surtout pas **36...Rxh8?? 37.Db2+** et les Noirs n'ont aucun moyen de parer le mat en g7 ! Par contre, les Noirs avaient **36...Rg6 37.Tg8+ Rf6 38.Db2+ Re7** (et non **38...Re6?? 40.Te8+ (+-)**) **39.Db7+ Fd7!** et les Blancs sont forcés de se replier en défense pour parer le mat : **40.Da8?? Dd1+ 41.Rb2 Dc1+ 42.Rb3 Dc1#**.
+&#9820;  **Hervet-Dorival (1)** : Le plus résistant était **31.De3! Db3+ 32.Rc1 Dxa3+ 33.Rd1 Da1+ 34.Dc1 Dxa4 35.T2e3 Dc4 36.Txc3 Txc3 (-+)**, bien que les Noirs soient mieux grâce aux pions. Au lieu de ça, ils ont joué **31.Tb8**, et les Noirs ont encaissé la tour restante **31...Dxe2 (-+)**.
 
-&#9679; 
+&#9820; **Hervet-Dorival (2)** : Surtout pas **36...Rxh8?? 37.Db2+** et les Noirs n'ont aucun moyen de parer le mat en g7 ! Par contre, les Noirs avaient **36...Rg6 37.Tg8+ Rf6 38.Db2+ Re7** (et non **38...Re6?? 40.Te8+ (+-)**) **39.Db7+ Fd7!** et les Blancs sont forcés de se replier en défense pour parer le mat : **40.Da8?? Dd1+ 41.Rb2 Dc1+ 42.Rb3 Dc1#**.
 
-&#9679; 
+&#9823;&#9823;  **Couret-Laffont**, _Ech. 3_
 
-&#9679; 
+&#9822;   **Grassaud-Dorival**, _Ech. 5_
+
+&#9820;   **Grassaud-Dorival**, _Ech. 5_
+
+&#9820;  **Guillory-Dorival**, _Ech. 2_
+
+&#9820;  **Rich-Roques**, _Ech. 1_
+
+&#9822;  **Dorival-Hoeltzel**, _Ech. 4_
+
+&#9820;  **Rich-Woloszyn**, _Ech. 1_
+
+&#9823;  **Dorival-Bréhault**, _Ech. 2_
+
+&#9823;&#9823; **Dorival-Séguelong**, _Ech. 2_
+
+&#9822; **Laffont-Guérin**, _Ech. 1_
 
