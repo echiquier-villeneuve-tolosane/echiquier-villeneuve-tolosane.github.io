@@ -223,10 +223,6 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 &#9675; Les Noirs viennent de jouer **35...Tc8??**. Les Blancs ont un motif tactique qui leur permet de prendre un avantage décisif.
 
 
-###Problèmes
 
-##### &#9819; Problème 1
+## Solutions des exercices
 
-`3brrb1/2N4B/8/2p4Q/2p2k2/5P2/4P1KR/2N2RB1 w - - 0 1`
-
-&#9679; Les Blancs jouent et matent en deux coups.
