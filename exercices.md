@@ -238,7 +238,8 @@ Il faut à tout prix parer le mat en g5 ! Le bon coup était **53.Tf4!!** et sur
 &#9823;&#9823;  **Haddab-Dorival** : 
 Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20...Fxc7 21.Ce7+** gagne la dame. Le mieux est encore de laisser le fou : **20...Tb7 21.cxd8=D Txd8 (+-)**.
 
-&#9822;  **Grassaud-Laffont**, _Ech. 4_
+&#9822;  **Grassaud-Laffont** :
+Les Blancs, en plus de déstructurer les pions noirs, gagnent un pion central avec : **7.Fxc6+ bxc6 8.Cxc5 dxc5 9.Cxe5 (+-)**.
 
 &#9822;  **Dorival-Lidoine** : 
 Les Noirs pouvaient contre attaquer les pions blancs par **30...Td8!** sur quoi la position est à peu près égale : **31.Txa6 Td2+ 32.Rf3 Txb2 (=)**.
