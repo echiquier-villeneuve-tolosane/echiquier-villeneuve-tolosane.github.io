@@ -231,3 +231,9 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 &#9679; **Haddab-Dorival** : Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20...Fxc7 21.Ce7+** gagne la dame. Le mieux est encore de laisser le fou : **20...Tb7 21.cxd8=D Txd8 (+-)**.
 
 &#9679; **Dorival-Lidoine** : Les Noirs pouvaient contre attaquer les pions blancs par **30...Td8!** sur quoi la position est à peu près égale : **31.Txa6 Td2+ 32.Rf3 Txb2 (=)**.
+
+&#9679; **Dorival-Garcia Del Prado** : Les Blancs ont le très fort **17.Cb5!!** qui menace mat en c7, et les réponses des noires sont désespérées :
+- **17...Fd8 18.Cf7+ Ce4 19.Txe4+ Fe6 (19...Fe7 20.Cxc7#) 20.Cfd6+!! cxd6 (20...Re7 21.Txe6#) 21.Cxd6+ Re7 22.Txe6#**,
+- **17...Fd6 18.Cxc7+ Re7 (18...Fxc7 19.cxb7 Fxb7 20.Cc6+ Ce4 21.Txe4+ Fe5 22.Txe5#) 19.Cg6+ Rd8 20.Cxa8 hxg6 21.c7+ Rd7 22.Fb5#**,
+- **17...Tf7**, le plus résistant, mais désespéré, **18.Cxc7+ Rf8 19.Cxa8 bxc6 20.Cxf7 (+-)**.
+
