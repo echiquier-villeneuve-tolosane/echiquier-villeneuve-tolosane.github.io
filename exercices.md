@@ -294,7 +294,8 @@ Le coup gagnant le plus rapidement est **37...Fd4!! 38.Tc1 Dg3!! 39.Tg1 Tf1 40.D
 &#9820; **Guillory-Dorival** :
 Dans la partie, les Blancs ont joué **25.Rxe3??** et les Noirs récupèrent une pièce par **25...Te8+**. Au lieu de ça, les Blancs avaient **25.Fxg5!** et les trois pions libres à l'aile Dame devraient largement compenser la qualité investie.
 
-&#9820;  **Rich-Roques**, _Ech. 1_
+&#9820;  **Rich-Roques** :
+Les Blancs peuvent gagner une pièce en profitant du fou "en l'air" en e7 : **13.g5! Ce8 14.Fxc4 Dxc4 15.Ca5!! Db4 (15...Dc7?? 16.Cd5 Dd8 17.Cxb7) 16.Cd5 Dxd2** et maintenant le coup intermédiaire **17.Cxe7+!! Rh8 18.Fxd2 (+-)**.
 
 &#9822;  **Dorival-Hoeltzel** :
 Surtout pas **14.Dxf3?? Dh2#**. Mais les Blancs ont **14.hxg4 Tf8** et maintenant les Blancs peuvent gagner un pion par **15.cxd5 Ce5 16.Fc2 exd5 17.Dxd5+ Dxd5 18.Cxd5** et les Noirs ne peuvent pas reprendre en f4 : **18...Cxf4?? 19.Cxe7+**.
@@ -304,9 +305,12 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 - soit **26.Rh1 Fxf3 27.Dxc6+ Rf8 28.Dd6+ Rg7** avec une défense du mat difficile : **29.Dd7 (-+)**,
 - soit **26.Rxg3 Fe6+ 27.Rh2 Fxc4 28.bxc4 (-+)**.
 
-&#9823;  **Dorival-Bréhault**, _Ech. 2_
+&#9823;  **Dorival-Bréhault** :
+**27.Dh4+ Ch5 (26...Rg8 (26...Rg6 27.Ce7#) 27.Ce7#) 27.Dxh5+ Rg8 28.Ce7#**
 
-&#9823;&#9823; **Dorival-Séguelong**, _Ech. 2_
+&#9823;&#9823; **Dorival-Séguelong** : **45.g6!** et maintenant les Noirs jouent sans le cavalier enfermé ... et sans le roi ! Les Blancs n'ont plus qu'à amener le roi en a4 pour jouer Fa5 et pénétrer derrière les lignes adverses.
 
-&#9822; **Laffont-Guérin**, _Ech. 1_
+&#9822; **Laffont-Guérin** :
+**35.Td5!** clouant le fou, et la position des Noirs est sans espoir : **35...Tc2 36.Txe5 Txe2 37.Txf5 (+-)**.
+
 
