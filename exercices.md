@@ -239,12 +239,12 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 
 &#9679; **Laffont-Bréhault** : Les Noirs ont gagné une pièce par **21...Dd4+ 22.Df2 Dxf2+ 23.Txf2 fxg5**. Ils avaient même encore mieux avec la suite **21...Dc5+ 22.Df2 Dc6!! 23.Df3 Fc5+ 24.Rg2 fxg5 25.Dxc6+ Fxc6+**.
 
-&#9679; 
+&#9679; **Bréhault-Petithomme** : Les Blancs peuvent encore gagner une qualité par **24.Cb6+ Txb6 25.Fxb6 (+-)**.
 
-&#9679; 
+&#9679; **Lidoine-Samson** : Les Blancs prennent l'avantage par **9.Fxd5** avec la double attaque sur le Cc6 et la case f7 : **9...Dd7 10.Cxf7 Cf6 11.Cxh8 (+-).
 
-&#9679; 
+&#9679; **Ouqabou-Dorival** : Les Noirs n'ont pas besoin de prendre des risques par **65...Rxg7** car ils reperdent immédiatement le pion par **66.Rg5 Cg8 67.Rxf5**, bien qu'il semblent qu'ils puissent tenir la position.
 
-&#9679; 
+&#9679; **Espineira-Laffont** : Les Noirs finissent avec le joli **36...Db1+! 37.Rf2 (37.Te1 Dxe1#) 37...Df1#**.
 
-&#9679; 
+&#9679; **Dorival-Grimault** : Les Blancs n'ont pas vu qu'ils perdent deux pions après **17...Cxd4 18.Dxc8?! Cxe2+ **(et non **18...Txc8?? 19.Txc8+ Ff8 20.Cxd4 (+-)**) **19.Rh1 Cxc1 20.Dxc1 Dxa2 (-+)**. Plus résistant était  **18.Dd2 Cxe2+ 19.Dxe2 b6 (-+)** avec un seul pion de retard.
