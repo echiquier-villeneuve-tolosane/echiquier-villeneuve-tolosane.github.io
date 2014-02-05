@@ -228,4 +228,6 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 
 &#9679; **Boufarachan-Laffont (2)** : Il faut à tout prix parer le mat en g5 ! Le bon coup était **53.Tf4!!** et sur **53...Fxf4 54.Cxf4 (+-)** et les Blancs sont mieux.
 
-&#9679; **Haddab-Dorival** : Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20...Fxc7 21.Ce7+ gagne la dame. Le mieux est encore de laisser le fou : **20...Tb7 21.cxd8=D Txd8 (+-).
+&#9679; **Haddab-Dorival** : Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20...Fxc7 21.Ce7+** gagne la dame. Le mieux est encore de laisser le fou : **20...Tb7 21.cxd8=D Txd8 (+-)**.
+
+&#9679; **Dorival-Lidoine** : Les Noirs pouvaient contre attaquer les pions blancs par **30...Td8!** sur quoi la position est à peu près égale : **31.Txa6 Td2+ 32.Rf3 Txb2 (=)**.
