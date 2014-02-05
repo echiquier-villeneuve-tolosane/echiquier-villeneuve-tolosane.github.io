@@ -248,3 +248,16 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 &#9679; **Espineira-Laffont** : Les Noirs finissent avec le joli **36...Db1+! 37.Rf2 (37.Te1 Dxe1#) 37...Df1#**.
 
 &#9679; **Dorival-Grimault** : Les Blancs n'ont pas vu qu'ils perdent deux pions après **17...Cxd4 18.Dxc8?! Cxe2+ **(et non **18...Txc8?? 19.Txc8+ Ff8 20.Cxd4 (+-)**) **19.Rh1 Cxc1 20.Dxc1 Dxa2 (-+)**. Plus résistant était  **18.Dd2 Cxe2+ 19.Dxe2 b6 (-+)** avec un seul pion de retard.
+
+&#9679; **Nassar-Laffont** : Les Noirs avaient la possibilité de l'emporter par **27...cxd4!!** et les Blancs ont alors un choix difficile : soit perdre le cavalier e5 (qui n'a pas de case), soit accepter la suite **28.cxd4 Tc2+! 29.Re1 Txf2 30.Rxf2 e3+! 31.Rxe3 Fxb1 (-+)**.
+
+&#9679; 
+
+&#9679; 
+
+&#9679; 
+
+&#9679; 
+
+&#9679; 
+
