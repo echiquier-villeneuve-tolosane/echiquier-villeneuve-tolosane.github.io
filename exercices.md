@@ -230,6 +230,7 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 
 
 &#9822;  **Boufarachan-Laffont (1)** : 
+`8/1p3pk1/2rp1p1p/p4r2/1bP2N2/1P2PNPP/P1b2P1K/3R2R1 w - - 1 37`
 Les Blancs avaient la fourchette **38.Cd4!** et sur **38...Fxd1** ils prennent une pièce d'avance avec le coup intermédiaire **39.Cxf5+ Rh7 40.Txd1 (+-)**.
 
 &#9822;  **Boufarachan-Laffont (2)** : 
