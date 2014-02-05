@@ -8,6 +8,17 @@ title: Exercices et problèmes
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé.
 
+
+### Castelsarrasin - EVT
+_Nationale 4, ronde 5 (2014/02/02)_
+
+##### &#9823;&#9823;  **Boufarachan-Laffont**, _Ech. 5_
+
+`8/1p3pk1/2rp1p1p/p4r2/1bP2N2/1P2PNPP/P1b2P1K/3R2R1 w - - 1 37`
+
+&#9675; Dans cette partie complexe, les Blancs ont eu leurs chances, par exemple ici après que les Noirs aient joué l'imprécis **28...Tf5??**.
+
+
 ### Tournoi Interne EVT, ronde 4
 _Ronde 4 (2014/01/24)_
 
@@ -22,15 +33,6 @@ _Ronde 4 (2014/01/24)_
 `4rk2/R4ppp/p5b1/1p6/8/1BP5/PP3KPP/8 b - - 5 30`
 
 &#9679; Jusqu'ici, les Noirs ont fait jeu égal, conservant l'égalité matérielle, et transposant dans une finale où les Blancs ont seulement des pièces légèrement plus actives. Mais les Noirs choisissent alors de jouer **30...Te5?!** qui laisse le pion a7 sans compensation. Au lieu de se coup, quelles étaient les deux répliques possible ?
-
-### Castelsarrasin - EVT
-_Nationale 4, ronde 5 (2014/02/02)_
-
-##### &#9823;&#9823;  **Boufarachan-Laffont**, _Ech. 5_
-
-`8/1p3pk1/2rp1p1p/p4r2/1bP2N2/1P2PNPP/P1b2P1K/3R2R1 w - - 1 37`
-
-&#9675; Dans cette partie complexe, les Blancs ont eu leurs chances, par exemple ici après que les Noirs aient joué l'imprécis **28...Tf5??**.
 
 
 ### Tournoi Interne EVT, ronde 3
