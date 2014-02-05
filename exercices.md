@@ -237,7 +237,6 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 - **17...Fd6 18.Cxc7+ Re7 (18...Fxc7 19.cxb7 Fxb7 20.Cc6+ Ce4 21.Txe4+ Fe5 22.Txe5#) 19.Cg6+ Rd8 20.Cxa8 hxg6 21.c7+ Rd7 22.Fb5#**,
 - **17...Tf7**, le plus résistant, mais désespéré, **18.Cxc7+ Rf8 19.Cxa8 bxc6 20.Cxf7 (+-)**.
 
-&#9679; **Laffont-Bréhault** : Les Noirs ont gagné une pièce par **21...Dd4+ 22.Df2 Dxf2+ 23.Txf2 fxg5**. Ils avaient même encore mieux avec la suite **21...Dc5+ 22.Df2 Dc6!! 23.Df3 Fc5+ 24.Rg2 fxg5 25.Dxc6+ Fxc6+**.
 
 &#9679; **Bréhault-Petithomme** : Les Blancs peuvent encore gagner une qualité par **24.Cb6+ Txb6 25.Fxb6 (+-)**.
 
