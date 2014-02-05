@@ -6,7 +6,7 @@ title: Exercices et problèmes
 ---
 
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
-La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé.
+La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles en bas de cette page.
 
 
 ### Castelsarrasin - EVT
@@ -313,5 +313,3 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 
 &#9822; **Laffont-Guérin** :
 **35.Td5!** clouant le fou, et la position des Noirs est sans espoir : **35...Tc2 36.Txe5 Txe2 37.Txf5 (+-)**.
-
-
