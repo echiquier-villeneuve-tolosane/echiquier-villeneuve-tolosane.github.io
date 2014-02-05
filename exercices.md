@@ -253,7 +253,7 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 
 &#9679; 
 
-&#9679; 
+&#9679; **Hervet-Dorival (2)** : Surtout pas **36...Rxh8?? 37.Db2+** et les Noirs n'ont aucun moyen de parer le mat en g7 ! Par contre, les Noirs avaient **36...Rg6 37.Tg8+ Rf6 38.Db2+ Re7** (et non **38...Re6?? 40.Te8+ (+-)**) **39.Db7+ Fd7!** et les Blancs sont forcés de se replier en défense pour parer le mat : **40.Da8?? Dd1+ 41.Rb2 Dc1+ 42.Rb3 Dc1#**.
 
 &#9679; 
 
