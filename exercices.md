@@ -18,6 +18,18 @@ _Nationale 4, ronde 5 (2014/02/02)_
 
 &#9675; Dans cette partie complexe, les Blancs ont eu leurs chances, par exemple ici après que les Noirs aient joué l'imprécis **28...Tf5??**.
 
+##### &#9822;  **Boufarachan-Laffont**, _Ech. 5_
+
+`8/1p3p2/5p1k/p4P1N/3R2PK/1P2bb1P/P5r1/5R2 w - - 0 53`
+
+&#9675; Les Blancs sont encore mieux, mais n'ont pas vu la menace des Noirs. Que fallait-il jouer ?
+
+##### &#9823;&#9823;  **Haddab-Dorival**, _Ech. 2_
+
+`1rqb1rk1/p4ppp/1pPn4/2pN1b2/5P2/1Q2BB2/PP4PP/3R1RK1 w - - 5 20`
+
+&#9675; Pour défendre à la fois la fourchette et l'avancée du pion c, les Noirs viennent de jouer **19...Fe7-d8??** qui s'est avéré être une erreur décisive. Le prochain coup des Blancs a été dévastateur.
+
 
 ### Tournoi Interne EVT, ronde 4
 _Ronde 4 (2014/01/24)_
