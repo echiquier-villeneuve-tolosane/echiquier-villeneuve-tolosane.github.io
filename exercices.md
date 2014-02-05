@@ -12,7 +12,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 ### Castelsarrasin - EVT
 _Nationale 4, ronde 5 (2014/02/02)_
 
-##### &#9823;&#9823;  **Boufarachan-Laffont**, _Ech. 5_
+##### &#9822;  **Boufarachan-Laffont**, _Ech. 5_
 
 `8/1p3pk1/2rp1p1p/p4r2/1bP2N2/1P2PNPP/P1b2P1K/3R2R1 w - - 1 37`
 
