@@ -1,6 +1,6 @@
 ---
 published: true
-title: "Récidive en Régionale 2 ! (championnat de France des clubs, ronde 7)"
+title: "♛ Récidive en Régionale 2 ! (championnat de France des clubs, ronde 7)"
 layout: default
 root: ../../..
 ---
