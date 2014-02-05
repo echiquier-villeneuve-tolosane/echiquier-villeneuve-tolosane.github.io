@@ -251,7 +251,7 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 
 &#9679; **Nassar-Laffont** : Les Noirs avaient la possibilité de l'emporter par **27...cxd4!!** et les Blancs ont alors un choix difficile : soit perdre le cavalier e5 (qui n'a pas de case), soit accepter la suite **28.cxd4 Tc2+! 29.Re1 Txf2 30.Rxf2 e3+! 31.Rxe3 Fxb1 (-+)**.
 
-&#9679; 
+&#9679; **Hervet-Dorival (1)** : Le plus résistant était **31.De3! Db3+ 32.Rc1 Dxa3+ 33.Rd1 Da1+ 34.Dc1 Dxa4 35.T2e3 Dc4 36.Txc3 Txc3 (-+)**, bien que les Noirs soient mieux grâce aux pions. Au lieu de ça, ils ont joué **31.Tb8**, et les Noirs ont encaissé la tour restante **31...Dxe2 (-+)**.
 
 &#9679; **Hervet-Dorival (2)** : Surtout pas **36...Rxh8?? 37.Db2+** et les Noirs n'ont aucun moyen de parer le mat en g7 ! Par contre, les Noirs avaient **36...Rg6 37.Tg8+ Rf6 38.Db2+ Re7** (et non **38...Re6?? 40.Te8+ (+-)**) **39.Db7+ Fd7!** et les Blancs sont forcés de se replier en défense pour parer le mat : **40.Da8?? Dd1+ 41.Rb2 Dc1+ 42.Rb3 Dc1#**.
 
