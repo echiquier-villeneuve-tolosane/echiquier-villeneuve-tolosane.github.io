@@ -23,6 +23,15 @@ _Ronde 4 (2014/01/24)_
 
 &#9679; Jusqu'ici, les Noirs ont fait jeu égal, conservant l'égalité matérielle, et transposant dans une finale où les Blancs ont seulement des pièces légèrement plus actives. Mais les Noirs choisissent alors de jouer **30...Te5?!** qui laisse le pion a7 sans compensation. Au lieu de se coup, quelles étaient les deux répliques possible ?
 
+### Castelsarrasin - EVT
+_Nationale 4, ronde 5 (2014/02/02)_
+
+##### &#9823;&#9823;  **Boufarachan-Laffont**, _Ech. 5_
+
+`8/1p3pk1/2rp1p1p/p4r2/1bP2N2/1P2PNPP/P1b2P1K/3R2R1 w - - 1 37`
+
+&#9675; Dans cette partie complexe, les Blancs ont eu leurs chances, par exemple ici après que les Noirs aient joué l'imprécis **28...Tf5??**.
+
 
 ### Tournoi Interne EVT, ronde 3
 _Ronde 3 (2014/01/17)_
@@ -54,6 +63,7 @@ _Régionale 2, ronde 4 (2014/01/12)_
 `r2qkbnr/2p2ppp/p1np4/1p1bp1N1/4P3/1B1PB3/PPP2PPP/R2QK2R w KQkq - 0 9`
 
 &#9675; Les Noirs, en retard de développement, ont tenté de supprimer une pièce d'attaque adverse par **9...Fxd5??**, mais ils n'ont pas vu la réalité du danger. Comment les Blancs prennent-ils un avantage définitif ?
+
 
 ### EVT - CEIT 3
 _Nationale 4, ronde 4 (2014/01/12)_
