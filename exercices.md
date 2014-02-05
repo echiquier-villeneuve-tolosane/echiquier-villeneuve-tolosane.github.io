@@ -221,9 +221,3 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 `2r4k/6p1/pp5p/4bq2/1P6/P5P1/4QNKP/3R4 w - - 4 35`
 
 &#9675; Les Noirs viennent de jouer **35...Tc8??**. Les Blancs ont un motif tactique qui leur permet de prendre un avantage décisif.
-
-
-## Solutions des exercices
-
-##### Boucharafan-Laffont (1)
-Les Blancs avaient la fourchette **38.Cd4!** et sur **38...Fxd1** ils prennent une pièce d'avance avec le coup intermédiaire **39.Cxf5+ Rh7 40.Txd1 (+-).
