@@ -19,4 +19,4 @@ Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pa
 
 `2r5/pp2n3/4k3/2p1Nb1p/3Pp1pP/2P3P1/PP2KR2/1R6 b - - 2 27`
 
-&#9679; Les Blancs viennent de jouer **27.Tb1??**, qui a l'air presque anodin ; en fait il perd rapidement.
+&#9679; Les Blancs viennent de jouer le coup **27.Tb1??**, qui a l'air presque anodin ; en fait il perd rapidement.
