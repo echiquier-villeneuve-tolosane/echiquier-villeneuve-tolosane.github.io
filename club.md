@@ -21,7 +21,7 @@ Le calendrier des cours est consultable [ici]({{ page.root }}/calendar.html).
 
 ###Le tournoi interne ouvert 2013-2014###
 
-Cette année, le **Tournoi Interne** est un Open - toutes rondes à 10 joueurs.
+Cette année, le **Tournoi Interne** est un Open - toutes rondes à 10 joueurs, homologué FIDE et FFE.
 
 La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 15min + 30s/c. Le départage est le suivant : cumulatif, Buchholz, performance ELO. Daniel Poussy nous fera l'honeeur d'être l'infatigable arbitre du tournoi.
 
