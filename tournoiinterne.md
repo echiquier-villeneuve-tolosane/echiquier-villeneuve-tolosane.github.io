@@ -53,7 +53,7 @@ published: true
 |*1*| [1] | GARCIA DEL PRADO Bruno |**1**|**0**| BIGNEBAT Jean-Paul      | [2] |
 |*2*|[0,5]| COURET Henri           |**1**|**0**| DOUSTENS Jean-Jacques   | [0] |
 |*3*| [2] | BREHAULT Eric          |**0**|**1**| GUERIN Laurent          | [3] |
-|*4*| [1] | GRASSAUD Guillaume     |**1**|**0**| LAFFONT Jean-Christophe | [1] |
+|*4*| [2] | GRASSAUD Guillaume     |**1**|**0**| LAFFONT Jean-Christophe | [1] |
 |*5*| [3] | DORIVAL Olivier        |**1**|**0**| LIDOINE Stéphane        |[0,5]|
 
 |*Ech*|   | **Ronde 5**             |     |     |  (28/02 et 7/03)       |     |
