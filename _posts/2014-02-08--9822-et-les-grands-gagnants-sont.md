@@ -11,4 +11,4 @@ Dans le premier tournoi, les combattants munis de leur arme secrète, j'ai nomm�
 
 Dans le second tournoi, les rangs de guerroyeurs se sont vus grossis de l'arrivée de Philippe, Stéphane, et Guillaume, le tout donnant lieu à d'infatigables passes d'armes au cours d'une toute ronde simple.
 
-Les grands gagnants de la soirée sont ... les échecs !!! Et bonne nouvelle pour tous : ils remettront très prochainement leur titre en jeu, toujours au siège de l'EVT.
+Les grands gagnants de la soirée sont ... les échecs !!! Et bonne nouvelle pour tous : ils remettront très prochainement leur titre en jeu, toujours au siège de l'EVT
