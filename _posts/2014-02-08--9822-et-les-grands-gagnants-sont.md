@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#9822; Et les grands gagnants sont ..."
+title: "&#9823; Et les grands gagnants sont ..."
 layout: default
 root: ../../..
 ---
