@@ -13,10 +13,10 @@ Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pa
 
 ### Le diagramme de la semaine ###
 
-**Retourvez tous les diagrammes issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
+**Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9820;   **Nassar (Lardennes 2) - Laffont (EVT) **, 2013, _Nationale 4_, _Ronde 3_, _Ech. 7_
+##### &#9823;&#9823;  **Haddab (Castelsarrasin) - Dorival (EVT)**, 2013, _Nationale 4_, _Ronde 5_, _Ech. 3_
 
-`2r5/pp2n3/4k3/2p1Nb1p/3Pp1pP/2P3P1/PP2KR2/1R6 b - - 2 27`
+`1rqb1rk1/p4ppp/1pPn4/2pN1b2/5P2/1Q2BB2/PP4PP/3R1RK1 w - - 5 20`
 
-&#9679; Les Blancs viennent de jouer le coup **27.Tb1??**, qui a l'air presque anodin ; en fait il perd rapidement.
+&#9675; Pour défendre à la fois la fourchette et l'avancée du pion c, les Noirs viennent de jouer **19...Fe7-d8??** qui s'est avéré être une erreur décisive. Le prochain coup des Blancs a été dévastateur.
