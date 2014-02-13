@@ -24,7 +24,7 @@ _Nationale 4, ronde 5 (2014/02/02)_
 
 &#9675; Les Blancs sont encore mieux, mais n'ont pas vu la menace des Noirs. Que fallait-il jouer ?
 
-##### &#9823;&#9823;  **Haddab-Dorival**, _Ech. 2_
+##### &#9823;&#9823;  **Haddab-Dorival**, _Ech. 3_
 
 `1rqb1rk1/p4ppp/1pPn4/2pN1b2/5P2/1Q2BB2/PP4PP/3R1RK1 w - - 5 20`
 
