@@ -245,6 +245,12 @@ Il faut à tout prix parer le mat en g5 ! Le bon coup était **53.Tf4!!** et sur
 &#9823;&#9823;  **Haddab-Dorival** : 
 Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20...Fxc7 21.Ce7+** gagne la dame. Le mieux est encore de laisser le fou : **20...Tb7 21.cxd8=D Txd8 (+-)**.
 
+&#9820;  **Ramahef-Rich** :
+Attention, prendre le cavalier est tentant, mais trop dangereux, à cause de l'arrivée des pions dans la zone de promotion ! Par exemple les suites suivantes sont prometteuses pour les Noirs :
+- **34.Fxc3? dxc3 35.b3** (35.bxc3?? b3!! 36.Tb5 Tb6!) **Ta3 (+-)**,
+- **34.bxc3? b3!! 35.cxd4 b2 36.Tb5 Tb6 37.Txb2 Txb2 (+-)**.
+Mieux vaut donc jouer autre chose, par exemple 34.g3 pour se libérer de la menace Ta1.
+
 &#9822;  **Grassaud-Laffont** :
 Les Blancs, en plus de déstructurer les pions noirs, gagnent un pion central avec : **7.Fxc6+ bxc6 8.Cxc5 dxc5 9.Cxe5 (+-)**.
 
@@ -320,3 +326,4 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 
 &#9822; **Laffont-Guérin** :
 **35.Td5!** clouant le fou, et la position des Noirs est sans espoir : **35...Tc2 36.Txe5 Txe2 37.Txf5 (+-)**.
+
