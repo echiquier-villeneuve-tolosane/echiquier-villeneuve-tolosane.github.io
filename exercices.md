@@ -30,6 +30,13 @@ _Nationale 4, ronde 5 (2014/02/02)_
 
 &#9675; Pour défendre à la fois la fourchette et l'avancée du pion c, les Noirs viennent de jouer **19...Fe7-d8??** qui s'est avéré être une erreur décisive. Le prochain coup des Blancs a été dévastateur.
 
+##### &#9828;  **Ramahef-Rich**, _Ech. 1_
+
+`6k1/p5pp/r7/2R5/1p1p4/2nP3P/1P1B1PP1/5K2 w - - 0 33`
+
+&#9675; Les Noirs viennent de jouer **33...Cc3** introduisant le cavalier dans une zone exposée mais très influente. Les Blancs peuvent-ils le prendre ?
+
+
 
 ### Tournoi Interne EVT, ronde 4
 _Ronde 4 (2014/01/24)_
