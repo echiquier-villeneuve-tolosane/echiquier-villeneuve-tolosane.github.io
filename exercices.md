@@ -249,6 +249,7 @@ Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20..
 Attention, prendre le cavalier est tentant, mais trop dangereux, à cause de l'arrivée des pions dans la zone de promotion ! Par exemple les suites suivantes sont prometteuses pour les Noirs :
 - **34.Fxc3? dxc3 35.b3** (35.bxc3?? b3!! 36.Tb5 Tb6!) **Ta3 (+-)**,
 - **34.bxc3? b3!! 35.cxd4 b2 36.Tb5 Tb6 37.Txb2 Txb2 (+-)**.
+
 Mieux vaut donc jouer autre chose, par exemple 34.g3 pour se libérer de la menace Ta1.
 
 &#9822;  **Grassaud-Laffont** :
