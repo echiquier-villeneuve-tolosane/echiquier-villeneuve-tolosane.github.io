@@ -12,6 +12,12 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 ### Castelsarrasin - EVT
 _Nationale 4, ronde 5 (2014/02/02)_
 
+##### &#9822;  **Poussy-Tabone**, _Ech. 8_
+
+`r5k1/1pp2ppp/3b2rq/pP6/5P2/4pB2/1PP2RPP/R1Q1B2K b - - 0 26`
+
+&#9675; Dans la suite, les Noirs ont joué **26...exf2** et ont fini par gagner grâce à leur qualité d'avance. Mais ils avaient une suite beaucoup plus forte ! La voyez-vous ?
+
 ##### &#9822;  **Boufarachan-Laffont**, _Ech. 5_
 
 `8/1p3pk1/2rp1p1p/p4r2/1bP2N2/1P2PNPP/P1b2P1K/3R2R1 w - - 1 37`
@@ -327,4 +333,3 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 
 &#9822; **Laffont-Guérin** :
 **35.Td5!** clouant le fou, et la position des Noirs est sans espoir : **35...Tc2 36.Txe5 Txe2 37.Txf5 (+-)**.
-
