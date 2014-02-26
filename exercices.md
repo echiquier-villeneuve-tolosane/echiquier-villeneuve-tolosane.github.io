@@ -16,7 +16,7 @@ _Nationale 4, ronde 5 (2014/02/02)_
 
 `r5k1/1pp2ppp/3b2rq/pP6/5P2/4pB2/1PP2RPP/R1Q1B2K b - - 0 26`
 
-&#9675; Dans la suite, les Noirs ont joué **26...exf2** et ont fini par gagner grâce à leur qualité d'avance. Mais ils avaient une suite beaucoup plus forte ! La voyez-vous ?
+&#9679; Dans la suite, les Noirs ont joué **26...exf2** et ont fini par gagner grâce à leur qualité d'avance. Mais ils avaient une suite beaucoup plus forte ! La voyez-vous ?
 
 ##### &#9822;  **Boufarachan-Laffont**, _Ech. 5_
 
