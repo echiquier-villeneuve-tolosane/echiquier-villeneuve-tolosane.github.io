@@ -15,8 +15,8 @@ Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pa
 
 **Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9823;&#9823;  **Haddab (Castelsarrasin) - Dorival (EVT)**, 2013, _Nationale 4_, _Ronde 5_, _Ech. 3_
+##### &#9822;  **Poussy (EVT) - Tabone (Castelsarrasin)**, 2014, _Nationale 4_, _Ronde 5_, _Ech. 8_
 
-`1rqb1rk1/p4ppp/1pPn4/2pN1b2/5P2/1Q2BB2/PP4PP/3R1RK1 w - - 5 20`
+`r5k1/1pp2ppp/3b2rq/pP6/5P2/4pB2/1PP2RPP/R1Q1B2K b - - 0 26`
 
-&#9675; Pour défendre à la fois la fourchette et l'avancée du pion c, les Noirs viennent de jouer **19...Fe7-d8??** qui s'est avéré être une erreur décisive. Le prochain coup des Blancs a été dévastateur.
+&#9679; Dans la suite, les Noirs ont joué **26...exf2** et ont fini par gagner grâce à leur qualité d'avance. Mais ils avaient une suite beaucoup plus forte ! La voyez-vous ?
