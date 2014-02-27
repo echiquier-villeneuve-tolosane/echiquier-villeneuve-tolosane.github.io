@@ -28,7 +28,7 @@ _Nationale 4, ronde 5 (2014/02/02)_
 
 `8/1p3p2/5p1k/p4P1N/3R2PK/1P2bb1P/P5r1/5R2 w - - 0 53`
 
-&#9675; Les Blancs sont encore mieux, mais n'ont pas vu la menace des Noirs. Que fallait-il jouer ?
+&#9675; Les Blancs sont encore mieux, mais n'ont pas vu la menace des Noirs, et la partie s'est conclue sur **54.Txf3?? Fg5#**. Que fallait-il jouer ?
 
 ##### &#9823;&#9823;  **Haddab-Dorival**, _Ech. 3_
 
@@ -241,6 +241,10 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 
 ## Solutions des exercices
 
+&#9822;  **Poussy-Tabone** :
+Les Noirs sont gagnants mais disposent de deux suites particulièrement décisives :
+- **28.Fxf4 h3 29.exf2 Fd2 30.Fxd2 Df1 (+-)**,
+- **28.Dxf4 g3 29.exf2 Fxf2 30.Dxf3+ (+-)**.
 
 &#9822;  **Boufarachan-Laffont (1)** : 
 Les Blancs avaient la fourchette **38.Cd4!** et sur **38...Fxd1** ils prennent une pièce d'avance avec le coup intermédiaire **39.Cxf5+ Rh7 40.Txd1 (+-)**.
