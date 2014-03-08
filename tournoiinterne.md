@@ -60,8 +60,8 @@ published: true
 |:-:|:---:| ----------------------- |:---:|:---:| ---------------------- |:---:|
 |*1*| [0,5] | LIDOINE Stéphane        |**-**|**-**| GARCIA DEL PRADO Bruno | [2] |
 |*2*| [1] | LAFFONT Jean-Christophe |**0**|**1**| DORIVAL Olivier        | [4] |
-|*3*| [4] | GUERIN Laurent          |**-**|**-**| GRASSAUD Guillaume     | [3] |
-|*4*| [0] | DOUSTENS Jean-Jacques   |**-**|**-**| BREHAULT Eric          | [2] |
+|*3*| [4] | GUERIN Laurent          |**0**|**1**| GRASSAUD Guillaume     | [3] |
+|*4*| [0] | DOUSTENS Jean-Jacques   |**1**|**0**| BREHAULT Eric          | [2] |
 |*5*| [2] | BIGNEBAT Jean-Paul      |**-**|**-**| COURET Henri           | [1,5] |
 
 |*Ech*|   | **Ronde 6**          |     |     |  (28/03 et 11/04)         |     |
