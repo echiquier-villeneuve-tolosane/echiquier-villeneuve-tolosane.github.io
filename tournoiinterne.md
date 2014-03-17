@@ -66,11 +66,11 @@ published: true
 
 |*Ech*|   | **Ronde 6**          |     |     |  (28/03 et 11/04)         |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*1*| [ ] | GARCIA DEL PRADO Bruno    |**-**|**-**| COURET Henri         | [ ] |
+|*1*| [3] | GARCIA DEL PRADO Bruno    |**-**|**-**| COURET Henri         | [ ] |
 |*2*| [2] | BREHAULT Eric        |**-**|**-**| BIGNEBAT Jean-Paul        | [ ] |
 |*3*| [4] | GRASSAUD Guillaume   |**-**|**-**| DOUSTENS Jean-Jacques     | [1] |
 |*4*| [5] | DORIVAL Olivier      |**-**|**-**| GUERIN Laurent            | [4] |
-|*5*| [ ] | LIDOINE Stéphane     |**-**|**-**| LAFFONT Jean-Christophe   | [1] |
+|*5*| [0,5] | LIDOINE Stéphane     |**-**|**-**| LAFFONT Jean-Christophe   | [1] |
 
 |*Ech*|   | **Ronde 7**          |     |     |  (18/04 et 2/05)          |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
