@@ -58,7 +58,7 @@ published: true
 
 |*Ech*|   | **Ronde 5**             |     |     |  (28/02 et 7/03)       |     |
 |:-:|:---:| ----------------------- |:---:|:---:| ---------------------- |:---:|
-|*1*| [0,5] | LIDOINE Stéphane        |**-**|**-**| GARCIA DEL PRADO Bruno | [2] |
+|*1*| [0,5] | LIDOINE Stéphane       |**0**|**1**| GARCIA DEL PRADO Bruno | [2] |
 |*2*| [1] | LAFFONT Jean-Christophe |**0**|**1**| DORIVAL Olivier        | [4] |
 |*3*| [4] | GUERIN Laurent          |**0**|**1**| GRASSAUD Guillaume     | [3] |
 |*4*| [0] | DOUSTENS Jean-Jacques   |**1**|**0**| BREHAULT Eric          | [2] |
