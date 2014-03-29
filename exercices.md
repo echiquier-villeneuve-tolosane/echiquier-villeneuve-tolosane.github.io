@@ -9,6 +9,20 @@ title: Exercices et problèmes
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles en bas de cette page.
 
 
+### Tournoi Interne EVT, ronde 5
+_Ronde 5 (2014/02/28)_
+
+##### &#9822;  **Laffont-Dorival**, _Ech. 2_
+
+`1rr2bk1/5pp1/1q2p2p/1P1b4/1ppPNPQ1/4R1P1/1P5P/3R1BK1 b - - 2 29`
+
+&#9679; Pour tenter de justifier le pion laissé dans l'ouverture, les Blancs viennent de lancer une offensive sur le roi noir par **29.Dg4?**. Les Noirs doivent bondir sur l'occasion.
+
+
+
+
+
+
 ### Castelsarrasin - EVT
 _Nationale 4, ronde 5 (2014/02/02)_
 
