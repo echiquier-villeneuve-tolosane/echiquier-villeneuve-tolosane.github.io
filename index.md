@@ -15,8 +15,8 @@ Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pa
 
 **Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9822;  **Poussy (EVT) - Tabone (Castelsarrasin)**, 2014, _Nationale 4_, _Ronde 5_, _Ech. 8_
+##### &#9820; **Dorival (EVT) - Alonso (Fontenilles) **, 2014, _Nationale 4_, _Ronde 6_, _Ech. 3_
 
-`r5k1/1pp2ppp/3b2rq/pP6/5P2/4pB2/1PP2RPP/R1Q1B2K b - - 0 26`
+`1k3r2/1p6/p1b1p3/P2pP2p/1P1Q2p1/2R3Pq/5P1P/4R1K1 w - - 0 29`
 
-&#9679; Dans la suite, les Noirs ont joué **26...exf2** et ont fini par gagner grâce à leur qualité d'avance. Mais ils avaient une suite beaucoup plus forte ! La voyez-vous ?
+&#9675; Les Noirs ont tenté d'ouvrir le jeu par **29...g4??**. Pourquoi l'indicateur du logiciel vient-il alors de bondir au plafond ?
