@@ -9,6 +9,22 @@ title: Exercices et problèmes
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles en bas de cette page.
 
 
+### EVT - Fontenilles
+_Nationale 4, ronde 6 (2014/03/23)_
+
+##### &#9823;&#9823; **Dorival-Alonso**, _Ech. 3_
+
+`2kr2nr/ppqb2pp/2n1p3/3pP3/P7/NP3N2/4BPPP/R2Q1RK1 w - - 1 13`
+
+&#9675; La Française des Noirs a commencé à mal tourner après qu'ils ait joué le dernier coup \textbf{13...Dc7?!}.
+
+##### &#9820; **Dorival-Alonso**, _Ech. 3_
+
+`1k3r2/1p6/p1b1p3/P2pP2p/1P1Q2p1/2R3Pq/5P1P/4R1K1 w - - 0 29`
+
+&#9675; Les Noirs ont tenté d'ouvrir le jeu par \textbf{29...g4??}. Pourquoi l'indicateur du logiciel vient-il alors de bondir au plafond ?
+
+
 ### Tournoi Interne EVT, ronde 5
 _Ronde 5 (2014/02/28)_
 
@@ -17,10 +33,6 @@ _Ronde 5 (2014/02/28)_
 `1rr2bk1/5pp1/1q2p2p/1P1b4/1ppPNPQ1/4R1P1/1P5P/3R1BK1 b - - 2 29`
 
 &#9679; Pour tenter de justifier le pion laissé dans l'ouverture, les Blancs viennent de lancer une offensive sur le roi noir par **29.Dg4?**. Les Noirs doivent bondir sur l'occasion.
-
-
-
-
 
 
 ### Castelsarrasin - EVT
