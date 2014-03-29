@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#9820; Ménager le suspens ... (interclub ronde 6)"
+title: "&#9822; Ménager le suspens ... (interclub ronde 6)"
 layout: default
 root: ../../..
 ---
