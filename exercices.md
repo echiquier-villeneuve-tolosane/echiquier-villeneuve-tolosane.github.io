@@ -22,7 +22,7 @@ _Nationale 4, ronde 6 (2014/03/23)_
 
 `1k3r2/1p6/p1b1p3/P2pP2p/1P1Q2p1/2R3Pq/5P1P/4R1K1 w - - 0 29`
 
-&#9675; Les Noirs ont tenté d'ouvrir le jeu par \textbf{29...g4??}. Pourquoi l'indicateur du logiciel vient-il alors de bondir au plafond ?
+&#9675; Les Noirs ont tenté d'ouvrir le jeu par **29...g4??**. Pourquoi l'indicateur du logiciel vient-il alors de bondir au plafond ?
 
 
 ### Tournoi Interne EVT, ronde 5
