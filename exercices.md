@@ -12,7 +12,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 ### Tournoi Interne EVT, ronde 5
 _Ronde 5 (2014/02/28)_
 
-##### &#9822;  **Laffont-Dorival**, _Ech. 2_
+##### &#9823;&#9823; **Laffont-Dorival**, _Ech. 2_
 
 `1rr2bk1/5pp1/1q2p2p/1P1b4/1ppPNPQ1/4R1P1/1P5P/3R1BK1 b - - 2 29`
 
