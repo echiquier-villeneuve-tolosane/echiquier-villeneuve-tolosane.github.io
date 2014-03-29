@@ -18,7 +18,7 @@ _Nationale 4, ronde 6 (2014/03/23)_
 
 &#9675; La Française des Noirs a commencé à mal tourner après qu'ils ait joué le dernier coup \textbf{13...Dc7?!}.
 
-##### &#9820; **Dorival-Alonso**, _Ech. 3_
+##### &#9821; **Dorival-Alonso**, _Ech. 3_
 
 `1k3r2/1p6/p1b1p3/P2pP2p/1P1Q2p1/2R3Pq/5P1P/4R1K1 w - - 0 29`
 
@@ -363,3 +363,9 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 
 &#9822; **Laffont-Guérin** :
 **35.Td5!** clouant le fou, et la position des Noirs est sans espoir : **35...Tc2 36.Txe5 Txe2 37.Txf5 (+-)**.
+
+&#9823;&#9823; **Laffont-Dorival** :
+
+&#9823;&#9823; **Dorival-Alonso (1)** :
+
+&#9821; **Dorival-Alonso (2)** :
