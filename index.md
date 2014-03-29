@@ -15,7 +15,7 @@ Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pa
 
 **Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9820; **Dorival (EVT) - Alonso (Fontenilles) **, 2014, _Nationale 4_, _Ronde 6_, _Ech. 3_
+##### &#9821; **Dorival (EVT) - Alonso (Fontenilles) **, 2014, _Nationale 4_, _Ronde 6_, _Ech. 3_
 
 `1k3r2/1p6/p1b1p3/P2pP2p/1P1Q2p1/2R3Pq/5P1P/4R1K1 w - - 0 29`
 
