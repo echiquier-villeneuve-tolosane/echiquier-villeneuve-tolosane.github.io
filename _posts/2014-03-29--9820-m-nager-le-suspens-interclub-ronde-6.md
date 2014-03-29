@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&9820; Ménager le suspens ... (interclub ronde 6)"
+title: "&#9820; Ménager le suspens ... (interclub ronde 6)"
 layout: default
 root: ../../..
 ---
@@ -13,4 +13,4 @@ L'équipe se retrouve alors menée sur le plus petit score : 3-2, avec trois par
 
 Reste Joël, qui se bat maintenant pour la gloire face à Guy Cesbron (2040!), soutenu par le reste de l'équipe ! Et il est mieux ... Avec une qualité et un pion de plus, il tergiverse, difficile de progresser. Il faut peut-être rendre la qualité ... Bref il signe bientôt une bonne nulle. Quelques regrets mais surtout une belle journée de bataille.
 
-
+Cette 6e journée était importante pour le maintien de l'équipe en N4, pas seulement pour cette rencontre, mais également à cause de le rencontre entre ses deux poursuivants directs, Condom et Tarbes. Une défaite de Condom aurait assuré le maintien de l'EVT en N4. Oui mais voilà, Condom a su sortir le grand jeu et aller s'imposer 4-3 sur les terres de Tarbes. Du coup le suspense reste entier pour le maintien : l'EVT rencontrera son poursuivant Tarbes lors de la dernière ronde, à l'extérieur. Une victoire ou une nulle assurera le maintient, tandis qu'une défaite suspendrait les espoirs de l'EVT au résultat du match Fontenilles-Condom.
