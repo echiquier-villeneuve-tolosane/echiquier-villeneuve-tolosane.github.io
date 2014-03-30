@@ -368,5 +368,6 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 Les Noirs prennent le dessus par **29...Fxe4! 30.Txe4 f5 (+-)** gagnant une pièce. Attention à ne pas être trop pressé : la fourchette immédiatement ne marche pas : **29...f5? 30.Cf6+ Rh8** (ou autre) **31.Cxd5 fxg4 32.Cxb6 (=)**.
 
 &#9823;&#9823; **Dorival-Alonso (1)** :
-
+La position exposée de la dame permet aux Blancs de centraliser le cavalier ... et même plus : **14.Cb5 Da5 **(idem avec Db6) **15.Cd6+ Rb8 16.Cf7** permet aux Blancs de gagner la qualité.
+ 
 &#9821; **Dorival-Alonso (2)** :
