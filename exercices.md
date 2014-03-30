@@ -365,6 +365,7 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 **35.Td5!** clouant le fou, et la position des Noirs est sans espoir : **35...Tc2 36.Txe5 Txe2 37.Txf5 (+-)**.
 
 &#9823;&#9823; **Laffont-Dorival** :
+Les Noirs prennent le dessus par **29...Fxe4! 30.Txe4 f5 (+-)** gagnant une pièce. Attention à ne pas être trop pressé : la fourchette immédiatement ne marche pas : **29...f5? 30.Cf6+ Rh8** (ou autre) **31.Cxd5 fxg4 32.Cxb6 (=)**.
 
 &#9823;&#9823; **Dorival-Alonso (1)** :
 
