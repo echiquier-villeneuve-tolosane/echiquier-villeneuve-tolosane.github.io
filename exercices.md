@@ -368,6 +368,9 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 Les Noirs prennent le dessus par **29...Fxe4! 30.Txe4 f5 (+-)** gagnant une pièce. Attention à ne pas être trop pressé : la fourchette immédiatement ne marche pas : **29...f5? 30.Cf6+ Rh8** (ou autre) **31.Cxd5 fxg4 32.Cxb6 (=)**.
 
 &#9823;&#9823; **Dorival-Alonso (1)** :
-La position exposée de la dame permet aux Blancs de centraliser le cavalier ... et même plus : **14.Cb5 Da5 **(idem avec Db6) **15.Cd6+ Rb8 16.Cf7** permet aux Blancs de gagner la qualité.
+La position exposée de la dame permet aux Blancs de centraliser le cavalier ... et même plus : **14.Cb5 Da5** (idem avec Db6) **15.Cd6+ Rb8 16.Cf7** permet aux Blancs de gagner la qualité.
  
 &#9821; **Dorival-Alonso (2)** :
+Les Blancs gagnent une pièce par **30.Txc6!! bxc6 31.Db6+** et maintenant les Blancs regagnent la tour ou matent. Parmi les suites possibles (celles que j'ai vues dans la parties, mais il y a plus direct !) :
+- soit **31... Ra8 32.Dxc6+ Ra7 (32...Rb8 33.Db6+) 33.Dc5+ Ra7 (33... Ra8 34.Dxf8+) 34.De7+ Ra8 35.Dxf8+ (+-)** et le mat avec l'aide de la tour e1 devrait suivre rapidement,
+- soit **31... Rc8 32.Dxc6+ Rd8 (32...Rb8 33.Dd6+ **puis** 34.Dxf8+) 33.Dd6+ Re8  34.De6+ Rd8 35.Tc1! (+-)** suivi du mat.
