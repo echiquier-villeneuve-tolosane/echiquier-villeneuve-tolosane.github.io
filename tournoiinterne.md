@@ -11,44 +11,44 @@ published: true
 
 |*Ech*|     | **Ronde 1**        |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*1*| [] | GRASSAUD Guillaume   |****|****| GARCIA DEL PRADO Bruno    | [] |
-|*2*| [] | DORIVAL Olivier      |****|****| BREHAULT Eric             | [] |
-|*3*| [] | LIDOINE Stéphane     |****|****| COURET Henri          | [] |
-|*4*| [] | LAFFONT Jean-Christophe |****|****| BIGNEBAT Jean-Paul     | [] |
-|*5*| [] | GUERIN Laurent        |****|****| DOUSTENS Jean-Jacques    | [] |
+|*1*| [] | GRASSAUD Guillaume   |**-**|**-**| GARCIA DEL PRADO Bruno    | [] |
+|*2*| [] | DORIVAL Olivier      |**-**|**-**| BREHAULT Eric             | [] |
+|*3*| [] | LIDOINE Stéphane     |**-**|**-**| COURET Henri          | [] |
+|*4*| [] | LAFFONT Jean-Christophe |**-**|**-**| BIGNEBAT Jean-Paul     | [] |
+|*5*| [] | GUERIN Laurent        |**-**|**-**| DOUSTENS Jean-Jacques    | [] |
 
 
 |*Ech*|     | **Ronde 2**        |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*1*| [] | GARCIA DEL PRADO Bruno  |****|****| DOUSTENS Jean-Jacques  | [] |
-|*2*| [] | BIGNEBAT Jean-Paul   |****|****| GUERIN Laurent            | [] |
-|*3*| [] | COURET Henri       |****|****| LAFFONT Jean-Christophe   | [] |
-|*4*| [] | BREHAULT Eric        |****|****| LIDOINE Stéphane          |[]|
-|*5*| [] | GRASSAUD Guillaume   |****|****| DORIVAL Olivier           | [] |
+|*1*| [] | GARCIA DEL PRADO Bruno  |**-**|**-**| DOUSTENS Jean-Jacques  | [] |
+|*2*| [] | BIGNEBAT Jean-Paul   |**-**|**-**| GUERIN Laurent            | [] |
+|*3*| [] | COURET Henri       |**-**|**-**| LAFFONT Jean-Christophe   | [] |
+|*4*| [] | BREHAULT Eric        |**-**|**-**| LIDOINE Stéphane          |[]|
+|*5*| [] | GRASSAUD Guillaume   |**-**|**-**| DORIVAL Olivier           | [] |
 
 |*Ech*|     | **Ronde 3**        |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*1*| [] | DORIVAL Olivier      |****|****| GARCIA DEL PRADO Bruno    | [] |
-|*2*|[]| LIDOINE Stéphane     |****|****| GRASSAUD Guillaume        | [] |
-|*3*| [] | LAFFONT Jean-Christophe  |****|****| BREHAULT Eric         | [] |
-|*4*| [] | GUERIN Laurent           |****|****| COURET Henri          |[]|
-|*5*| [] | DOUSTENS Jean-Jacques    |****|****| BIGNEBAT Jean-Paul    | [] |
+|*1*| [] | DORIVAL Olivier      |**-**|**-**| GARCIA DEL PRADO Bruno    | [] |
+|*2*|[]| LIDOINE Stéphane     |**-**|**-**| GRASSAUD Guillaume        | [] |
+|*3*| [] | LAFFONT Jean-Christophe  |**-**|**-**| BREHAULT Eric         | [] |
+|*4*| [] | GUERIN Laurent           |**-**|**-**| COURET Henri          |[]|
+|*5*| [] | DOUSTENS Jean-Jacques    |**-**|**-**| BIGNEBAT Jean-Paul    | [] |
 
 |*Ech*|   | **Ronde 4**          |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*1*| [] | GARCIA DEL PRADO Bruno |****|****| BIGNEBAT Jean-Paul      | [] |
-|*2*|[]| COURET Henri           |****|****| DOUSTENS Jean-Jacques   | [] |
-|*3*| [] | BREHAULT Eric          |****|****| GUERIN Laurent          | [] |
-|*4*| [] | GRASSAUD Guillaume     |****|****| LAFFONT Jean-Christophe | [] |
-|*5*| [] | DORIVAL Olivier        |****|****| LIDOINE Stéphane        |[]|
+|*1*| [] | GARCIA DEL PRADO Bruno |**-**|**-**| BIGNEBAT Jean-Paul      | [] |
+|*2*|[]| COURET Henri           |**-**|**-**| DOUSTENS Jean-Jacques   | [] |
+|*3*| [] | BREHAULT Eric          |**-**|**-**| GUERIN Laurent          | [] |
+|*4*| [] | GRASSAUD Guillaume     |**-**|**-**| LAFFONT Jean-Christophe | [] |
+|*5*| [] | DORIVAL Olivier        |**-**|**-**| LIDOINE Stéphane        |[]|
 
 |*Ech*|   | **Ronde 5**             |     |     |                        |     |
 |:-:|:---:| ----------------------- |:---:|:---:| ---------------------- |:---:|
-|*1*| [] | LIDOINE Stéphane        |****|****| GARCIA DEL PRADO Bruno | [] |
-|*2*| [] | LAFFONT Jean-Christophe |****|****| DORIVAL Olivier        | [] |
-|*3*| [] | GUERIN Laurent          |****|****| GRASSAUD Guillaume     | [] |
-|*4*| [] | DOUSTENS Jean-Jacques   |****|****| BREHAULT Eric          | [] |
-|*5*| [] | BIGNEBAT Jean-Paul      |****|****| COURET Henri           | [] |
+|*1*| [] | LIDOINE Stéphane        |**-**|**-**| GARCIA DEL PRADO Bruno | [] |
+|*2*| [] | LAFFONT Jean-Christophe |**-**|**-**| DORIVAL Olivier        | [] |
+|*3*| [] | GUERIN Laurent          |**-**|**-**| GRASSAUD Guillaume     | [] |
+|*4*| [] | DOUSTENS Jean-Jacques   |**-**|**-**| BREHAULT Eric          | [] |
+|*5*| [] | BIGNEBAT Jean-Paul      |**-**|**-**| COURET Henri           | [] |
 
 |*Ech*|   | **Ronde 6**          |     |     |  (28/03 et 11/04)         |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
