@@ -50,7 +50,7 @@ published: true
 |*4*| [] | DOUSTENS Jean-Jacques   |**-**|**-**| BREHAULT Eric          | [] |
 |*5*| [] | BIGNEBAT Jean-Paul      |**-**|**-**| COURET Henri           | [] |
 
-|*Ech*|   | **Ronde 6**          |     |     |  (28/03 et 11/04)         |     |
+|*Ech*|   | **Ronde 6**          |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
 |*1*| [] | GARCIA DEL PRADO Bruno    |**-**|**-**| COURET Henri         | [] |
 |*2*| [] | BREHAULT Eric        |**-**|**-**| BIGNEBAT Jean-Paul        | [] |
