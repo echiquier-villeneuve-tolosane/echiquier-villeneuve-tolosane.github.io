@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#9822; 5 parties décisives pour la 4e ronde du tournoi interne !"
+title: "♞ 5 parties décisives pour la 4e ronde du tournoi interne !"
 layout: default
 root: ../../..
 ---
