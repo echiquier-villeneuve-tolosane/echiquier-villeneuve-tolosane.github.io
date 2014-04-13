@@ -1,4 +1,5 @@
-name: Your New Jekyll Site
+name: Echiquier Villeneuve-Tolosane
+markdown: kramdown
 pygments: true
 prose:
   media: "photos"
