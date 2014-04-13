@@ -11,6 +11,12 @@ L'EVT est un club très convivial qui se réunit tous les **vendredis soirs à p
 
 Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pas à venir partager un moment amical au club le vendredi soir à partir de 20h45.
 
+### Tournoi Roger Pelat ###
+
+Comme chaque année, l'EVT organise le tournoi Roger Pelat **à Villeneuve Tolosane
+le 8 Mai**. Il s'agit d'un tournoi en 7 rondes de 2x25 mn, avec 1 700 &euro; de
+prix. **[Tous les détails sur le tournoi](tournoi-roger-pelat.html "Tournoi Roger pelat")**.
+
 ### Le diagramme de la semaine ###
 
 **Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
