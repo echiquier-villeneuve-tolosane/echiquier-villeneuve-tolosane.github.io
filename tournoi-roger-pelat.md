@@ -17,11 +17,13 @@ Arbitrage : F. Cwiek
 
 Tournoi enfants à 14h
 
+[![Affiche du tournoi]({{ site.url }}/images/plaquette-small.jpg)]({{ site.url }}/images/plaquette tournoi 8 mai 2014.jpg)
+
 ## Inscriptions et déroulement ##
 
 Adultes : 14€  
 Jeunes (moins de 20 ans au 1er janvier 2013) : 7€
-Préinscription possible par mail avant le 7 mai à [echecsvilleneuve@gmail.com](mailto:echecsvilleneuve@gmail.com) (remise 1€)
+Préinscription possible par mail avant le 7 mai à <echecsvilleneuve@gmail.com> (remise 1€)
 Tournoi Enfants 2€
 Licence A ou B obligatoire.
 
@@ -61,6 +63,6 @@ Prix non cumulables.
 
 ## Renseignements ##
 
-- Daniel POUSSY : 05 61 58 46 99 ou 05 61 48 44 48 ([daniel.poussy@free.fr](mailto:daniel.poussy@free.fr))
+- Daniel POUSSY : 05 61 58 46 99 ou 05 61 48 44 48 (<daniel.poussy@free.fr>)
 - Stéphane LIDOINE: 06 87 51 85 33
 - Philippe RICH: 06 34 02 66 96
