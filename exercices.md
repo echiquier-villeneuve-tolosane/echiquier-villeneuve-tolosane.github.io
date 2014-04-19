@@ -8,6 +8,19 @@ title: Exercices et problèmes
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles en bas de cette page.
 
+### Tournoi Interne EVT, ronde 7
+
+#### &#9823; **Couret-Bréhault** 
+
+`r2q1rk1/1bp2pp1/p3pb1p/8/1P1N4/P2B4/1B3PPP/R2Q1RK1 b - - 0 15`
+
+&#9823; les Noirs viennent de donner un cavalier pour un pion pensant regagner
+une pièce après les échanges en d4: **15...Fxd4 16 Fxd4 Dxd4** mais ils
+n'avaient pas pensé à **17 Fh7+** qui ferait perdre la Dame.
+Pourtant, les Noirs ont trouvé un coup qui permet de reprendre le matériel perdu
+sans danger. Lequel ?
+
+> **15...Dd5!** qui menace de mat en g2.
 
 ### EVT - Fontenilles
 _Nationale 4, ronde 6 (2014/03/23)_
@@ -16,7 +29,7 @@ _Nationale 4, ronde 6 (2014/03/23)_
 
 `2kr2nr/ppqb2pp/2n1p3/3pP3/P7/NP3N2/4BPPP/R2Q1RK1 w - - 1 13`
 
-&#9675; La Française des Noirs a commencé à mal tourner après qu'ils ait joué le dernier coup \textbf{13...Dc7?!}.
+&#9675; La Française des Noirs a commencé a mal tourné après qu'ils ait joué le dernier coup \textbf{13...Dc7?!}.
 
 ##### &#9821; **Dorival-Alonso**, _Ech. 3_
 
