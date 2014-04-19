@@ -9,5 +9,14 @@ $(document).ready(function() {
         });
         board.position(fen, true);
     });
+    $('blockquote').each(function(i, el) {
+        var link = $('<a href="#">Solution</a>');
+        link.click(function() {
+            $(el).toggle();
+            return false;
+        });
+        $(el).before(link);
+        $(el).toggle();
+    });
 
 });
