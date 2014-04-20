@@ -21,8 +21,16 @@ prix. **[Tous les détails sur le tournoi](tournoi-roger-pelat.html "Tournoi Rog
 
 **Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9821; Dorival (EVT) - Alonso (Fontenilles), 2014, _Nationale 4_, _Ronde 6_, _Ech. 3_
 
-`1k3r2/1p6/p1b1p3/P2pP2p/1P1Q2p1/2R3Pq/5P1P/4R1K1 w - - 0 29`
+#### &#9821; Couret (EVT) - Bréhault (EVT), 2014, _Tournoi Interne de l'EVT_, _Ronde 7_ 
 
-&#9675; Les Noirs ont tenté d'ouvrir le jeu par **29...g4??**. Pourquoi l'indicateur du logiciel vient-il alors de bondir au plafond ?
+`r2q1rk1/1bp2pp1/p3pb1p/8/1P1N4/P2B4/1B3PPP/R2Q1RK1 b - - 0 15`
+
+&#9679; les Noirs viennent de donner un cavalier pour un pion pensant regagner
+une pièce après les échanges en d4: **15...Fxd4 16 Fxd4 Dxd4** mais ils
+n'avaient pas pensé à **17 Fh7+** qui ferait perdre la Dame.
+Pourtant, les Noirs ont trouvé un coup intermédiaire qui permet de reprendre le matériel perdu sans danger, et ce pendant la partie ! Lequel ?
+
+> **15...Dd5!** qui menace de mat en g2. Et sur les seules défenses les Noirs récupèrent le matériel :
+- soit **16.f3** et maintenant la prise est sur échec : **16...Fxd5+ 17.Fxd5 18.Dxd5+ (-+)**,
+- soit **16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!!** et les Noirs vont doubler les tours pour réconquérir le matériel.
