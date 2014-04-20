@@ -141,9 +141,9 @@ _Ronde 3 (2014/01/17)_
 &#9675; L'égalité matérielle est toujours là et pourtant les Blancs ont sans conteste une position dominante. Dans la partie ils ont continué par **18.cxb7** et ont obtenu une qualité et une finale gagnante. Mais il y avait une suite bien plus forte. La voyez-vous ?
 
 > Les Blancs ont le très fort **17.Cb5!!** qui menace mat en c7, et les réponses des noires sont désespérées :
-- **17...Fd8 18.Cf7+ Ce4 19.Txe4+ Fe6 (19...Fe7 20.Cxc7#) 20.Cfd6+!! cxd6 (20...Re7 21.Txe6#) 21.Cxd6+ Re7 22.Txe6#**,
-- **17...Fd6 18.Cxc7+ Re7 (18...Fxc7 19.cxb7 Fxb7 20.Cc6+ Ce4 21.Txe4+ Fe5 22.Txe5#) 19.Cg6+ Rd8 20.Cxa8 hxg6 21.c7+ Rd7 22.Fb5#**,
-- **17...Tf7**, le plus résistant, mais désespéré, **18.Cxc7+ Rf8 19.Cxa8 bxc6 20.Cxf7 (+-)**.
+- soit **17...Fd8 18.Cf7+ Ce4 19.Txe4+ Fe6 (19...Fe7 20.Cxc7#) 20.Cfd6+!! cxd6 (20...Re7 21.Txe6#) 21.Cxd6+ Re7 22.Txe6#**,
+- soit **17...Fd6 18.Cxc7+ Re7 (18...Fxc7 19.cxb7 Fxb7 20.Cc6+ Ce4 21.Txe4+ Fe5 22.Txe5#) 19.Cg6+ Rd8 20.Cxa8 hxg6 21.c7+ Rd7 22.Fb5#**,
+- soit **17...Tf7**, le plus résistant, mais désespéré, **18.Cxc7+ Rf8 19.Cxa8 bxc6 20.Cxf7 (+-)**.
 
 
 ### Fontenilles 3 - Entente Ciadoux/EVT
