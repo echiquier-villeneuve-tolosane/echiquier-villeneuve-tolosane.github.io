@@ -100,9 +100,9 @@ _Nationale 4, ronde 5 (2014/02/02)_
 &#9675; Les Noirs viennent de jouer **33...Cc3** introduisant le cavalier dans une zone exposée mais très influente. Les Blancs peuvent-ils le prendre ?
 
 > Attention, prendre le cavalier est tentant, mais trop dangereux, à cause de l'arrivée des pions dans la zone de promotion ! Par exemple les suites suivantes sont prometteuses pour les Noirs :
-- **34.Fxc3? dxc3 35.b3** (35.bxc3?? b3!! 36.Tb5 Tb6!) **Ta3 (+-)**,
-- **34.bxc3? b3!! 35.cxd4 b2 36.Tb5 Tb6 37.Txb2 Txb2 (+-)**.
-Mieux vaut donc jouer autre chose, par exemple 34.g3 pour se libérer de la menace Ta1. Mais reste la menace Tb2.
+- soit **34.Fxc3? dxc3 35.b3** (35.bxc3?? b3!! 36.Tb5 Tb6!) **Ta3 (+-)**,
+- soit **34.bxc3? b3!! 35.cxd4 b2 36.Tb5 Tb6 37.Txb2 Txb2 (+-)**.
+Mieux vaut donc jouer autre chose, par exemple 34.g3 pour se libérer de la menace Ta1. Mais reste la menace Tb2 qui semble difficile à parer.
 
 ### Tournoi Interne EVT, ronde 4
 _Ronde 4 (2014/01/24)_
