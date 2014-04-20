@@ -65,9 +65,9 @@ _Nationale 4, ronde 5 (2014/02/02)_
 
 &#9679; Dans la suite, les Noirs ont joué **26...exf2** et ont fini par gagner grâce à leur qualité d'avance. Mais ils avaient une suite beaucoup plus forte ! La voyez-vous ?
 
->> Les Noirs sont gagnants mais disposent de deux suites particulièrement décisives :
-- **28.Fxf4 h3 29.exf2 Fd2 30.Fxd2 Df1 (+-)**,
-- **28.Dxf4 g3 29.exf2 Fxf2 30.Dxf3+ (+-)**.
+> Les Noirs sont gagnants mais disposent de deux suites particulièrement décisives :
+soit **28.Fxf4 h3 29.exf2 Fd2 30.Fxd2 Df1 (+-)**,
+soit **28.Dxf4 g3 29.exf2 Fxf2 30.Dxf3+ (+-)**.
 
 ##### &#9822;  **Boufarachan-Laffont**, _Ech. 5_
 
