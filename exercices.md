@@ -255,7 +255,7 @@ _Ronde 2 (2013/12/06)_
 
 `r4rk1/3qbppp/pp2pn2/2p3B1/b1B1PQ2/3P2NP/1PP3P1/R3R2K w - - 0 17`
 
-&#9675; Les Noirs viennent de jouer **17...Fxa4??**. Les Blancs peuvent gagner une pièce.
+&#9675; Les Noirs viennent de pêcher pour gourmandise en prenant un pion avec **17...Fxa4??**. Les Blancs peuvent gagner une pièce.
 
 > **17.e5! Ce8** et la Dame noire est surchargée : **18.Fxe7 Dxe7 19.Txa4 (+-)**.
 
