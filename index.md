@@ -21,7 +21,7 @@ prix. **[Tous les détails sur le tournoi](tournoi-roger-pelat.html "Tournoi Rog
 
 **Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9821; Dorival (EVT) - Alonso (Fontenilles), 2014, _Nationale 4_, _Ronde 6_, _Ech. 3_
+##### &#9821; Couret (EVT) - Bréhault (EVT), 2014, _Tournoi Interne de l'EVT_, _Ronde 7_
 
 `r2q1rk1/1bp2pp1/p3pb1p/8/1P1N4/P2B4/1B3PPP/R2Q1RK1 b - - 0 15`
 
