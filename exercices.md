@@ -51,6 +51,8 @@ _Ronde 5 (2014/02/28)_
 
 &#9679; Pour tenter de justifier le pion laissé dans l'ouverture, les Blancs viennent de lancer une offensive sur le roi noir par **29.Dg4?**. Les Noirs doivent bondir sur l'occasion.
 
+> Les Noirs prennent le dessus par **29...Fxe4! 30.Txe4 f5 (+-)** gagnant une pièce. Attention à ne pas être trop pressé : la fourchette immédiatement ne marche pas : **29...f5? 30.Cf6+ Rh8** (ou autre) **31.Cxd5 fxg4 32.Cxb6 (=)**.
+
 
 ### Castelsarrasin - EVT
 _Nationale 4, ronde 5 (2014/02/02)_
@@ -61,11 +63,17 @@ _Nationale 4, ronde 5 (2014/02/02)_
 
 &#9679; Dans la suite, les Noirs ont joué **26...exf2** et ont fini par gagner grâce à leur qualité d'avance. Mais ils avaient une suite beaucoup plus forte ! La voyez-vous ?
 
+> Les Noirs sont gagnants mais disposent de deux suites particulièrement décisives :
+- **28.Fxf4 h3 29.exf2 Fd2 30.Fxd2 Df1 (+-)**,
+- **28.Dxf4 g3 29.exf2 Fxf2 30.Dxf3+ (+-)**.
+
 ##### &#9822;  **Boufarachan-Laffont**, _Ech. 5_
 
 `8/1p3pk1/2rp1p1p/p4r2/1bP2N2/1P2PNPP/P1b2P1K/3R2R1 w - - 1 37`
 
 &#9675; Dans cette partie complexe, les Blancs ont eu leurs chances, par exemple ici après que les Noirs aient joué l'imprécis **28...Tf5??**.
+
+> Les Blancs avaient la fourchette **38.Cd4!** et sur **38...Fxd1** ils prennent une pièce d'avance avec le coup intermédiaire **39.Cxf5+ Rh7 40.Txd1 (+-)**.
 
 ##### &#9822;  **Boufarachan-Laffont**, _Ech. 5_
 
@@ -73,11 +81,15 @@ _Nationale 4, ronde 5 (2014/02/02)_
 
 &#9675; Les Blancs sont encore mieux, mais n'ont pas vu la menace des Noirs, et la partie s'est conclue sur **54.Txf3?? Fg5#**. Que fallait-il jouer ?
 
+> Il faut à tout prix parer le mat en g5 ! Le bon coup était **53.Tf4!!** et sur **53...Fxf4 54.Cxf4 (+-)** et les Blancs sont mieux.
+
 ##### &#9823;&#9823;  **Haddab-Dorival**, _Ech. 3_
 
 `1rqb1rk1/p4ppp/1pPn4/2pN1b2/5P2/1Q2BB2/PP4PP/3R1RK1 w - - 5 20`
 
 &#9675; Pour défendre à la fois la fourchette et l'avancée du pion c, les Noirs viennent de jouer **19...Fe7-d8??** qui s'est avéré être une erreur décisive. Le prochain coup des Blancs a été dévastateur.
+
+> Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20...Fxc7 21.Ce7+** gagne la dame. Le mieux est encore de laisser le fou : **20...Tb7 21.cxd8=D Txd8 (+-)**.
 
 ##### &#9820;  **Ramahef-Rich**, _Ech. 1_
 
@@ -85,7 +97,10 @@ _Nationale 4, ronde 5 (2014/02/02)_
 
 &#9675; Les Noirs viennent de jouer **33...Cc3** introduisant le cavalier dans une zone exposée mais très influente. Les Blancs peuvent-ils le prendre ?
 
-
+> Attention, prendre le cavalier est tentant, mais trop dangereux, à cause de l'arrivée des pions dans la zone de promotion ! Par exemple les suites suivantes sont prometteuses pour les Noirs :
+- **34.Fxc3? dxc3 35.b3** (35.bxc3?? b3!! 36.Tb5 Tb6!) **Ta3 (+-)**,
+- **34.bxc3? b3!! 35.cxd4 b2 36.Tb5 Tb6 37.Txb2 Txb2 (+-)**.
+Mieux vaut donc jouer autre chose, par exemple 34.g3 pour se libérer de la menace Ta1. Mais reste la menace Tb2.
 
 ### Tournoi Interne EVT, ronde 4
 _Ronde 4 (2014/01/24)_
@@ -285,25 +300,19 @@ _Coupe J.-C. Loubatière, ronde 3 (2013/10/06)_
 ## Solutions des exercices
 
 &#9822;  **Poussy-Tabone** :
-Les Noirs sont gagnants mais disposent de deux suites particulièrement décisives :
-- **28.Fxf4 h3 29.exf2 Fd2 30.Fxd2 Df1 (+-)**,
-- **28.Dxf4 g3 29.exf2 Fxf2 30.Dxf3+ (+-)**.
+
 
 &#9822;  **Boufarachan-Laffont (1)** : 
-Les Blancs avaient la fourchette **38.Cd4!** et sur **38...Fxd1** ils prennent une pièce d'avance avec le coup intermédiaire **39.Cxf5+ Rh7 40.Txd1 (+-)**.
+
 
 &#9822;  **Boufarachan-Laffont (2)** : 
-Il faut à tout prix parer le mat en g5 ! Le bon coup était **53.Tf4!!** et sur **53...Fxf4 54.Cxf4 (+-)** et les Blancs sont mieux.
+
 
 &#9823;&#9823;  **Haddab-Dorival** : 
-Les Blancs balaient tout par **20.c7!!** et le fou e8 ne défend rien car **20...Fxc7 21.Ce7+** gagne la dame. Le mieux est encore de laisser le fou : **20...Tb7 21.cxd8=D Txd8 (+-)**.
+
 
 &#9820;  **Ramahef-Rich** :
-Attention, prendre le cavalier est tentant, mais trop dangereux, à cause de l'arrivée des pions dans la zone de promotion ! Par exemple les suites suivantes sont prometteuses pour les Noirs :
-- **34.Fxc3? dxc3 35.b3** (35.bxc3?? b3!! 36.Tb5 Tb6!) **Ta3 (+-)**,
-- **34.bxc3? b3!! 35.cxd4 b2 36.Tb5 Tb6 37.Txb2 Txb2 (+-)**.
 
-Mieux vaut donc jouer autre chose, par exemple 34.g3 pour se libérer de la menace Ta1.
 
 &#9822;  **Grassaud-Laffont** :
 Les Blancs, en plus de déstructurer les pions noirs, gagnent un pion central avec : **7.Fxc6+ bxc6 8.Cxc5 dxc5 9.Cxe5 (+-)**.
@@ -382,7 +391,7 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 **35.Td5!** clouant le fou, et la position des Noirs est sans espoir : **35...Tc2 36.Txe5 Txe2 37.Txf5 (+-)**.
 
 &#9823;&#9823; **Laffont-Dorival** :
-Les Noirs prennent le dessus par **29...Fxe4! 30.Txe4 f5 (+-)** gagnant une pièce. Attention à ne pas être trop pressé : la fourchette immédiatement ne marche pas : **29...f5? 30.Cf6+ Rh8** (ou autre) **31.Cxd5 fxg4 32.Cxb6 (=)**.
+
 
 &#9823;&#9823; **Dorival-Alonso (1)** :
 
