@@ -30,6 +30,8 @@ _Nationale 4, ronde 6 (2014/03/23)_
 
 &#9675; La Française des Noirs a commencé a mal tourné après qu'ils ait joué le dernier coup \textbf{13...Dc7?!}.
 
+> La position exposée de la dame permet aux Blancs de centraliser le cavalier ... et même plus : **14.Cb5 Da5** (idem avec Db6) **15.Cd6+ Rb8 16.Cf7** permet aux Blancs de gagner la qualité.
+
 ##### &#9821; **Dorival-Alonso**, _Ech. 3_
 
 `1k3r2/1p6/p1b1p3/P2pP2p/1P1Q2p1/2R3Pq/5P1P/4R1K1 w - - 0 29`
@@ -383,6 +385,6 @@ Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après *
 Les Noirs prennent le dessus par **29...Fxe4! 30.Txe4 f5 (+-)** gagnant une pièce. Attention à ne pas être trop pressé : la fourchette immédiatement ne marche pas : **29...f5? 30.Cf6+ Rh8** (ou autre) **31.Cxd5 fxg4 32.Cxb6 (=)**.
 
 &#9823;&#9823; **Dorival-Alonso (1)** :
-La position exposée de la dame permet aux Blancs de centraliser le cavalier ... et même plus : **14.Cb5 Da5** (idem avec Db6) **15.Cd6+ Rb8 16.Cf7** permet aux Blancs de gagner la qualité.
+
  
 &#9821; **Dorival-Alonso (2)** :
