@@ -28,7 +28,7 @@ _Nationale 4, ronde 6 (2014/03/23)_
 
 `2kr2nr/ppqb2pp/2n1p3/3pP3/P7/NP3N2/4BPPP/R2Q1RK1 w - - 1 13`
 
-&#9675; La Française des Noirs a commencé a mal tourné après qu'ils ait joué le dernier coup \textbf{13...Dc7?!}.
+&#9675; La Française des Noirs a commencé a mal tourné après qu'ils ait joué le dernier coup **13...Dc7?!**.
 
 > La position exposée de la dame permet aux Blancs de centraliser le cavalier ... et même plus : **14.Cb5 Da5** (idem avec Db6) **15.Cd6+ Rb8 16.Cf7** permet aux Blancs de gagner la qualité.
 
