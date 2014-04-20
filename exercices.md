@@ -10,15 +10,14 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 ### Tournoi Interne EVT, ronde 7
 
-#### &#9823; **Couret-Bréhault** 
+#### &#9821; **Couret-Bréhault** 
 
 `r2q1rk1/1bp2pp1/p3pb1p/8/1P1N4/P2B4/1B3PPP/R2Q1RK1 b - - 0 15`
 
 &#9823; les Noirs viennent de donner un cavalier pour un pion pensant regagner
 une pièce après les échanges en d4: **15...Fxd4 16 Fxd4 Dxd4** mais ils
 n'avaient pas pensé à **17 Fh7+** qui ferait perdre la Dame.
-Pourtant, les Noirs ont trouvé un coup qui permet de reprendre le matériel perdu
-sans danger. Lequel ?
+Pourtant, les Noirs ont trouvé un coup intermédiaire qui permet de reprendre le matériel perdu sans danger, et ce pendant la partie ! Lequel ?
 
 > **15...Dd5!** qui menace de mat en g2.
 
