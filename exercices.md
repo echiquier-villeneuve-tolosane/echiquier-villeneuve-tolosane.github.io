@@ -20,8 +20,10 @@ n'avaient pas pensé à **17 Fh7+** qui ferait perdre la Dame.
 Pourtant, les Noirs ont trouvé un coup intermédiaire qui permet de reprendre le matériel perdu sans danger, et ce pendant la partie ! Lequel ?
 
 > **15...Dd5!** qui menace de mat en g2. Et sur les seules défenses les Noirs récupèrent le matériel :
-- soit **16.f3** et maintenant la prise est sur échec : **16...Fxd5+ 17.Fxd5 18.Dxd5+ (-+)**,
-- soit **16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!!** et les Noirs vont doubler les tours pour réconquérir le matériel.
+>
+> - soit **16.f3** et maintenant la prise est sur échec : **16...Fxd5+ 17.Fxd5 18.Dxd5+ (-+)**,
+>
+> - soit **16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!!** et les Noirs vont doubler les tours pour réconquérir le matériel.
 
 ### EVT - Fontenilles
 _Nationale 4, ronde 6 (2014/03/23)_
@@ -41,8 +43,10 @@ _Nationale 4, ronde 6 (2014/03/23)_
 &#9675; Les Noirs ont tenté d'ouvrir le jeu par **29...g4??**. Pourquoi l'indicateur du logiciel vient-il alors de bondir au plafond ?
 
 > Les Blancs gagnent une pièce par **30.Txc6!! bxc6 31.Db6+** et maintenant les Blancs regagnent la tour ou matent. Parmi les suites possibles (celles que j'ai vues dans la parties, mais il y a plus direct !) :
-- soit **31... Ra8 32.Dxc6+ Ra7 (32...Rb8 33.Db6+) 33.Dc5+ Ra7 (33... Ra8 34.Dxf8+) 34.De7+ Ra8 35.Dxf8+ (+-)** et le mat avec l'aide de la tour e1 devrait suivre rapidement,
-- soit **31... Rc8 32.Dxc6+ Rd8 (32...Rb8 33.Dd6+ **puis** 34.Dxf8+) 33.Dd6+ Re8  34.De6+ Rd8 35.Tc1! (+-)** suivi du mat.
+>
+> - soit **31... Ra8 32.Dxc6+ Ra7 (32...Rb8 33.Db6+) 33.Dc5+ Ra7 (33... Ra8 34.Dxf8+) 34.De7+ Ra8 35.Dxf8+ (+-)** et le mat avec l'aide de la tour e1 devrait suivre rapidement,
+>
+> - soit **31... Rc8 32.Dxc6+ Rd8 (32...Rb8 33.Dd6+ **puis** 34.Dxf8+) 33.Dd6+ Re8  34.De6+ Rd8 35.Tc1! (+-)** suivi du mat.
 
 ### Tournoi Interne EVT, ronde 5
 _Ronde 5 (2014/02/28)_
@@ -66,8 +70,10 @@ _Nationale 4, ronde 5 (2014/02/02)_
 &#9679; Dans la suite, les Noirs ont joué **26...exf2** et ont fini par gagner grâce à leur qualité d'avance. Mais ils avaient une suite beaucoup plus forte ! La voyez-vous ?
 
 > Les Noirs sont gagnants mais disposent de deux suites particulièrement décisives :
-- soit **28.Fxf4 h3 29.exf2 Fd2 30.Fxd2 Df1 (+-)**,
-- soit **28.Dxf4 g3 29.exf2 Fxf2 30.Dxf3+ (+-)**.
+>
+> - soit **28.Fxf4 h3 29.exf2 Fd2 30.Fxd2 Df1 (+-)**,
+>
+> - soit **28.Dxf4 g3 29.exf2 Fxf2 30.Dxf3+ (+-)**.
 
 ##### &#9822;  **Boufarachan-Laffont**, _Ech. 5_
 
@@ -100,8 +106,10 @@ _Nationale 4, ronde 5 (2014/02/02)_
 &#9675; Les Noirs viennent de jouer **33...Cc3** introduisant le cavalier dans une zone exposée mais très influente. Les Blancs peuvent-ils le prendre ?
 
 > Attention, prendre le cavalier est tentant, mais trop dangereux, à cause de l'arrivée des pions dans la zone de promotion ! Par exemple les suites suivantes sont prometteuses pour les Noirs :
-- soit **34.Fxc3? dxc3 35.b3** (35.bxc3?? b3!! 36.Tb5 Tb6!) **Ta3 (+-)**,
-- soit **34.bxc3? b3!! 35.cxd4 b2 36.Tb5 Tb6 37.Txb2 Txb2 (+-)**.
+>
+> - soit **34.Fxc3? dxc3 35.b3** (35.bxc3?? b3!! 36.Tb5 Tb6!) **Ta3 (+-)**,
+>
+> - soit **34.bxc3? b3!! 35.cxd4 b2 36.Tb5 Tb6 37.Txb2 Txb2 (+-)**.
 Mieux vaut donc jouer autre chose, par exemple 34.g3 pour se libérer de la menace Ta1. Mais reste la menace Tb2 qui semble difficile à parer.
 
 ### Tournoi Interne EVT, ronde 4
@@ -141,9 +149,12 @@ _Ronde 3 (2014/01/17)_
 &#9675; L'égalité matérielle est toujours là et pourtant les Blancs ont sans conteste une position dominante. Dans la partie ils ont continué par **18.cxb7** et ont obtenu une qualité et une finale gagnante. Mais il y avait une suite bien plus forte. La voyez-vous ?
 
 > Les Blancs ont le très fort **17.Cb5!!** qui menace mat en c7, et les réponses des noires sont désespérées :
-- soit **17...Fd8 18.Cf7+ Ce4 19.Txe4+ Fe6 (19...Fe7 20.Cxc7#) 20.Cfd6+!! cxd6 (20...Re7 21.Txe6#) 21.Cxd6+ Re7 22.Txe6#**,
-- soit **17...Fd6 18.Cxc7+ Re7 (18...Fxc7 19.cxb7 Fxb7 20.Cc6+ Ce4 21.Txe4+ Fe5 22.Txe5#) 19.Cg6+ Rd8 20.Cxa8 hxg6 21.c7+ Rd7 22.Fb5#**,
-- soit **17...Tf7**, le plus résistant, mais désespéré, **18.Cxc7+ Rf8 19.Cxa8 bxc6 20.Cxf7 (+-)**.
+>
+> - soit **17...Fd8 18.Cf7+ Ce4 19.Txe4+ Fe6 (19...Fe7 20.Cxc7#) 20.Cfd6+!! cxd6 (20...Re7 21.Txe6#) 21.Cxd6+ Re7 22.Txe6#**,
+>
+> - soit **17...Fd6 18.Cxc7+ Re7 (18...Fxc7 19.cxb7 Fxb7 20.Cc6+ Ce4 21.Txe4+ Fe5 22.Txe5#) 19.Cg6+ Rd8 20.Cxa8 hxg6 21.c7+ Rd7 22.Fb5#**,
+>
+> - soit **17...Tf7**, le plus résistant, mais désespéré, **18.Cxc7+ Rf8 19.Cxa8 bxc6 20.Cxf7 (+-)**.
 
 
 ### Fontenilles 3 - Entente Ciadoux/EVT
@@ -306,8 +317,10 @@ _Coupe de France, 1er tour (2013/11/17)_
 &#9679; Les Blancs pensent avoir résisté à l'attaque noire et viennent de sonner la contre-attaque avec **25.Dc4??**. Malheureusement c'était trop tôt, et les Noirs ont un coup gagnant.
 
 > Les Noirs ont joué le très fort **24...Fg3+!!**, qui gagne une pièce après **25.fxg3 fxg3+** puis :
-- soit **26.Rh1 Fxh3!!** (plus précis que **26...Fxf3 27.Dxc6+ Rf8 28.Dd6+ Rg7** avec une défense du mat difficile : **29.Dd7 (-+)**) **27.Tgf1 Fe6+ 28.Rg1 Fxc4 29.bxc4 (-+)**,
-- soit **26.Rxg3 Fe6+ 27.Rh2 Fxc4 28.bxc4 (-+)**.
+>
+> - soit **26.Rh1 Fxh3!!** (plus précis que **26...Fxf3 27.Dxc6+ Rf8 28.Dd6+ Rg7** avec une défense du mat difficile : **29.Dd7 (-+)**) **27.Tgf1 Fe6+ 28.Rg1 Fxc4 29.bxc4 (-+)**,
+>
+> - soit **26.Rxg3 Fe6+ 27.Rh2 Fxc4 28.bxc4 (-+)**.
 
 
 ###Tournoi Interne EVT, 1e ronde
