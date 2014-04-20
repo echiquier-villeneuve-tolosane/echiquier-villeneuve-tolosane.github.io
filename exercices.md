@@ -249,7 +249,7 @@ _Ronde 2 (2013/12/06)_
 
 &#9679; Les Blancs étaient un peu mieux mais au lieu de continuer l'attaque, ils viennent de jouer **17...Tc4-c2??**. Les Noirs peuvent reprendre un avantage irrémédiable.
 
-> **35...Txb5!** et la Dame blanche ne peut pas défendre le fou : **36.Dd6 Txb2 37.Txb2 Dxb2 (-+)** et attention à la menace de mat de couloir.
+> **35...Txb5!** et la Dame blanche ne peut plus défendre le fou : **36.Dd6 Txb2 37.Txb2 Dxb2 (-+)** et attention à la menace de mat de couloir.
 
 ##### &#9822;   **Grassaud-Dorival**, _Ech. 5_
 
