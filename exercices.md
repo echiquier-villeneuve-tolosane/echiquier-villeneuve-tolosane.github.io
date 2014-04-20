@@ -21,7 +21,7 @@ Pourtant, les Noirs ont trouvé un coup intermédiaire qui permet de reprendre l
 
 > **15...Dd5!** qui menace de mat en g2. Et sur les seules défenses les Noirs récupèrent le matériel :
 - 16.f3 et maintenant la prise est sur échec : 16...Fxd5+ 17.Fxd5 18.Dxd5+ (-+),
-- 16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!! et les Noirs vont doubler la tour pour réconquérir le matériel.
+- 16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!! et les Noirs vont doubler les tours pour réconquérir le matériel.
 
 ### EVT - Fontenilles
 _Nationale 4, ronde 6 (2014/03/23)_
