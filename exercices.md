@@ -20,7 +20,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 > Les Noirs ne doivent pas se laisser surprendre ! Sur **6... Txb8?** les Blancs prennent l'avantage d'un pion par **7 Dxa7 (+-)**. Il faut donc prévenir la menace d'abord avec **6... Da5+ 7 Dc3** (7 b4!? Dxb4+ 8 Cbd2 Txb8 9 Dxa7 Dd6! (=)) **7... Dxc3+ 8 Cxc3 Txb8 (=)**.
 
 
-#### &#9822 **Doustens-Dorival** 
+#### &#9823;&#9823; **Doustens-Dorival** 
 
 `2br2k1/p2rppbp/Bp1p1np1/1N6/2PN4/1P2P3/P4PPP/R4RK1 w - - 0 17`
 
