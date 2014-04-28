@@ -10,6 +10,18 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 ### Tournoi Interne EVT, ronde 7
 
+
+#### &#9821; **Doustens-Dorival** 
+
+`rBbqk2r/pp1pppbp/5np1/8/2PQ4/5N2/PP2PPPP/RN2KB1R b KQkq - 0 6`
+
+&#9679; Les Blancs viennent de lancer les hostilités avec **6 Fxb8!?**. Comment les Noirs doivent-ils réagir ?
+
+> Les Noirs ne doivent pas se laisser surprendre ! Sur **6... Txb8?** les Blancs prennent l'avantage d'un pion par **7 Dxa7** (+-). Il faut donc prévenir la menace d'abord avec **6... Da5+ 7 Dc3** (7 b4!? Dxb4+ 8 Cbd2 Txb8 9 Dxa7 Dd6! (=)) **7... Dxc3+ 8. Cxc3 Txb8** (=).
+
+
+
+
 #### &#9821; **Couret-Bréhault** 
 
 `r2q1rk1/1bp2pp1/p3pb1p/8/1P1N4/P2B4/1B3PPP/R2Q1RK1 b - - 0 15`
