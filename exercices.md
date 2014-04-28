@@ -6,7 +6,7 @@ title: Exercices et problèmes
 ---
 
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
-La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles en bas de cette page.
+La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles à la suite des diagrammes.
 
 ### Tournoi Interne EVT, ronde 7
 
@@ -17,8 +17,16 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 &#9679; Les Blancs viennent de lancer les hostilités avec **6 Fxb8!?**. Comment les Noirs doivent-ils réagir ?
 
-> Les Noirs ne doivent pas se laisser surprendre ! Sur **6... Txb8?** les Blancs prennent l'avantage d'un pion par **7 Dxa7 (+-)**. Il faut donc prévenir la menace d'abord avec **6... Da5+ 7 Dc3** (7 b4!? Dxb4+ 8 Cbd2 Txb8 9 Dxa7 Dd6! (=)) **7... Dxc3+ 8. Cxc3 Txb8 (=)**.
+> Les Noirs ne doivent pas se laisser surprendre ! Sur **6... Txb8?** les Blancs prennent l'avantage d'un pion par **7 Dxa7 (+-)**. Il faut donc prévenir la menace d'abord avec **6... Da5+ 7 Dc3** (7 b4!? Dxb4+ 8 Cbd2 Txb8 9 Dxa7 Dd6! (=)) **7... Dxc3+ 8 Cxc3 Txb8 (=)**.
 
+
+#### &#9822 **Doustens-Dorival** 
+
+`2br2k1/p2rppbp/Bp1p1np1/1N6/2PN4/1P2P3/P4PPP/R4RK1 w - - 0 17`
+
+&#9679; Les Blancs ont joué activement jusqu'ici, et la possibilité de continuer. Après **17... Td7** comment doivent-ils continuer ?
+
+> Dans la partie, les Blancs ont fautivement continué d'harceler les Noirs par **18 Cc6?!** sur quoi les Noirs laissent la qualité pour deux pièces : **18... Fxa6 19 Cxd8 Txd8 (=+)**. Au lieu de ça, les Blancs pouvaient garder l'équilibre et simplifier par **18 Fxc8 Txc8 (=)**.
 
 
 
@@ -61,7 +69,7 @@ _Nationale 4, ronde 6 (2014/03/23)_
 ### Tournoi Interne EVT, ronde 5
 _Ronde 5 (2014/02/28)_
 
-##### &#9823;&#9823; **Laffont-Dorival**, _Ech. 2_
+##### &#9823;&#9823; **Laffont-Dorival**
 
 `1rr2bk1/5pp1/1q2p2p/1P1b4/1ppPNPQ1/4R1P1/1P5P/3R1BK1 b - - 2 29`
 
@@ -125,7 +133,7 @@ Mieux vaut donc jouer autre chose, par exemple 34.g3 pour se libérer de la mena
 ### Tournoi Interne EVT, ronde 4
 _Ronde 4 (2014/01/24)_
 
-##### &#9822;  **Grassaud-Laffont**, _Ech. 4_
+##### &#9822;  **Grassaud-Laffont**
 
 `r1bqk1nr/1pp3pp/p1np4/1Bb1pp2/N3P3/3P1N2/PPP2PPP/R1BQK2R w KQkq - 0 6`
 
@@ -133,7 +141,7 @@ _Ronde 4 (2014/01/24)_
 
 > Les Blancs, en plus de déstructurer les pions noirs, gagnent un pion central avec : **7.Fxc6+ bxc6 8.Cxc5 dxc5 9.Cxe5 (+-)**.
 
-##### &#9822;  **Dorival-Lidoine**, _Ech. 5_
+##### &#9822;  **Dorival-Lidoine**
 
 `4rk2/R4ppp/p5b1/1p6/8/1BP5/PP3KPP/8 b - - 5 30`
 
@@ -144,7 +152,7 @@ _Ronde 4 (2014/01/24)_
 ### Tournoi Interne EVT, ronde 3
 _Ronde 3 (2014/01/17)_
 
-##### &#9822;  **Laffont-Bréhault**, _Ech. 3_
+##### &#9822;  **Laffont-Bréhault**
 
 `r3k3/pbp1b1p1/1p2pp1r/3qPnN1/5P2/P1NP1QP1/1P1B3P/R4RK1 b q - 0 21`
 
@@ -152,7 +160,7 @@ _Ronde 3 (2014/01/17)_
 
 > Les Noirs ont gagné une pièce par **21...Dd4+ 22.Df2 Dxf2+ 23.Txf2 fxg5**. Ils avaient même encore mieux avec la suite **21...Dc5+ 22.Df2 Dc6!! 23.Df3 Fc5+ 24.Rg2 fxg5 25.Dxc6+ Fxc6+**.
 
-##### &#9820;  **Dorival-Garcia Del Prado**, _Ech. 1_
+##### &#9820;  **Dorival-Garcia Del Prado**
 
 `r1b1kr2/ppp1b1pp/2P2n2/4N1p1/2B5/2N5/PPP3PP/3RR2K w q - 5 17`
 
@@ -264,7 +272,7 @@ _Coupe MP Gilbert Rouède, ronde 1 (2013/12/08)_
 ### Tournoi Interne EVT, ronde 2
 _Ronde 2 (2013/12/06)_
 
-##### &#9823;&#9823;  **Couret-Laffont**, _Ech. 3_
+##### &#9823;&#9823;  **Couret-Laffont**
 
 `6k1/1q2r1pp/2R1p3/rPQn1p2/p2Pp3/P3P3/1BR2PPP/6K1 b - - 16 35`
 
@@ -272,7 +280,7 @@ _Ronde 2 (2013/12/06)_
 
 > **35...Txb5!** et la Dame blanche ne peut plus défendre le fou : **36.Dd6 Txb2 37.Txb2 Dxb2 (-+)** et attention à la menace de mat de couloir.
 
-##### &#9822;   **Grassaud-Dorival**, _Ech. 5_
+##### &#9822;   **Grassaud-Dorival**
 
 `r4rk1/3qbppp/pp2pn2/2p3B1/b1B1PQ2/3P2NP/1PP3P1/R3R2K w - - 0 17`
 
@@ -280,7 +288,7 @@ _Ronde 2 (2013/12/06)_
 
 > **17.e5! Ce8** et la Dame noire est surchargée : **18.Fxe7 Dxe7 19.Txa4 (+-)**.
 
-##### &#9820;   **Grassaud-Dorival**, _Ech. 5_
+##### &#9820;   **Grassaud-Dorival**
 
 `r4r1k/6bp/p3Q3/1pp5/4P2P/8/1PP1pqP1/6RK b - - 0 37`
 
@@ -336,7 +344,7 @@ _Coupe de France, 1er tour (2013/11/17)_
 ###Tournoi Interne EVT, 1e ronde
 _Ronde 1 (2013/11/15)_
 
-##### &#9823;  **Dorival-Bréhault**, _Ech. 2_
+##### &#9823;  **Dorival-Bréhault**
 
 `r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
 
