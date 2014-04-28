@@ -11,7 +11,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 ### Tournoi Interne EVT, ronde 7
 
 
-#### &#9821; **Doustens-Dorival** 
+#### &#9823;&#9823; **Doustens-Dorival** 
 
 `rBbqk2r/pp1pppbp/5np1/8/2PQ4/5N2/PP2PPPP/RN2KB1R b KQkq - 0 6`
 
