@@ -17,7 +17,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 &#9679; Les Blancs viennent de lancer les hostilités avec **6 Fxb8!?**. Comment les Noirs doivent-ils réagir ?
 
-> Les Noirs ne doivent pas se laisser surprendre ! Sur **6... Txb8?** les Blancs prennent l'avantage d'un pion par **7 Dxa7** (+-). Il faut donc prévenir la menace d'abord avec **6... Da5+ 7 Dc3** (7 b4!? Dxb4+ 8 Cbd2 Txb8 9 Dxa7 Dd6! (=)) **7... Dxc3+ 8. Cxc3 Txb8** (=).
+> Les Noirs ne doivent pas se laisser surprendre ! Sur **6... Txb8?** les Blancs prennent l'avantage d'un pion par **7 Dxa7 (+-)**. Il faut donc prévenir la menace d'abord avec **6... Da5+ 7 Dc3** (7 b4!? Dxb4+ 8 Cbd2 Txb8 9 Dxa7 Dd6! (=)) **7... Dxc3+ 8. Cxc3 Txb8 (=)**.
 
 
 
@@ -32,9 +32,7 @@ n'avaient pas pensé à **17 Fh7+** qui ferait perdre la Dame.
 Pourtant, les Noirs ont trouvé un coup intermédiaire qui permet de reprendre le matériel perdu sans danger, et ce pendant la partie ! Lequel ?
 
 > **15...Dd5!** qui menace de mat en g2. Et sur les seules défenses les Noirs récupèrent le matériel :
->
 > - soit **16.f3** et maintenant la prise est sur échec : **16...Fxd5+ 17.Fxd5 18.Dxd5+ (-+)**,
->
 > - soit **16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!!** et les Noirs vont doubler les tours pour réconquérir le matériel.
 
 ### EVT - Fontenilles
