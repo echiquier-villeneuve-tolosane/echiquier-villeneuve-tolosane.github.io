@@ -7,13 +7,16 @@ title: Tournoi Roger Pelat
 
 ## Quelques photos en de l'édition 2014 ##
 
-La relève se prépare, notamment avec 11 tout jeunes adeptes...
+###La relève se prépare, notamment avec 11 tout jeunes adeptes ...###
+
 ![100_7449_small.jpg](/photos/100_7449_small.jpg)
 
 ... qui n'ont (presque) rien lâché, jusqu'au bout des cinq rondes du tournoi enfant.
+
 ![100_7452_small.jpg](/photos/100_7452_small.jpg)
 
 Pendant ce temps, les "grands" se confrontent au cours des sept rondes du tournoi principal.
+
 ![100_7453_small.jpg](/photos/100_7453_small.jpg)
 
 ![100_7454_small.jpg](/photos/100_7454_small.jpg)
@@ -23,6 +26,7 @@ Pendant ce temps, les "grands" se confrontent au cours des sept rondes du tourno
 ![100_7456_small.jpg](/photos/100_7456_small.jpg)
 
 Photos souvenirs de nos jeunes champions.
+
 ![100_7469_small.jpg](/photos/100_7469_small.jpg)
 
 ![100_7470_small.jpg](/photos/100_7470_small.jpg)
@@ -32,9 +36,11 @@ Photos souvenirs de nos jeunes champions.
 ![100_7472_small.jpg](/photos/100_7472_small.jpg)
 
 Valérie Forgues, première féminine du tournoi principal.
+
 ![100_7476_small.jpg](/photos/100_7476_small.jpg)
 
 Lucas Murater, vainqueur de l'édition 2014 ... devant deux MI !
+
 ![100_7477_small.jpg](/photos/100_7477_small.jpg)
 
 ## Résultats de l'édition 2014 ##
