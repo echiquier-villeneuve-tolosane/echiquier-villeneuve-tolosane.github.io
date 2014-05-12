@@ -15,7 +15,7 @@ Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pa
 
 ![Tournoi EVT 2014](photos/tournoi-roger-pelat-2014-mix.jpg)
 
-Comme chaque année, l'EVT organisait le **tournoi Roger Pelat** à Villeneuve Tolosane le 8 Mai. Il s'agit d'un tournoi en 7 rondes de 2x25 mn, avec 1 700 &euro; de prix. **[Tous les détails sur le tournoi](tournoi-roger-pelat.html "Tournoi Roger pelat")**.
+Comme chaque année, l'EVT organisait le **tournoi Roger Pelat** à Villeneuve Tolosane le 8 Mai. Il s'agissait d'un tournoi en 7 rondes de 2x25 mn, avec 1 700 &euro; de prix. **[Les photos du tournoi, le palmarès, ainsi que tous les détails à cette page](tournoi-roger-pelat.html "Tournoi Roger pelat")**.
 
 ### Le diagramme de la semaine ###
 
