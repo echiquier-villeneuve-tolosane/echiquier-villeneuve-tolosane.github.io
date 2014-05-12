@@ -8,12 +8,17 @@ title: Tournoi Roger Pelat
 ## Quelques photos en de l'édition 2014 ##
 
 ![100_7449_small.jpg](/photos/100_7449_small.jpg)
-
 ![100_7452_small.jpg](/photos/100_7452_small.jpg)
-
 ![100_7453_small.jpg](/photos/100_7453_small.jpg)
-
 ![100_7454_small.jpg](/photos/100_7454_small.jpg)
+![100_7455_small.jpg](/photos/100_7455_small.jpg)
+![100_7456_small.jpg](/photos/100_7456_small.jpg)
+![100_7469_small.jpg](/photos/100_7469_small.jpg)
+![100_7470_small.jpg](/photos/100_7470_small.jpg)
+![100_7471_small.jpg](/photos/100_7471_small.jpg)
+![100_7472_small.jpg](/photos/100_7472_small.jpg)
+![100_7476_small.jpg](/photos/100_7476_small.jpg)
+![100_7477_small.jpg](/photos/100_7477_small.jpg)
 
 ## Résultats de l'édition 2014 ##
 
