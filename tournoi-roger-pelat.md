@@ -7,7 +7,7 @@ title: Tournoi Roger Pelat
 
 ## Quelques photos en de l'édition 2014 ##
 
-###La relève se prépare, notamment avec 11 tout jeunes adeptes ...###
+####La relève se prépare, notamment avec 11 tout jeunes adeptes ...####
 
 ![100_7449_small.jpg](/photos/100_7449_small.jpg)
 
