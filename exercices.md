@@ -8,6 +8,28 @@ title: Exercices et problèmes
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles à la suite des diagrammes.
 
+
+### Tournoi Interne EVT, ronde 8
+
+
+#### &#9823;&#9823; **Dorival-Bignebat** 
+
+`rn1qkb1r/pbpppppp/5n2/8/2BP4/4P3/PP3PPP/RNBQK1NR w KQkq - 0 5`
+
+&#9675; Plutôt que d'occuper le centre, les Noirs se proposent de le contrôler à distance avec leur dernier coup **4. Fb7?**. Une idée efficace, ou plutôt deux, pour prendre le dessus avec les Blancs ?
+
+> Le **4. Fb7** des Noirs est trop prématuré ! Les Blancs ont maintenant une attaque double sur le fou sans défense en b7, ainsi que sur la faiblesse légendaire des Noirs en f7. Comment ? Avec **5. Db3!**, et maintenant la seule défense des Noirs qui ne perde ni le fou, ni la partie (attention au mat en f7 !), est ... **5... Dc8!**, mais les Blancs empochent tout de même le pion f7 et déroquent le roi noir : **6. Fxf7+ Rd8** (+=).
+
+
+#### &#9823;&#9823; **Dorival-Bignebat** 
+
+`r1r5/p2k2pp/2p5/2Qpqp2/4p3/1PN1P3/P4PPP/2RR2K1 w - f6 0 22`
+
+&#9675; Ici les Blancs à la man\oe uvre ont joué prudemment avec **22. Ne2?!**. Il y avait pourtant plus entreprenant !
+
+> Les Blancs peuvent enfoncer le clou avec le très direct **22.Cxd5!** qui ouvre une brèche trop importante dans le camp noir, avec de plus menace d'une découverte. Bien entendu les Noirs ne peuvent pas reprendre à cause de **22... cxd5?? 23. Txd5+ Dxd5 24. Dxd5+** (+-).
+
+
 ### Tournoi Interne EVT, ronde 7
 
 
