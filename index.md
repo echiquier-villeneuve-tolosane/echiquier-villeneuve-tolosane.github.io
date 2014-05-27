@@ -21,17 +21,11 @@ Comme chaque année, l'EVT organisait le **tournoi Roger Pelat** à Villeneuve T
 
 **Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9821; Couret (EVT) - Bréhault (EVT), 2014, _Tournoi Interne de l'EVT_, _Ronde 7_
 
-`r2q1rk1/1bp2pp1/p3pb1p/8/1P1N4/P2B4/1B3PPP/R2Q1RK1 b - - 0 15`
+#### &#9823;&#9823; **Dorival (EVT) - Bignebat (EVT)**, *Tournoi interne, ronde 8* 
 
-&#9679; les Noirs viennent de donner un cavalier pour un pion pensant regagner
-une pièce après les échanges en d4: **15...Fxd4 16 Fxd4 Dxd4** mais ils
-n'avaient pas pensé à **17 Fh7+** qui ferait perdre la Dame.
-Pourtant, les Noirs ont trouvé un coup intermédiaire qui permet de reprendre le matériel perdu sans danger, et ce pendant la partie ! Lequel ?
+`rn1qkb1r/pbpppppp/5n2/8/2BP4/4P3/PP3PPP/RNBQK1NR w KQkq - 0 5`
 
-> **15...Dd5!** qui menace de mat en g2. Et sur les seules défenses les Noirs récupèrent le matériel :
->
-> - soit **16.f3** et maintenant la prise est sur échec : **16...Fxd5+ 17.Fxd5 18.Dxd5+ (-+)**,
->
-> - soit **16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!!** et les Noirs vont doubler les tours pour réconquérir le matériel.
+&#9675; Plutôt que d'occuper le centre, les Noirs se proposent de le contrôler à distance avec leur dernier coup **4. Fb7?**. Une idée efficace, ou plutôt deux, pour prendre le dessus avec les Blancs ?
+
+> Le **4. Fb7** des Noirs est trop prématuré ! Les Blancs ont maintenant une attaque double sur le fou sans défense en b7, ainsi que sur la faiblesse légendaire des Noirs en f7. Comment ? Avec **5. Db3!**, et maintenant la seule défense des Noirs qui ne perde ni le fou, ni la partie - attention au mat en f7 ! - est ... **5... Dc8!**, mais les Blancs empochent tout de même le pion f7 et déroquent le roi noir : **6. Fxf7+ Rd8** (+=).
