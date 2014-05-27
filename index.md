@@ -22,7 +22,7 @@ Comme chaque année, l'EVT organisait le **tournoi Roger Pelat** à Villeneuve T
 **Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
 
-#### &#9823;&#9823; **Dorival (EVT) - Bignebat (EVT)**, *Tournoi interne, ronde 8* 
+##### &#9823;&#9823; **Dorival (EVT) - Bignebat (EVT)**, *Tournoi interne, ronde 8* 
 
 `rn1qkb1r/pbpppppp/5n2/8/2BP4/4P3/PP3PPP/RNBQK1NR w KQkq - 0 5`
 
