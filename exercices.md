@@ -21,7 +21,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 > Le **4. Fb7** des Noirs est trop prématuré ! Les Blancs ont maintenant une attaque double sur le fou sans défense en b7, ainsi que sur la faiblesse légendaire des Noirs en f7. Comment ? Avec **5. Db3!**, et maintenant la seule défense des Noirs qui ne perde ni le fou, ni la partie - attention au mat en f7 ! - est ... **5... Dc8!**, mais les Blancs empochent tout de même le pion f7 et déroquent le roi noir : **6. Fxf7+ Rd8** (+=).
 
 
-#### &#9823;&#9823; **Dorival-Bignebat** 
+#### &#9822; **Dorival-Bignebat** 
 
 `r1r5/p2k2pp/2p5/2Qpqp2/4p3/1PN1P3/P4PPP/2RR2K1 w - f6 0 22`
 
