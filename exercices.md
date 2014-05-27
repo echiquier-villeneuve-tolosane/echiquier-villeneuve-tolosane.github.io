@@ -25,7 +25,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 `r1r5/p2k2pp/2p5/2Qpqp2/4p3/1PN1P3/P4PPP/2RR2K1 w - f6 0 22`
 
-&#9675; Ici les Blancs à la man\oe uvre ont joué prudemment avec **22. Ne2?!**. Il y avait pourtant plus entreprenant !
+&#9675; Ici les Blancs à la manoeuvre ont joué prudemment avec **22. Ne2?!**. Il y avait pourtant plus entreprenant !
 
 > Les Blancs peuvent enfoncer le clou avec le très direct **22.Cxd5!** qui ouvre une brèche trop importante dans le camp noir, avec de plus menace d'une découverte. Bien entendu les Noirs ne peuvent pas reprendre à cause de **22... cxd5?? 23. Txd5+ Dxd5 24. Dxd5+** (+-).
 
