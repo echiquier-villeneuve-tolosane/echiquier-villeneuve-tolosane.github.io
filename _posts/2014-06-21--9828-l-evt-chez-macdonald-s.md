@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#9828; L'EVT chez MacDonald's !"
+title: "&#9820; L'EVT chez MacDonald's !"
 layout: default
 root: ../../..
 ---
