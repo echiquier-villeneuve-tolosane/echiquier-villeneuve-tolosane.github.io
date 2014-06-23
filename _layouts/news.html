@@ -20,27 +20,21 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
-        <aside id="news">
-          <h3>Les dernières actualités</h3>
-          <ul id="post-list">
-            {% for post in site.posts limit:1 %}
-              <li>
-                <a href="{{ page.root }}{{ post.url }}">{{ post.title }}</a> - <span class="date">{{ post.date | date: "%d/%m/%Y" }}</span>
-                <p>{{ post.content | strip_html | truncatewords:20}}</p>
-                <a href="{{ post.url }}">Lire la suite...</a>
-              </li>
-            {% endfor %}
-          </ul>
-        </aside>
-        {{ content }}
+        <ul id="post-list">
+          {% for post in site.posts %}
+          <li>
+            <a href="{{ page.root }}{{ post.url }}">{{ post.title }}</a> - <span class="date">{{ post.date | date: "%d/%m/%Y" }}</span>
+            <p>{{ post.content | strip_html | truncatewords:20}}</p>
+            <a href="{{ post.url }}">Lire la suite...</a>
+          </li>
+          {% endfor %}
+        </ul>
       </section>
     </div>
 
     {% include footer.html %}
-
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="{{ page.root }}/javascripts/chessboard.js"></script>
     <script src="{{ page.root }}/javascripts/main.js"></script>
-
   </body>
 </html>
