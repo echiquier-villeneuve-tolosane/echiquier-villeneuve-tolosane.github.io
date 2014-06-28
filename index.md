@@ -22,10 +22,10 @@ Comme chaque année, l'EVT organisait le **tournoi Roger Pelat** à Villeneuve T
 **Retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
 
-##### &#9823;&#9823; **Dorival (EVT) - Bignebat (EVT)**, *Tournoi interne, ronde 8* 
+##### &#9821; **Couret (EVT) - Dorival (EVT)**, *Tournoi interne, ronde 9* 
 
-`rn1qkb1r/pbpppppp/5n2/8/2BP4/4P3/PP3PPP/RNBQK1NR w KQkq - 0 5`
+`4rk2/1b4pp/p1p2n2/1p2pP2/P2qP3/1QNr1B2/1P3RPP/3R1K2 w - - 0 25`
 
-&#9675; Plutôt que d'occuper le centre, les Noirs se proposent de le contrôler à distance avec leur dernier coup **4. Fb7?**. Une idée efficace, ou plutôt deux, pour prendre le dessus avec les Blancs ?
+&#9679; Bien que les Noirs se soient emparés d'une importante colonne, la situation est loin d'être claire. C'est là que les Blancs glissent en jouant **25. Be2?**. Pendant la partie, les Noirs sont passés à coté d'une belle opportunité de prendre un avantage décisif. Voyez-vous comment ?
 
-> Le **4. Fb7** des Noirs est trop prématuré ! Les Blancs ont maintenant une attaque double sur le fou sans défense en b7, ainsi que sur la faiblesse légendaire des Noirs en f7. Comment ? Avec **5. Db3!**, et maintenant la seule défense des Noirs qui ne perde ni le fou, ni la partie - attention au mat en f7 ! - est **5... Dc8!**, mais les Blancs empochent tout de même le pion f7 et déroquent le roi noir : **6. Fxf7+ Rd8** (+=).
+> Dans la partie, les Noirs se sont contentés de gagner un bon pion central avec la suite **25... Rxd1+ 26. Bxd1 b4!** (=+) qui chasse le cavalier de la défense de e4. Cependant il y avait une suite plus tranchante avec **25...Nxe4!!** qui gagne une pièce même sur la meilleure parade : **26. Nxe4 Rxb3 27. Rxd4 exd4** (+-).
