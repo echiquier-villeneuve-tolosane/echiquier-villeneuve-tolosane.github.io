@@ -15,7 +15,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 `4rk2/1b4pp/p1p2n2/1p2pP2/P2qP3/1QNr1B2/1P3RPP/3R1K2 w - - 0 25`
 
-&#9679; Bien que les Noirs se soient emparés d'une importante colonne, la situation est loin d'être claire. C'est là que les Blancs glissent en jouant \wmove{25. Be2?}. Pendant la partie, les Noirs sont passés à coté d'une belle opportunité de prendre un avantage décisif. Voyez-vous comment ?
+&#9679; Bien que les Noirs se soient emparés d'une importante colonne, la situation est loin d'être claire. C'est là que les Blancs glissent en jouant **25. Be2?**. Pendant la partie, les Noirs sont passés à coté d'une belle opportunité de prendre un avantage décisif. Voyez-vous comment ?
 
 > Dans la partie, les Noirs se sont contentés de gagner un bon pion central avec la suite **25... Rxd1+ 26. Bxd1 b4!** (=+) qui chasse le cavalier de la défense de e4. Cependant il y avait une suite plus tranchante avec **25...Nxe4!!** qui gagne une pièce même sur la meilleure parade : **26. Nxe4 Rxb3 27. Rxd4 exd4** (+-).
 
