@@ -15,7 +15,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 `4rk2/1b4pp/p1p2n2/1p2pP2/P2qP3/1QNr1B2/1P3RPP/3R1K2 w - - 0 25`
 
-&#9675; Plutôt que d'occuper le centre, les Noirs se proposent de le contrôler à distance avec leur dernier coup **4. Fb7?**. Une idée efficace, ou plutôt deux, pour prendre le dessus avec les Blancs ?
+&#9679; Bien que les Noirs se soient emparés d'une importante colonne, la situation est loin d'être claire. C'est là que les Blancs glissent en jouant \wmove{25. Be2?}. Pendant la partie, les Noirs sont passés à coté d'une belle opportunité de prendre un avantage décisif. Voyez-vous comment ?
 
 > Le **4. Fb7** des Noirs est trop prématuré ! Les Blancs ont maintenant une attaque double sur le fou sans défense en b7, ainsi que sur la faiblesse légendaire des Noirs en f7. Comment ? Avec **5. Db3!**, et maintenant la seule défense des Noirs qui ne perde ni le fou, ni la partie - attention au mat en f7 ! - est ... **5... Dc8!**, mais les Blancs empochent tout de même le pion f7 et déroquent le roi noir : **6. Fxf7+ Rd8** (+=).
 
