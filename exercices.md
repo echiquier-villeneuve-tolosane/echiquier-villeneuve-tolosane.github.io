@@ -11,7 +11,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 ### Tournoi Interne EVT, ronde 9
 
 
-#### &#9823;&#9823; **Couret-Dorival** 
+#### &#9821; **Couret-Dorival** 
 
 `4rk2/1b4pp/p1p2n2/1p2pP2/P2qP3/1QNr1B2/1P3RPP/3R1K2 w - - 0 25`
 
