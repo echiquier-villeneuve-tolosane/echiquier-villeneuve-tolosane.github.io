@@ -17,8 +17,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 &#9679; Bien que les Noirs se soient emparés d'une importante colonne, la situation est loin d'être claire. C'est là que les Blancs glissent en jouant \wmove{25. Be2?}. Pendant la partie, les Noirs sont passés à coté d'une belle opportunité de prendre un avantage décisif. Voyez-vous comment ?
 
-> Le **4. Fb7** des Noirs est trop prématuré ! Les Blancs ont maintenant une attaque double sur le fou sans défense en b7, ainsi que sur la faiblesse légendaire des Noirs en f7. Comment ? Avec **5. Db3!**, et maintenant la seule défense des Noirs qui ne perde ni le fou, ni la partie - attention au mat en f7 ! - est ... **5... Dc8!**, mais les Blancs empochent tout de même le pion f7 et déroquent le roi noir : **6. Fxf7+ Rd8** (+=).
-
+> Dans la partie, les Noirs se sont contentés de gagner un bon pion central avec la suite **25... Rxd1+ 26. Bxd1 b4!** (=+) qui chasse le cavalier de la défense de e4. Cependant il y avait une suite plus tranchante avec **25...Nxe4!!** qui gagne une pièce même sur la meilleure parade : **26. Nxe4 Rxb3 27. Rxd4 exd4** (+-).
 
 ### Tournoi Interne EVT, ronde 8
 
