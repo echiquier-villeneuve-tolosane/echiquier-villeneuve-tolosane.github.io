@@ -9,18 +9,18 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 
 ## Le classement
 
-|   | Moyenne : 1578          | ELO    | 1 | 2 | 3 | 4 |
-|:-:| ----------------------- |:------:|:-:|:-:|:-:|:-:|
-|1  | Olivier Dorival 		  | 1840 N | * | 1 | 1 | 1 |
-|2  | Bruno Garcia Del Prado  | 1748 F | 0 | * | X | 0 |
-|3  | Laurent Guérin          | 1659 F | 0 | X | * | 0 |
-|4  | Guillaume Grassaud      | 1699 E | 0 | 1 | 1 | * |
-|5  | Jean-Paul Bignebat      | 1530 N | 0 | 0 | 0 | 1 |
-|6  | Eric Bréhault           | 1490 N | 0 | 0 | 0 | 1 |
-|7  | Henri Couret            | 1360 N | 0 | 0 | 0 | 1 |
-|8  | Jean-Jacques Doustens   | 1530 N | 0 | 0 | 0 | 0 |
-|9  | Jean-Christophe Laffont | 1588 F | 0 | 0 | 0 | 0 |
-|10 | Stéphane Lidoine        | 1340 N | 0 | 0 | 0 | 0 |
+|   | Moyenne : 1578          | ELO    | 1 | 2 | 3 | 4 | 5 |
+|:-:| ----------------------- |:------:|:-:|:-:|:-:|:-:|:-:|
+|1  | Olivier Dorival 		  | 1840 N | * | 1 | 1 | 1 | 1 |
+|2  | Bruno Garcia Del Prado  | 1748 F | 0 | * | X | 0 | 1 |
+|3  | Laurent Guérin          | 1659 F | 0 | X | * | 0 | 1 |
+|4  | Guillaume Grassaud      | 1699 E | 0 | 1 | 1 | * | 0 |
+|5  | Jean-Paul Bignebat      | 1530 N | 0 | 0 | 0 | 1 | * |
+|6  | Eric Bréhault           | 1490 N | 0 | 0 | 0 | 1 | X |
+|7  | Henri Couret            | 1360 N | 0 | 0 | 0 | 1 | 1 |
+|8  | Jean-Jacques Doustens   | 1530 N | 0 | 0 | 0 | 0 | 0 |
+|9  | Jean-Christophe Laffont | 1588 F | 0 | 0 | 0 | 0 | 0 |
+|10 | Stéphane Lidoine        | 1340 N | 0 | 0 | 0 | 0 | 0 |
 
 ## Le détail, ronde après ronde
 
