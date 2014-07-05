@@ -57,13 +57,13 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
 |*1*| [2] | BREHAULT Eric        |**X**|**X**| BIGNEBAT Jean-Paul        | [2] |
 |*2*| [0,5] | LIDOINE Stéphane   |**0**|**1**| LAFFONT Jean-Christophe | [1] |
-|*3*| [3] | GARCIA DEL PRADO Bruno  |**1**|**0**| COURET Henri      | [1,5] |
+|*3*| [3] | GARCIA DEL PRADO Bruno  |**1**|**0**| COURET Henri      | [2,5] |
 |*4*| [4] | GRASSAUD Guillaume   |**1**|**0**| DOUSTENS Jean-Jacques     | [1] |
 |*5*| [5] | DORIVAL Olivier      |**1**|**0**| GUERIN Laurent            | [4] |
 
 |*Ech*|   | **Ronde 7**          |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*1*| [1,5] | COURET Henri       |**X**|**X**| BREHAULT Eric          | [2,5] |
+|*1*| [2,5] | COURET Henri       |**X**|**X**| BREHAULT Eric          | [2,5] |
 |*2*| [4] | GUERIN Laurent          |**1**|**0**| LIDOINE Stéphane     | [0,5] |
 |*3*| [2,5] | BIGNEBAT Jean-Paul    |**1**|**0**| GRASSAUD Guillaume     | [5] |
 |*4*| [1] | DOUSTENS Jean-Jacques   |**0**|**1**| DORIVAL Olivier        | [6] |
@@ -74,12 +74,12 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 |*1*| [0,5] | LIDOINE Stéphane      |**0**|**1**| DOUSTENS Jean-Jacques  | [1] |
 |*2*| [2] | LAFFONT Jean-Christophe |**0**|**1**| GUERIN Laurent         | [5] |
 |*3*| [5] | GARCIA DEL PRADO Bruno  |**1**|**0**| BREHAULT Eric          | [3] |
-|*4*| [5] | GRASSAUD Guillaume      |**F**|**1**| COURET Henri           | [2] |
+|*4*| [5] | GRASSAUD Guillaume      |**F**|**1**| COURET Henri           | [3] |
 |*5*| [7] | DORIVAL Olivier         |**1**|**0**| BIGNEBAT Jean-Paul   | [3,5] |
 
 |*Ech*|   | **Ronde 9**            |     |     |                         |     |
 |:-:|:---:| ---------------------- |:---:|:---:| ----------------------- |:---:|
-|*1*| [3] | COURET Henri           |**0**|**1**| DORIVAL Olivier         | [8] |
+|*1*| [4] | COURET Henri           |**0**|**1**| DORIVAL Olivier         | [8] |
 |*2*| [6] | GUERIN Laurent         |**X**|**X**| GARCIA DEL PRADO Bruno  | [6] |
 |*3*| [3] | BREHAULT Eric          |**1**|**F**| GRASSAUD Guillaume      | [5] |
 |*4*| [3,5] | BIGNEBAT Jean-Paul   |**1**|**F**| LIDOINE Stéphane      | [0,5] |
