@@ -10,7 +10,7 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 ## Le classement
 
 |   | Moyenne : 1578          | ELO    | 
-|:-:|:-----------------------:| ------ |
+|:-:|:-----------------------:|:------:|
 |1  | Olivier Dorival 		  | 1840 N |
 |2  | Bruno Garcia Del Prado  | 1748 F |
 |3  | Laurent Guérin          | 1659 F |
