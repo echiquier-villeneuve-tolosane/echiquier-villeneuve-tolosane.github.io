@@ -95,3 +95,5 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 |*3*| [3] | BREHAULT Eric          |**1**|**F**| GRASSAUD Guillaume      | [5] |
 |*4*| [3,5] | BIGNEBAT Jean-Paul   |**1**|**F**| LIDOINE Stéphane      | [0,5] |
 |*5*| [2] | DOUSTENS Jean-Jacques  |**X**|**X**| LAFFONT Jean-Christophe | [2] |
+
+
