@@ -11,6 +11,9 @@ L'EVT est un club très convivial qui se réunit tous les **vendredis soirs à p
 
 Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pas à venir partager un moment amical au club le vendredi soir à partir de 20h45.
 
+### Fin du tournoi interne 2014 ###
+
+**Les résultats sont dans la rubrique [Tournoi interne](http://echiquier-villeneuve-tolosane.github.io/tournoiinterne.html "Tournoi Interne").**
 
 ### Le diagramme de la semaine ###
 
