@@ -47,11 +47,11 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 
 |*Ech*|   | **Ronde 5**             |     |     |                        |     |
 |:-:|:---:| ----------------------- |:---:|:---:| ---------------------- |:---:|
-|*1*| [] | LIDOINE Stéphane        |**-**|**-**| GARCIA DEL PRADO Bruno | [] |
-|*2*| [] | LAFFONT Jean-Christophe |**-**|**-**| DORIVAL Olivier        | [] |
-|*3*| [] | GUERIN Laurent          |**-**|**-**| GRASSAUD Guillaume     | [] |
-|*4*| [] | DOUSTENS Jean-Jacques   |**-**|**-**| BREHAULT Eric          | [] |
-|*5*| [] | BIGNEBAT Jean-Paul      |**-**|**-**| COURET Henri           | [] |
+|*1*| [4] | GUERIN Laurent          |**0**|**1**| GRASSAUD Guillaume     | [3] |
+|*2*| [2] | BIGNEBAT Jean-Paul      |**0**|**1**| COURET Henri         | [1,5] |
+|*3*| [0] | DOUSTENS Jean-Jacques   |**1**|**0**| BREHAULT Eric          | [2] |
+|*4*| [0,5] | LIDOINE Stéphane      |**0**|**1**| GARCIA DEL PRADO Bruno | [2] |
+|*5*| [1] | LAFFONT Jean-Christophe |**0**|**1**| DORIVAL Olivier        | [4] |
 
 |*Ech*|   | **Ronde 6**          |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
