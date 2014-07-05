@@ -11,6 +11,225 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 
 
 
+<table id=TablePage cellSpacing=6 cellPadding=2 Class=page >
+  <tr>
+    <td>
+<div align=center><div align=center>
+<p class=papi_titre>Tournoi interne EVT 2013/2014 - n° 30491<br />Grille après la ronde 9</p>
+<table cellspacing=0 cellpadding=2 style=border-collapse:collapse;>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_c width=20>&nbsp;</td>
+  <td class=papi_border_l width=160>Moyenne :&nbsp;1578</td>
+  <td class=papi_border_c width=40>Pays</td>
+  <td class=papi_border_c width=40>Elo</td>
+  <td class=papi_border_c width=20>1</td>
+  <td class=papi_border_c width=20>2</td>
+  <td class=papi_border_c width=20>3</td>
+  <td class=papi_border_c width=20>4</td>
+  <td class=papi_border_c width=20>5</td>
+  <td class=papi_border_c width=20>6</td>
+  <td class=papi_border_c width=20>7</td>
+  <td class=papi_border_c width=20>8</td>
+  <td class=papi_border_c width=20>9</td>
+  <td class=papi_border_c width=20>10</td>
+  <td class=papi_border_r width=30>Pts</td>
+  <td class=papi_border_r width=30>Ko.</td>
+  <td class=papi_border_r width=30>Ka.</td>
+ </tr>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>1</td>
+  <td class=papi_border_l>Olivier DORIVAL</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1840&nbsp;N</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_r>9</td>
+  <td class=papi_border_r>18</td>
+  <td class=papi_border_r>36</td>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>2</td>
+  <td class=papi_border_l>Bruno GARCIA DEL PRADO</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1748&nbsp;F</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_r>6&frac12;</td>
+  <td class=papi_border_r>19&frac14;</td>
+  <td class=papi_border_r>25</td>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>3</td>
+  <td class=papi_border_l>Laurent GUERIN</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1659&nbsp;F</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_r>6&frac12;</td>
+  <td class=papi_border_r>19&frac14;</td>
+  <td class=papi_border_r>25</td>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>4</td>
+  <td class=papi_border_l>Guillaume GRASSAUD</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1699&nbsp;E</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_r>5</td>
+  <td class=papi_border_r>20</td>
+  <td class=papi_border_r>20</td>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>5</td>
+  <td class=papi_border_l>Jean-Paul BIGNEBAT</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1530&nbsp;N</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_r>4&frac12;</td>
+  <td class=papi_border_r>20&frac14;</td>
+  <td class=papi_border_r>17</td>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>6</td>
+  <td class=papi_border_l>Eric BREHAULT</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1490&nbsp;N</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_r>4</td>
+  <td class=papi_border_r>20&frac12;</td>
+  <td class=papi_border_r>14</td>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>7</td>
+  <td class=papi_border_l>Henri COURET</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1360&nbsp;N</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_r>4</td>
+  <td class=papi_border_r>20&frac12;</td>
+  <td class=papi_border_r>14</td>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>8</td>
+  <td class=papi_border_l>Jean-Jacques DOUSTENS</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1530&nbsp;N</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_r>2&frac12;</td>
+  <td class=papi_border_r>21&frac14;</td>
+  <td class=papi_border_r>9</td>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>9</td>
+  <td class=papi_border_l>Jean-Christophe LAFFONT</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1588&nbsp;F</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_c>1</td>
+  <td class=papi_border_r>2&frac12;</td>
+  <td class=papi_border_r>21&frac14;</td>
+  <td class=papi_border_r>9</td>
+ <tr height=20 class=papi_liste_c>
+  <td class=papi_border_r>10</td>
+  <td class=papi_border_l>Stephane LIDOINE</td>
+  <td class=papi_border_c><img border=0 src=flags/FRA.GIF height=12px /></td>
+  <td class=papi_border_c>1340&nbsp;N</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>&frac12;</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c>0</td>
+  <td class=papi_border_c bgcolor=#000000>&nbsp;</td>
+  <td class=papi_border_r>&frac12;</td>
+  <td class=papi_border_r>22&frac14;</td>
+  <td class=papi_border_r>1</td>
+</table>
+</div>
+</div>
+<div align=center>
+  <p>
+    
+  </p>
+</div>
+    </td>
+  </tr>
+</table>
+
+
+
 ## Le détail, ronde après ronde
 
 |*Ech*|     | **Ronde 1**        |     |     |                           |     |
