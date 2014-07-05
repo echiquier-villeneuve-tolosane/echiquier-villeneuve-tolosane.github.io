@@ -7,6 +7,11 @@ published: true
 
 Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas moins de 10 joueurs (9 rondes), à la cadence 1h30 + 30s/c. Il est homologué FFE et FIDE.
 
+Le tournoi a été la scène d'affrontements sans concession. Pas de "nulle de salon" ici ! Au fil des rondes, les passes d'armes se sont succédées sans fin, avec seulement 4 parties nulles et 3 forfaits sur l'ensemble des 50 parties. Chacun a mobilisé le maximum de ses troupes, préparé ses combinaisons secrètes, tendu des pièges sournois pour parvenir a ses fins.
+
+Merci à l'ensemble des joueurs ... et à M. l'Arbitre ! Et rendez-vous l'an prochain, très probablement avec un système suisse en 7 rondes.
+
+
 ## Le classement
 
 |   | Moyenne : 1578          | ELO    | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | **Pts** | Ko. | Ka. |
