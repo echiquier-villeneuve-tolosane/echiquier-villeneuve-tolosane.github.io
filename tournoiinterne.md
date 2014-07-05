@@ -63,19 +63,19 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 
 |*Ech*|   | **Ronde 7**          |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*5*| [1,5] | COURET Henri       |**X**|**X**| BREHAULT Eric          | [2,5] |
+|*1*| [1,5] | COURET Henri       |**X**|**X**| BREHAULT Eric          | [2,5] |
 |*2*| [4] | GUERIN Laurent          |**1**|**0**| LIDOINE Stéphane     | [0,5] |
-|*4*| [2,5] | BIGNEBAT Jean-Paul    |**1**|**0**| GRASSAUD Guillaume     | [4] |
-|*3*| [1] | DOUSTENS Jean-Jacques   |**0**|**1**| DORIVAL Olivier        | [6] |
-|*1*| [2] | LAFFONT Jean-Christophe |**0**|**1**| GARCIA DEL PRADO Bruno | [4] |
+|*3*| [2,5] | BIGNEBAT Jean-Paul    |**1**|**0**| GRASSAUD Guillaume     | [4] |
+|*4*| [1] | DOUSTENS Jean-Jacques   |**0**|**1**| DORIVAL Olivier        | [6] |
+|*5*| [2] | LAFFONT Jean-Christophe |**0**|**1**| GARCIA DEL PRADO Bruno | [4] |
 
 |*Ech*|     | **Ronde 8**           |     |     |                        |     |
 |:-:|:---:| ----------------------- |:---:|:---:| ---------------------- |:---:|
-|*1*| [ ] | GARCIA DEL PRADO Bruno  |**-**|**-**| BREHAULT Eric          | [ ] |
-|*2*| [ ] | GRASSAUD Guillaume      |**-**|**-**| COURET Henri           | [ ] |
-|*3*| [ ] | DORIVAL Olivier         |**-**|**-**| BIGNEBAT Jean-Paul     | [ ] |
-|*4*| [ ] | LIDOINE Stéphane        |**-**|**-**| DOUSTENS Jean-Jacques  | [ ] |
-|*5*| [ ] | LAFFONT Jean-Christophe |**-**|**-**| GUERIN Laurent         | [ ] |
+|*1*| [0,5] | LIDOINE Stéphane      |**0**|**1**| DOUSTENS Jean-Jacques  | [1] |
+|*2*| [2] | LAFFONT Jean-Christophe |**0**|**1**| GUERIN Laurent         | [5] |
+|*3*| [5] | GARCIA DEL PRADO Bruno  |**1**|**0**| BREHAULT Eric          | [3] |
+|*4*| [4] | GRASSAUD Guillaume      |**F**|**1**| COURET Henri           | [2] |
+|*5*| [7] | DORIVAL Olivier         |**1**|**0**| BIGNEBAT Jean-Paul     | [5] |
 
 |*Ech*|   | **Ronde 9**            |     |     |                         |     |
 |:-:|:---:| ---------------------- |:---:|:---:| ----------------------- |:---:|
