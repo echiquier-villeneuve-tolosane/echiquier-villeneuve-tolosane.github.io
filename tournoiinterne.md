@@ -31,17 +31,17 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 
 |*Ech*|     | **Ronde 3**        |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*4*| [2] | GUERIN Laurent           |**1**|**0**| COURET Henri          |[0,5]|
-|*5*| [0] | DOUSTENS Jean-Jacques    |**0**|**1**| BIGNEBAT Jean-Paul    | [1] |
-|*2*| [0,5] | LIDOINE Stéphane    |**0**|**1**| GRASSAUD Guillaume       | [1] |
-|*3*| [1] | LAFFONT Jean-Christophe  |**0**|**1**| BREHAULT Eric         | [1] |
-|*1*| [2] | DORIVAL Olivier      |**1**|**0**| GARCIA DEL PRADO Bruno    | [1] |
+|*1*| [2] | GUERIN Laurent           |**1**|**0**| COURET Henri          |[0,5]|
+|*2*| [0] | DOUSTENS Jean-Jacques    |**0**|**1**| BIGNEBAT Jean-Paul    | [1] |
+|*3*| [0,5] | LIDOINE Stéphane    |**0**|**1**| GRASSAUD Guillaume       | [1] |
+|*4*| [1] | LAFFONT Jean-Christophe  |**0**|**1**| BREHAULT Eric         | [1] |
+|*5*| [2] | DORIVAL Olivier      |**1**|**0**| GARCIA DEL PRADO Bruno    | [1] |
 
 |*Ech*|   | **Ronde 4**          |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
-|*1*| [] | GARCIA DEL PRADO Bruno |**-**|**-**| BIGNEBAT Jean-Paul      | [] |
-|*2*|[]| COURET Henri           |**-**|**-**| DOUSTENS Jean-Jacques   | [] |
-|*3*| [] | BREHAULT Eric          |**-**|**-**| GUERIN Laurent          | [] |
+|*1*|[]| COURET Henri           |**-**|**-**| DOUSTENS Jean-Jacques   | [] |
+|*2*| [] | BREHAULT Eric          |**-**|**-**| GUERIN Laurent          | [] |
+|*3*| [] | GARCIA DEL PRADO Bruno |**-**|**-**| BIGNEBAT Jean-Paul      | [] |
 |*4*| [] | GRASSAUD Guillaume     |**-**|**-**| LAFFONT Jean-Christophe | [] |
 |*5*| [] | DORIVAL Olivier        |**-**|**-**| LIDOINE Stéphane        |[]|
 
