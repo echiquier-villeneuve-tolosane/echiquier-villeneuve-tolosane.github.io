@@ -9,17 +9,18 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 
 ## Le classement
 
-|  | Moyenne : 1578          | ELO    | 
-|1 | Olivier Dorival 		 | 1840 N |
-|2 | Bruno Garcia Del Prado  | 1748 F |
-|3 | Laurent Guérin          | 1659 F |
-|4 | Guillaume Grassaud      | 1699 E |
-|5 | Jean-Paul Bignebat      | 1530 N |
-|6 | Eric Bréhault           | 1490 N |
-|7 | Henri Couret            | 1360 N |
-|8 | Jean-Jacques Doustens   | 1530 N |
-|9 | Jean-Christophe Laffont | 1588 F |
-|10| Stéphane Lidoine        | 1340 N |
+|   | Moyenne : 1578          | ELO    | 
+|:-:|:-----------------------:| ------ |
+|1  | Olivier Dorival 		  | 1840 N |
+|2  | Bruno Garcia Del Prado  | 1748 F |
+|3  | Laurent Guérin          | 1659 F |
+|4  | Guillaume Grassaud      | 1699 E |
+|5  | Jean-Paul Bignebat      | 1530 N |
+|6  | Eric Bréhault           | 1490 N |
+|7  | Henri Couret            | 1360 N |
+|8  | Jean-Jacques Doustens   | 1530 N |
+|9  | Jean-Christophe Laffont | 1588 F |
+|10 | Stéphane Lidoine        | 1340 N |
 
 ## Le détail, ronde après ronde
 
