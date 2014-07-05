@@ -9,6 +9,8 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 
 ## Le classement
 
+<div align=center><div align=center>
+<p class=papi_titre>Tournoi interne EVT 2013/2014 - n° 30491<br />Grille après la ronde 9</p>
 <table cellspacing=0 cellpadding=2 style=border-collapse:collapse;>
  <tr height=20 class=papi_liste_c>
   <td class=papi_border_c width=20>&nbsp;</td>
@@ -210,6 +212,8 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
   <td class=papi_border_r>22&frac14;</td>
   <td class=papi_border_r>1</td>
 </table>
+</div>
+</div>
 
 ## Le détail, ronde après ronde
 
