@@ -13,7 +13,7 @@ Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pa
 
 ### Fin du tournoi interne 2014 ###
 
-Le tournoi a été la scène d'affrontements sans concession. Pas de "nulle de salon" ici ! Au fil des rondes, les passes d'armes se sont succédées sans fin, avec seulement 4 parties nulles et 3 forfaits sur l'ensemble des 50 parties. Chacun a mobilisé le maximum de ses troupes, préparé ses combinaisons secrètes, tendu des pièges sournois pour parvenir a ses fins. Mais **toujours dans la bonne humeur habituelle du club !**.
+Le tournoi a été la scène d'affrontements sans concession. Pas de "nulle de salon" ici ! Au fil des rondes, les passes d'armes se sont succédées sans fin, avec seulement 4 parties nulles et 3 forfaits sur l'ensemble des 50 parties. Chacun a mobilisé le maximum de ses troupes, préparé ses combinaisons secrètes, tendu des pièges sournois pour parvenir a ses fins. Mais **toujours dans la bonne humeur habituelle du club !**
 
 Au dela du tournoi, les rondes ont considérablement dynamisé la vie du club, chacun ayant a coeur de soumettre à l'analyse collective (éventuellement avec Maître Touzane) ses parties et celles des autres.
 
