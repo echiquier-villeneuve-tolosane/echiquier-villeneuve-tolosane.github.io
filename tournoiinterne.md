@@ -9,18 +9,18 @@ Le "tournoi interne" 2014 de l'EVT est organisé en Open toutes rondes avec pas 
 
 ## Le classement
 
-|   | Moyenne : 1578          | ELO    | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-|:-:| ----------------------- |:------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1  | Olivier Dorival 		  | 1840 N | * | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
-|2  | Bruno Garcia Del Prado  | 1748 F | 0 | * | X | 0 | 1 | 1 | 1 | 1 | 1 |
-|3  | Laurent Guérin          | 1659 F | 0 | X | * | 0 | 1 | 1 | 1 | 1 | 1 |
-|4  | Guillaume Grassaud      | 1699 E | 0 | 1 | 1 | * | 0 | 0 | 0 | 1 | 1 |
-|5  | Jean-Paul Bignebat      | 1530 N | 0 | 0 | 0 | 1 | * | X | 0 | 1 | 1 |
-|6  | Eric Bréhault           | 1490 N | 0 | 0 | 0 | 1 | X | * | X | 0 | 1 |
-|7  | Henri Couret            | 1360 N | 0 | 0 | 0 | 1 | 1 | * | * | 1 | X |
-|8  | Jean-Jacques Doustens   | 1530 N | 0 | 0 | 0 | 0 | 0 | 1 | 0 | * | 1 |
-|9  | Jean-Christophe Laffont | 1588 F | 0 | 0 | 0 | 0 | 0 | 0 | 1 | X | 1 |
-|10 | Stéphane Lidoine        | 1340 N | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | * |
+|   | Moyenne : 1578          | ELO    | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | **Pts** |
+|:-:| ----------------------- |:------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|1  | Olivier Dorival 		  | 1840 N | * | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | **9** |
+|2  | Bruno Garcia Del Prado  | 1748 F | 0 | * | X | 0 | 1 | 1 | 1 | 1 | 1 | **6,5** |
+|3  | Laurent Guérin          | 1659 F | 0 | X | * | 0 | 1 | 1 | 1 | 1 | 1 | **6,5** |
+|4  | Guillaume Grassaud      | 1699 E | 0 | 1 | 1 | * | 0 | 0 | 0 | 1 | 1 | **5** |
+|5  | Jean-Paul Bignebat      | 1530 N | 0 | 0 | 0 | 1 | * | X | 0 | 1 | 1 | **4,5** |
+|6  | Eric Bréhault           | 1490 N | 0 | 0 | 0 | 1 | X | * | X | 0 | 1 | **4** |
+|7  | Henri Couret            | 1360 N | 0 | 0 | 0 | 1 | 1 | * | * | 1 | X | **4** |
+|8  | Jean-Jacques Doustens   | 1530 N | 0 | 0 | 0 | 0 | 0 | 1 | 0 | * | 1 | **2,5** |
+|9  | Jean-Christophe Laffont | 1588 F | 0 | 0 | 0 | 0 | 0 | 0 | 1 | X | 1 | **2,5** |
+|10 | Stéphane Lidoine        | 1340 N | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | * | **0,5** |
 
 ## Le détail, ronde après ronde
 
