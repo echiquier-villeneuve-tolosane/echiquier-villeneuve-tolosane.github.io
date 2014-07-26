@@ -6,7 +6,10 @@ title: Exercices et problèmes
 ---
 
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
+
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles à la suite des diagrammes.
+
+Retrouvez la récolte 20134-2014 en document [PDF](documents/EVT_exercisebook_20132014.pdf "Diagrammes").
 
 ### Tournoi Interne EVT, ronde 9
 
