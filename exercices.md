@@ -9,7 +9,7 @@ title: Exercices et problèmes
 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles à la suite des diagrammes.
 
-##### ** En PDF ! **
+##### **En PDF !**
 
 Retrouvez la récolte des diagrammes EVT 20134-2014 en document [PDF](http://echiquier-villeneuve-tolosane.github.io/documents/EVT_exercisebook_20132014.pdf "Diagrammes EVT 2013-2014").
 
