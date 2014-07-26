@@ -11,7 +11,7 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 ##### **En PDF !**
 
-Retrouvez la récolte des diagrammes EVT 20134-2014 en document [PDF](http://echiquier-villeneuve-tolosane.github.io/documents/EVT_exercisebook_20132014.pdf "Diagrammes EVT 2013-2014").
+Retrouvez la récolte des diagrammes EVT 20134-2014 en [document PDF](http://echiquier-villeneuve-tolosane.github.io/documents/EVT_exercisebook_20132014.pdf "Diagrammes EVT 2013-2014").
 
 ### Tournoi Interne EVT, ronde 9
 
