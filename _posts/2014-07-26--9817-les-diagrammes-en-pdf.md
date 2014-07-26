@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#9817; Les diagrammes en PDF !"
+title: "&#9823; Les diagrammes en PDF !"
 layout: default
 root: ../../..
 ---
