@@ -25,10 +25,12 @@ Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, 
 **Pour que l'été soit propice à l'entrainement, retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
 
-##### &#9821; **Couret (EVT) - Dorival (EVT)**, *Tournoi interne, ronde 9* 
+##### &#9823; **Dorival (EVT) - Bréhault (EVT)**, *Tournoi interne 2013-2014, ronde 1* 
 
-`4rk2/1b4pp/p1p2n2/1p2pP2/P2qP3/1QNr1B2/1P3RPP/3R1K2 w - - 0 25`
+`r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
 
-&#9679; Bien que les Noirs se soient emparés d'une importante colonne, la situation est loin d'être claire. C'est là que les Blancs glissent en jouant **25. Be2?**. Pendant la partie, les Noirs sont passés à coté d'une belle opportunité de prendre un avantage décisif. Voyez-vous comment ?
+&#9675; Les Blancs font mat en 3 coups.
 
-> Dans la partie, les Noirs se sont contentés de gagner un bon pion central avec la suite **25... Rxd1+ 26. Bxd1 b4!** (=+) qui chasse le cavalier de la défense de e4. Cependant il y avait une suite plus tranchante avec **25...Nxe4!!** qui gagne une pièce même sur la meilleure parade : **26. Nxe4 Rxb3 27. Rxd4 exd4** (+-).
+> **27.Dh4+ Ch5 (26...Rg8 (26...Rg6 27.Ce7#) 27.Ce7#) 27.Dxh5+ Rg8 28.Ce7#**
+
+ 
