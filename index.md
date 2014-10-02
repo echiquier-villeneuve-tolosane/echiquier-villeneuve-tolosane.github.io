@@ -29,6 +29,6 @@ Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, 
 
 `B2r3k/p5pp/8/2p2pq1/Q7/1P2P2P/P2R1PP1/6K1 b - - 0 27`
 
-&#9675; Après le coup des Blancs **27. Fxa8**, quelle est la bonne reprise pour les Noirs ?
+&#9679; Après le coup des Blancs **27. Fxa8**, quelle est la bonne reprise pour les Noirs ?
 
 > **27... Txa8 (27...Txd2?? De8#)**
