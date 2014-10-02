@@ -16,7 +16,7 @@ Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pa
 Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, le planning hebdomadaire se résume ainsi :
 
 - le mercredi, espace Marcel Pagnol, 14h-16h : cours enfants 1er niveau
-- le mercredi, espace Marcel Pagnol, 18h30-20h30 : cours enfants 2e niveau
+- le mercredi, salle de la tour du Fort, 18h30-20h30 : cours enfants 2e niveau
 - le vendredi, foyer du 3e âge, 20h30-1h+? : jeu libre, tournoi interne, cours adulte, analyse, etc
 - le samedi, foyer du 3e âge, 10h-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte
 
