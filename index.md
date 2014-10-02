@@ -25,12 +25,10 @@ Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, 
 **Pour que l'été soit propice à l'entrainement, retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
 
-##### &#9823; **Dorival (EVT) - Bréhault (EVT)**, *Tournoi interne 2013-2014, ronde 1* 
+##### &#9823; **?? - Laffont (EVT)**, *Villeneuve-lès-Maguelone juillet 2014* 
 
-`r4r2/p4ppk/1pqp1n2/2pNnpQ1/2P1P3/1B5P/PPN5/3R1RK1 w - - 1 26`
+`B2r3k/p5pp/8/2p2pq1/Q7/1P2P2P/P2R1PP1/6K1 b - - 0 27`
 
-&#9675; Les Blancs font mat en 3 coups.
+&#9675; Après le coup des Blancs **27. Fxa8**, quelle est la bonne reprise pour les Noirs ?
 
-> **27.Dh4+ Ch5 (26...Rg8 (26...Rg6 27.Ce7#) 27.Ce7#) 27.Dxh5+ Rg8 28.Ce7#**
-
- 
+> **27... Txa8 (27...Txd2?? De8#)**
