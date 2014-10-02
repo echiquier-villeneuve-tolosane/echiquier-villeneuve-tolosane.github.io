@@ -11,13 +11,16 @@ L'EVT est un club très convivial qui se réunit tous les **vendredis soirs à p
 
 Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pas à venir partager un moment amical au club le vendredi soir à partir de 20h45.
 
-### Fin du tournoi interne 2014 ###
+### Nouveau créneau le samedi matin ###
 
-Le tournoi a été la scène d'affrontements sans concession. Pas de "nulle de salon" ici ! Au fil des rondes, les passes d'armes se sont succédées sans fin, avec seulement 4 parties nulles et 3 forfaits sur l'ensemble des 50 parties. Chacun a mobilisé le maximum de ses troupes, préparé ses combinaisons secrètes, tendu des pièges sournois pour parvenir a ses fins. Mais **toujours dans la bonne humeur habituelle du club !**
+Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, le planning hebdomadaire se résume ainsi :
+- item
+- item
+- item
 
-Au dela du tournoi, les rondes ont considérablement dynamisé la vie du club, chacun ayant a coeur de soumettre à l'analyse collective (éventuellement avec Maître Touzane) ses parties et celles des autres.
 
-**Les résultats sont dans la rubrique [Tournoi interne](http://echiquier-villeneuve-tolosane.github.io/tournoiinterne.html "Tournoi Interne").**
+
+
 
 ### Le diagramme de la semaine ###
 
@@ -31,10 +34,3 @@ Au dela du tournoi, les rondes ont considérablement dynamisé la vie du club, c
 &#9679; Bien que les Noirs se soient emparés d'une importante colonne, la situation est loin d'être claire. C'est là que les Blancs glissent en jouant **25. Be2?**. Pendant la partie, les Noirs sont passés à coté d'une belle opportunité de prendre un avantage décisif. Voyez-vous comment ?
 
 > Dans la partie, les Noirs se sont contentés de gagner un bon pion central avec la suite **25... Rxd1+ 26. Bxd1 b4!** (=+) qui chasse le cavalier de la défense de e4. Cependant il y avait une suite plus tranchante avec **25...Nxe4!!** qui gagne une pièce même sur la meilleure parade : **26. Nxe4 Rxb3 27. Rxd4 exd4** (+-).
-
-
-### L'édition 2014 du tournoi Roger Pelat est terminée ... ###
-
-![Tournoi EVT 2014](photos/tournoi-roger-pelat-2014-mix.jpg)
-
-Comme chaque année, l'EVT organisait le **tournoi Roger Pelat** à Villeneuve Tolosane le 8 Mai. Il s'agissait d'un tournoi en 7 rondes de 2x25 mn, avec 1 700 &euro; de prix. **[Les photos du tournoi, le palmarès, ainsi que tous les détails à cette page](tournoi-roger-pelat.html "Tournoi Roger pelat")**.
