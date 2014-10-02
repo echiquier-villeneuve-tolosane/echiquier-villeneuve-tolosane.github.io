@@ -25,7 +25,7 @@ Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, 
 **Pour que l'été soit propice à l'entrainement, retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
 
-##### &#9823; **?? - Laffont (EVT)**, *Villeneuve-lès-Maguelone juillet 2014* 
+##### &#9823; **?? - Laffont (EVT)**, *Villeneuve-lès-Maguelone, juillet 2014* 
 
 `B2r3k/p5pp/8/2p2pq1/Q7/1P2P2P/P2R1PP1/6K1 b - - 0 27`
 
