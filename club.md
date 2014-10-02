@@ -19,13 +19,13 @@ L'ouverture hebdomadaire du club suit le planning suivant :
 
 ###Les équipes pour la saison 2014-2015###
 
-L'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2155) joue en **Nationale 4** dans le groupe [Midi-Pyrénées 1](http://www.echecs.asso.fr/Equipes.aspx?Groupe=84 "Nationale 4 / Midi-Pyrénées 1 / Groupe 1").
+Suite au maintien, l'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2155) joue en **Nationale 4** dans le groupe [Midi-Pyrénées 1](http://www.echecs.asso.fr/Equipes.aspx?Groupe=84 "Nationale 4 / Midi-Pyrénées 1 / Groupe 1").
 
-L'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2790) joue en **Régionale 1** (dans une entente avec Ciadoux), dans le [groupe C](http://www.echecs.asso.fr/Equipes.aspx?Groupe=1245 "Régionale 2 / Midi-Pyrénées / Groupe C").
+Après la glorieuse saison 2013-2014, l'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2790) rejoint la **Régionale 1** (dans une entente avec Ciadoux).
 
-Le club s'est engagé en [Coupe de France](http://www.echecs.asso.fr/Equipes.aspx?Groupe=919 "Coupe de France / 1er tour") et poursuit son parcours en **Coupe Midi-Pyrénées**.
+Le club s'est engagé en **Coupe de France** et en **Coupe Loubatière**.
 
-###Les cours adulte###
+###Les cours pour adulte###
 
 Après le succès des séances de l'an dernier, les cours d'**Olivier Touzane** sont reconduits pour l'année à venir. **Olivier Touzane**, **_Maître International_**, partage avec nous ses connaissances et analyse les moments forts de nos parties.
 
