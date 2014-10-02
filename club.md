@@ -5,24 +5,36 @@ title: Vie du club
 published: true
 ---
 
-###Les équipes###
+###Créneaux horaires###
+
+L'ouverture hebdomadaire du club suit le planning suivant :
+
+- le mercredi, espace Marcel Pagnol, 14h-16h : cours enfants 1er niveau
+
+- le mercredi, salle de la tour du Fort, 18h30-20h30 : cours enfants 2e niveau
+
+- le vendredi, foyer du 3e âge, 20h30-1h+? : jeu libre, tournoi interne, cours adulte, analyse, etc
+
+- le samedi, foyer du 3e âge, 10h-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte
+
+###Les équipes pour la saison 2014-2015###
 
 L'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2155) joue en **Nationale 4** dans le groupe [Midi-Pyrénées 1](http://www.echecs.asso.fr/Equipes.aspx?Groupe=84 "Nationale 4 / Midi-Pyrénées 1 / Groupe 1").
 
-L'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2790) joue en **Régionale 2** (dans une entente avec Ciadoux), dans le [groupe C](http://www.echecs.asso.fr/Equipes.aspx?Groupe=1245 "Régionale 2 / Midi-Pyrénées / Groupe C").
+L'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2790) joue en **Régionale 1** (dans une entente avec Ciadoux), dans le [groupe C](http://www.echecs.asso.fr/Equipes.aspx?Groupe=1245 "Régionale 2 / Midi-Pyrénées / Groupe C").
 
 Le club s'est engagé en [Coupe de France](http://www.echecs.asso.fr/Equipes.aspx?Groupe=919 "Coupe de France / 1er tour") et poursuit son parcours en **Coupe Midi-Pyrénées**.
 
-###Les cours###
+###Les cours adulte###
 
-Cette année, **Olivier Touzane**, **_Maître International_**, partage avec nous ses connaissances et analyse les moments forts de nos parties.
+Après le succès des séances de l'an dernier, les cours d'**Olivier Touzane** sont reconduits pour l'année à venir. **Olivier Touzane**, **_Maître International_**, partage avec nous ses connaissances et analyse les moments forts de nos parties.
 
 Le calendrier des cours est consultable [ici]({{ page.root }}/calendar.html).
 
-###Le tournoi interne ouvert 2013-2014###
+###Le tournoi interne ouvert 2014-2015###
 
-Cette année, le **Tournoi Interne** est un Open - toutes rondes à 10 joueurs, homologué FIDE et FFE.
+Cette année, le **Tournoi Interne** sera un Open - système suisse en 7 rondes.
 
-La cadence est 1h30 + 30s/c pour les 40 premiers coups suivi d'un incrément de 15min + 30s/c. Le départage est le suivant : cumulatif, Buchholz, performance ELO. Daniel Poussy nous fera l'honeeur d'être l'infatigable arbitre du tournoi.
+Daniel Poussy, assisté d'Olivier Dorival, sera l'infatigable arbitre du tournoi.
 
 Les résultats du cru 2013/2014 sont consultables sur la page du [tournoi interne]({{ page.root }}/tournoiinterne.html).
