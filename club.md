@@ -8,6 +8,7 @@ published: true
 ###Créneaux horaires###
 
 L'ouverture hebdomadaire du club suit le planning suivant :
+
 - le mercredi, espace Marcel Pagnol, 14h-16h : cours enfants 1er niveau
 - le mercredi, salle de la tour du Fort, 18h30-20h30 : cours enfants 2e niveau
 - le vendredi, foyer du 3e âge, 20h30-1h+? : jeu libre, tournoi interne, cours adulte, analyse, etc
