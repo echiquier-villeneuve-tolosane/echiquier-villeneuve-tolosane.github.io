@@ -20,6 +20,7 @@ Les dates des joutes sont les suivantes :
 - ronde 7: **24/04/2015** à 21h00,
 - date de secours pour intempéries éventuelles : 27/03/2015.
 
+Possibilité de **préinscription** à l'[adresse suivante](mailto:echecsvilleneuve@gmail.com).
 
 ## Retour sur le tournoi 2014
 
