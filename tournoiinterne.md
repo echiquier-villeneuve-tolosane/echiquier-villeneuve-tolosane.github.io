@@ -5,16 +5,31 @@ title: Tournoi interne
 published: true
 ---
 
+## Lancement du tournoi interne 2015
+
+Le **tournoi interne 2015** de l'EVT sera un Open en système suisse en 7 rondes. La cadence est 1h30+30sec/coup (40) suivi de 15min+30sec/coup. A l'arbitrage : Daniel Poussy et Olivier Dorival.
+
+Les dates des joutes sont les suivantes :
+
+- ronde 1: 24/10/2014 à 21h (**Prière d'arriver 15 min avant pour les inscriptions !**),
+- ronde 2: 07/11/2014 à 21h,
+- ronde 3: 05/12/2014 à 21h,
+- ronde 4: 23/01/2015 à 21h,
+- ronde 5: 20/02/2015 à 21h,
+- ronde 6: 06/03/2015 à 21h,
+- ronde 7: 24/04/2015 à 21h,
+- date de secours pour intempéries éventuelles : 27/03/2015.
+
+
+## Retour sur le tournoi 2014
+
 Le **tournoi interne 2014** de l'EVT est organisé en Open toutes rondes avec pas moins de 10 joueurs (9 rondes), à la cadence 1h30 + 30s/c. Il est homologué FFE et FIDE.
 
 Le tournoi a été la scène d'affrontements sans concession. Pas de "nulle de salon" ici ! Au fil des rondes, les passes d'armes se sont succédées sans fin, avec seulement 4 parties nulles et 3 forfaits sur l'ensemble des 50 parties. Chacun a mobilisé le maximum de ses troupes, préparé ses combinaisons secrètes, tendu des pièges sournois pour parvenir a ses fins. Mais **toujours dans la bonne humeur habituelle du club !**
 
 Au dela du tournoi, les rondes ont considérablement dynamisé la vie du club, chacun ayant a coeur de soumettre à l'analyse collective (éventuellement avec Maître Touzane) ses parties et celles des autres.
 
-**Merci donc à l'ensemble des joueurs ... et à M. l'Arbitre !** Et rendez-vous l'an prochain, très probablement avec un système suisse en 7 rondes.
-
-
-## Le classement
+**Merci donc à l'ensemble des joueurs ... et à M. l'Arbitre !**.
 
 |   | Moyenne : 1578          | ELO    | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | **Pts** | Ko. | Ka. |
 |:-:| ----------------------- |:------:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -28,8 +43,6 @@ Au dela du tournoi, les rondes ont considérablement dynamisé la vie du club, c
 |8  | Jean-Jacques Doustens   | 1530 N | 0 | 0 | 0 | 0 | 0 | 1 | 0 | * | 1 | **2,5** | 21,25 | 9 |
 |9  | Jean-Christophe Laffont | 1588 F | 0 | 0 | 0 | 0 | 0 | 0 | 1 | X | 1 | **2,5** | 21,25 | 9 |
 |10 | Stéphane Lidoine        | 1340 N | 0 | 0 | 0 | 0 | 0 | 0 | X | 0 | * | **0,5** | 22,25 | 1 |
-
-## Le détail, ronde après ronde
 
 |*Ech*|     | **Ronde 1**        |     |     |                           |     |
 |:-:|:---:| -------------------- |:---:|:---:| ------------------------- |:---:|
