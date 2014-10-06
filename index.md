@@ -13,7 +13,7 @@ Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pa
 
 ### Lancement du tournoi interne 2015 !
 
-Le **tournoi interne 2015** de l'EVT sera un Open en système suisse en 7 rondes. La cadence est 1h30+30sec/coup (40) suivi de 15min+30sec/coup. A l'arbitrage : Daniel Poussy et Olivier Dorival.
+Le **tournoi interne 2015** de l'EVT sera un Open en système suisse en 7 rondes. La cadence est 1h30+30sec/coup (40) suivi de 15min+30sec/coup. 1er départage : Sonneborn-Berger, second départage : performance ELO. A l'arbitrage : Daniel Poussy et Olivier Dorival.
 
 Les dates des joutes sont les suivantes :
 
