@@ -11,13 +11,13 @@ Le **tournoi interne 2015** de l'EVT sera un Open en système suisse en 7 rondes
 
 Les dates des joutes sont les suivantes :
 
-- ronde 1: 24/10/2014 à 21h (**Prière d'arriver 15 min avant pour les inscriptions !**),
-- ronde 2: 07/11/2014 à 21h,
-- ronde 3: 05/12/2014 à 21h,
-- ronde 4: 23/01/2015 à 21h,
-- ronde 5: 20/02/2015 à 21h,
-- ronde 6: 06/03/2015 à 21h,
-- ronde 7: 24/04/2015 à 21h,
+- ronde 1: **24/10/2014** à 21h (**Prière d'arriver 15 min avant pour les inscriptions !**),
+- ronde 2: **07/11/2014** à 21h,
+- ronde 3: **05/12/2014** à 21h,
+- ronde 4: **23/01/2015** à 21h,
+- ronde 5: **20/02/2015** à 21h,
+- ronde 6: **06/03/2015** à 21h,
+- ronde 7: **24/04/2015** à 21h,
 - date de secours pour intempéries éventuelles : 27/03/2015.
 
 
