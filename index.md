@@ -27,6 +27,7 @@ Les dates des joutes sont les suivantes :
 - date de secours pour intempéries éventuelles : 27/03/2015.
 
 Possibilité de **préinscription** à l'[adresse suivante](mailto:echecsvilleneuve@gmail.com).
+
 ### Nouveau créneau le samedi matin ###
 
 Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, le planning hebdomadaire se résume ainsi :
