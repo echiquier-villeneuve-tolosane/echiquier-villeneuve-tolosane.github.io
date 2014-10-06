@@ -11,6 +11,22 @@ L'EVT est un club très convivial qui se réunit traitionnellement tous les **ve
 
 Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pas à venir partager un moment amical au club le vendredi soir à partir de 20h45.
 
+### Lancement du tournoi interne 2015 !
+
+Le **tournoi interne 2015** de l'EVT sera un Open en système suisse en 7 rondes. La cadence est 1h30+30sec/coup (40) suivi de 15min+30sec/coup. A l'arbitrage : Daniel Poussy et Olivier Dorival.
+
+Les dates des joutes sont les suivantes :
+
+- ronde 1: **24/10/2014** à 21h15 (**ATTENTION : Clôture des inscriptions à 21h00 !!!**),
+- ronde 2: **07/11/2014** à 21h00,
+- ronde 3: **05/12/2014** à 21h00,
+- ronde 4: **23/01/2015** à 21h00,
+- ronde 5: **20/02/2015** à 21h00,
+- ronde 6: **06/03/2015** à 21h00,
+- ronde 7: **24/04/2015** à 21h00,
+- date de secours pour intempéries éventuelles : 27/03/2015.
+
+Possibilité de **préinscription** à l'[adresse suivante](mailto:echecsvilleneuve@gmail.com).
 ### Nouveau créneau le samedi matin ###
 
 Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, le planning hebdomadaire se résume ainsi :
