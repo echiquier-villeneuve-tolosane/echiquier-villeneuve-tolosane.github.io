@@ -16,9 +16,9 @@ L'ouverture hebdomadaire du club suit le planning suivant :
 
 ###Les équipes pour la saison 2014-2015###
 
-Suite au maintien, l'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2155) joue en **Nationale 4** dans le groupe [Midi-Pyrénées 1](http://www.echecs.asso.fr/Equipes.aspx?Groupe=84 "Nationale 4 / Midi-Pyrénées 1 / Groupe 1").
+Suite au maintien, l'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=2418) joue en **Nationale 4** dans le groupe [Midi-Pyrénées 1](http://www.echecs.asso.fr/Equipes.aspx?Groupe=84 "Nationale 4 / Midi-Pyrénées 1 / Groupe 1").
 
-Après la glorieuse saison 2013-2014, l'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=4573) rejoint la **Régionale 1** (dans une entente avec Ciadoux).
+Après la glorieuse saison 2013-2014, l'[équipe 2](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=3286) rejoint la **Régionale 1** dans une entente avec Ciadoux, dans le [Groupe B](http://www.echecs.asso.fr/Equipes.aspx?Groupe=1284 "Ligue Midi-Pyrénées/Régionale 1/Groupe B").
 
 Le club s'est engagé en **Coupe de France** et en **Coupe Loubatière**.
 
