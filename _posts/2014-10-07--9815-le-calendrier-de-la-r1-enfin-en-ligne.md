@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&#128517; Le calendrier de la R1 enfin en ligne !"
+title: "&#9815; Le calendrier de la R1 enfin en ligne !"
 layout: default
 root: ../../..
 ---
