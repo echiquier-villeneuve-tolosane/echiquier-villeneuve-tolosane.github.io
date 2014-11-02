@@ -1,6 +1,6 @@
 ---
 published: true
-title: "&9825; Coupe de France 2015 : un petit tour et puis s'en va ..."
+title: "&#9825; Coupe de France 2015 : un petit tour et puis s'en va ..."
 layout: default
 root: ../../..
 ---
