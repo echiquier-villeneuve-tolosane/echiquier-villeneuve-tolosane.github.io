@@ -47,7 +47,7 @@ Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, 
 
 &#9679; Dans cette position, les noirs ont joué **22. .. Txf3+?**, quel était le soup qui donnait un avantage immédiat pour les noirs ?
 
-> **22. .. exf3 (le fou est perdu dans tous les cas, car si 23 Dxe6+, Ce7 sort ce cavalier de la menace du pion, protége le fou, et empĉhe l'échec Dg8 qui aurait pris une tour)**
+> **22. .. exf3 (le fou est perdu dans tous les cas, car si 23 Dxe6+, Ce7 sort ce cavalier de la menace du pion, protége le fou, et empêche l'échec Dg8 qui aurait pris une tour)**
 
 ##### &#9823; **?? - Laffont (EVT)**, *Villeneuve-lès-Maguelone, juillet 2014*
 
