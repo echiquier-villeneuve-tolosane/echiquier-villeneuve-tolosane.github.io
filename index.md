@@ -39,10 +39,17 @@ Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, 
 
 ### Le diagramme de la semaine ###
 
-**Pour que l'été soit propice à l'entrainement, retourvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
+**Retrouvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
+##### &#9823; **Laffont - Bréhault**, *Tournoi interne, janvier 2015*
 
-##### &#9823; **?? - Laffont (EVT)**, *Villeneuve-lès-Maguelone, juillet 2014* 
+`r3k3/ppp5/2n1p1b1/1P4p1/3Pp1P1/P1P2P1r/1B2QKBq/R4R2 b q - 2 22`
+
+&#9679; Dans cette position, les noirs ont joué **22. .. Txf3+?**, quel était le soup qui donnait un avantage immédiat pour les noirs ?
+
+> **22. .. exf3 (le fou est perdu dans tous les cas, car si 23 Dxe6+, Ce7 sort ce cavalier de la menace du pion, protége le fou, et empĉhe l'échec Dg8 qui aurait pris une tour)**
+
+##### &#9823; **?? - Laffont (EVT)**, *Villeneuve-lès-Maguelone, juillet 2014*
 
 `B2r3k/p5pp/8/2p2pq1/Q7/1P2P2P/P2R1PP1/6K1 b - - 0 27`
 
