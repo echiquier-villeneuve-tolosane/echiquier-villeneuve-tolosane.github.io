@@ -48,11 +48,3 @@ Le club inaugure cette année un nouveau créneau le samedi matin. En résumé, 
 &#9679; Dans cette position, les noirs ont joué **22. .. Txf3+?**, quel était le soup qui donnait un avantage immédiat pour les noirs ?
 
 > **22. .. exf3 (le fou est perdu dans tous les cas, car si 23 Dxe6+, Ce7 sort ce cavalier de la menace du pion, protége le fou, et empêche l'échec Dg8 qui aurait pris une tour)**
-
-##### &#9823; **?? - Laffont (EVT)**, *Villeneuve-lès-Maguelone, juillet 2014*
-
-`B2r3k/p5pp/8/2p2pq1/Q7/1P2P2P/P2R1PP1/6K1 b - - 0 27`
-
-&#9679; Après le coup des Blancs **27. Fxa8**, quelle est la bonne reprise pour que les Noirs puissent espérer tenir le coup ?
-
-> **27... Txa8 (27...Txd2?? De8#)**

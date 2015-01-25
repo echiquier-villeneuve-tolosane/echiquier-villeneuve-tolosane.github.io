@@ -5,9 +5,20 @@ root: .
 title: Exercices et problèmes
 ---
 
-##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.** 
+##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.**
 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles à la suite des diagrammes.
+
+### Tournoi Interne EVT 2014-2015
+
+#### &#9823; **?? - Laffont (EVT)**, *Villeneuve-lès-Maguelone, juillet 2014*
+
+`B2r3k/p5pp/8/2p2pq1/Q7/1P2P2P/P2R1PP1/6K1 b - - 0 27`
+
+&#9679; Après le coup des Blancs **27. Fxa8**, quelle est la bonne reprise pour que les Noirs puissent espérer tenir le coup ?
+
+> **27... Txa8 (27...Txd2?? De8#)**
+
 
 ##### **En PDF !**
 
@@ -16,7 +27,7 @@ Retrouvez la récolte des diagrammes EVT 20134-2014 en [document PDF](http://ech
 ### Tournoi Interne EVT, ronde 9
 
 
-#### &#9821; **Couret-Dorival** 
+#### &#9821; **Couret-Dorival**
 
 `4rk2/1b4pp/p1p2n2/1p2pP2/P2qP3/1QNr1B2/1P3RPP/3R1K2 w - - 0 25`
 
@@ -27,7 +38,7 @@ Retrouvez la récolte des diagrammes EVT 20134-2014 en [document PDF](http://ech
 ### Tournoi Interne EVT, ronde 8
 
 
-#### &#9823;&#9823; **Dorival-Bignebat** 
+#### &#9823;&#9823; **Dorival-Bignebat**
 
 `rn1qkb1r/pbpppppp/5n2/8/2BP4/4P3/PP3PPP/RNBQK1NR w KQkq - 0 5`
 
@@ -36,7 +47,7 @@ Retrouvez la récolte des diagrammes EVT 20134-2014 en [document PDF](http://ech
 > Le **4. Fb7** des Noirs est trop prématuré ! Les Blancs ont maintenant une attaque double sur le fou sans défense en b7, ainsi que sur la faiblesse légendaire des Noirs en f7. Comment ? Avec **5. Db3!**, et maintenant la seule défense des Noirs qui ne perde ni le fou, ni la partie - attention au mat en f7 ! - est ... **5... Dc8!**, mais les Blancs empochent tout de même le pion f7 et déroquent le roi noir : **6. Fxf7+ Rd8** (+=).
 
 
-#### &#9822; **Dorival-Bignebat** 
+#### &#9822; **Dorival-Bignebat**
 
 `r1r5/p2k2pp/2p5/2Qpqp2/4p3/1PN1P3/P4PPP/2RR2K1 w - f6 0 22`
 
@@ -48,7 +59,7 @@ Retrouvez la récolte des diagrammes EVT 20134-2014 en [document PDF](http://ech
 ### Tournoi Interne EVT, ronde 7
 
 
-#### &#9823;&#9823; **Doustens-Dorival** 
+#### &#9823;&#9823; **Doustens-Dorival**
 
 `rBbqk2r/pp1pppbp/5np1/8/2PQ4/5N2/PP2PPPP/RN2KB1R b KQkq - 0 6`
 
@@ -57,7 +68,7 @@ Retrouvez la récolte des diagrammes EVT 20134-2014 en [document PDF](http://ech
 > Les Noirs ne doivent pas se laisser surprendre ! Sur **6... Txb8?** les Blancs prennent l'avantage d'un pion par **7 Dxa7 (+-)**. Il faut donc prévenir la menace d'abord avec **6... Da5+ 7 Dc3** (7 b4!? Dxb4+ 8 Cbd2 Txb8 9 Dxa7 Dd6! (=)) **7... Dxc3+ 8 Cxc3 Txb8 (=)**.
 
 
-#### &#9823;&#9823; **Doustens-Dorival** 
+#### &#9823;&#9823; **Doustens-Dorival**
 
 `2br2k1/p2rppbp/Bp1p1np1/1N6/2PN4/1P2P3/P4PPP/R4RK1 w - - 0 17`
 
@@ -67,7 +78,7 @@ Retrouvez la récolte des diagrammes EVT 20134-2014 en [document PDF](http://ech
 
 
 
-#### &#9821; **Couret-Bréhault** 
+#### &#9821; **Couret-Bréhault**
 
 `r2q1rk1/1bp2pp1/p3pb1p/8/1P1N4/P2B4/1B3PPP/R2Q1RK1 b - - 0 15`
 
@@ -350,7 +361,7 @@ _Nationale 4, ronde 2 (2013/11/24)_
 `2r2rk1/1pqnbppp/p2p1n2/4pP2/2b1P1P1/1NN1B3/PPPQB2P/R4RK1 w - - 1 13`
 
 &#9675; Les Noirs viennent de jouer **24...Tac8??**. Les Blancs peuvent gagner une pièce.
-  
+
 > Les Blancs peuvent gagner une pièce en profitant du fou "en l'air" en e7 : **13.g5! Ce8 14.Fxc4 Dxc4 15.Ca5!! Db4 (15...Dc7?? 16.Cd5 Dd8 17.Cxb7) 16.Cd5 Dxd2** et maintenant le coup intermédiaire **17.Cxe7+!! Rh8 18.Fxd2 (+-)**.
 
 
