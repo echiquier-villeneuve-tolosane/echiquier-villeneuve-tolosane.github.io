@@ -11,9 +11,14 @@ L'EVT est un club très convivial qui se réunit traitionnellement tous les **ve
 
 Débutant timide, amateur intéressé ou passioné inconditionnel, n'hésitez pas à venir partager un moment amical au club le vendredi soir à partir de 20h45.
 
+### Tournoi Roger Pelat 8 mai 2015
+<table style="border: 0"><tr><td style="border: 0">
+<a href="/documents/affiche_tournoi_2015.pdf"><img src="/images/affiche-pelat-2015.png" /></a></td>
+<td style="border: 0"><a href="/images/tournoi-2015-prix.jpg"><img src="/images/tournoi-2015-prix.jpg" style="width: 400px;"/></a></td>
+</tr></table>
+
 ### Lancement du tournoi interne 2015 !
 
-<a href="/documents/affiche_tournoi_2015.pdf"><img src="/images/affiche-pelat-2015.png" style="float: right" /></img></a>
 Le **tournoi interne 2015** de l'EVT sera un Open en système suisse en 7 rondes. La cadence est 1h30+30sec/coup (40) suivi de 15min+30sec/coup. Premier départage : Sonneborn-Berger, second départage : performance ELO. A l'arbitrage : Daniel Poussy et Olivier Dorival.
 
 Les dates des joutes sont les suivantes :
