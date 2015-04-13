@@ -29,10 +29,10 @@ Les **préinscriptions** sont ouvertes à l'[adresse suivante](mailto:echecsvill
 
 **Retrouvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9823; **Laffont - Bréhault**, *Tournoi interne, janvier 2015*
+##### &#9823; **Garrel - Dorival**, *Nationale 4, ronde 4, 2015.01.11*
 
-`r3k3/ppp5/2n1p1b1/1P4p1/3Pp1P1/P1P2P1r/1B2QKBq/R4R2 b q - 2 22`
+`5r2/1p4k1/p4q2/3Pp1p1/2p1P1b1/2P3P1/PPQ3K1/R5N1 b - - 1 37`
 
-&#9679; Dans cette position, les noirs ont joué **22. .. Txf3+?**, quel était le soup qui donnait un avantage immédiat pour les noirs ?
+&#9675; Avec un coup direct, les Noirs matent ou gagnent la dame.
 
 > **22. .. exf3 (le fou est perdu dans tous les cas, car si 23 Dxe6+, Ce7 sort ce cavalier de la menace du pion, protége le fou, et empêche l'échec Dg8 qui aurait pris une tour)**
