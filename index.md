@@ -33,7 +33,7 @@ Les **préinscriptions** sont ouvertes à l'[adresse suivante](mailto:echecsvill
 
 `5r2/1p4k1/p4q2/3Pp1p1/2p1P1b1/2P3P1/PPQ3K1/R5N1 b - - 1 37`
 
-&#9679; Avec un coup direct, les Noirs matent ou gagnent la dame.
+&#9675; Avec un coup direct, les Noirs matent ou gagnent la dame.
 
 > **22... Fxf3+!** est le plus direct, et maintenant :
 - soit 23.Rh3 Th8# (ou 23...Dh6#),
