@@ -23,7 +23,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 <td style="border: 0"><a href="/images/tournoi-2015-prix.jpg"><img src="/images/tournoi-2015-prix.jpg" style="width: 400px;"/></a></td>
 </tr></table>
 
-Les **préinscriptions** sont ouvertes à l'[adresse suivante](mailto:echecsvilleneuve@gmail.com) (remise 1 euros). Tous les détails sont sur l'affiche.
+Les **préinscriptions** sont ouvertes à l'[adresse suivante](mailto:echecsvilleneuve@gmail.com) (remise 1 euros). Les détails et la liste des prix sur les affiches.
 
 ### Le diagramme de la semaine ###
 
