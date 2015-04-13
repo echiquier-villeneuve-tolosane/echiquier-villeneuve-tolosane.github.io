@@ -36,7 +36,7 @@ Les **préinscriptions** sont ouvertes à l'[adresse suivante](mailto:echecsvill
 &#9675; Avec un coup direct, les Noirs matent ou gagnent la dame.
 
 > **22... Fxf3+!** est le plus direct, et maintenant :
-- soit 23.Rh3 Th8# (ou 23...Dh6#),
-- soit 23.Rh2 Dh6+ 24.Ch3 Dxh3! 25.Rxh3 (25.Rg1 Dh1+ 26.Rg2 Dg2+ gagne la dame) Th8#,
-- soit 23.Rf2 (idem avevc Rf1) Fxe4+ gagne la dame,
-- soit 23.Cxf3 Dxf3+ (24.Rh3 Th8#; 24.Rh2 Th8+ 25.Rg1 Th1#) 24.Rg1 Dxg3+ 25.Dg2 (25.Rh Th8) De3+ 26.Rh1 Th8 remporte la dame.
+- soit **23.Rh3 Th8#** (ou **23...Dh6#**),
+- soit **23.Rh2 Dh6+ 24.Ch3 Dxh3! 25.Rxh3** (**25.Rg1 Dh1+ 26.Rg2 Dg2+** gagne la dame) **Th8#**,
+- soit **23.Rf2** (idem sur **23.Rf1**) **Fxe4+** gagne la dame,
+- soit **23.Cxf3 Dxf3+** (sur **24.Rh3 Th8#**; sur **24.Rh2 Th8+ 25.Rg1 Th1#**) **24.Rg1 Dxg3+ 25.Dg2** (**25.Rh1(2) Th8**) **De3+ 26.Rh1 Th8** remporte la dame.
