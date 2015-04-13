@@ -9,6 +9,22 @@ title: Exercices et problèmes
 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles à la suite des diagrammes.
 
+### Lardennes 2 - EVT
+
+_Nationale 4, ronde 4 (2015/01/11)_
+
+##### &#9822; **Garrel - Dorival**, *Nationale 4, ronde 4, 2015.01.11*
+
+`5r2/1p4k1/p4q2/3Pp1p1/2p1P1b1/2P3P1/PPQ3K1/R5N1 b - - 1 37`
+
+&#9675; Avec un coup direct, les Noirs matent ou gagnent la dame.
+
+> **22... Fxf3+!** est le plus direct, et maintenant :
+- soit **23.Rh3 Th8#** (ou **23...Dh6#**),
+- soit **23.Rh2 Dh6+ 24.Ch3 Dxh3! 25.Rxh3** (**25.Rg1 Dh1+ 26.Rg2 Dg2+** gagne la dame) **Th8#**,
+- soit **23.Rf2** (idem sur **23.Rf1**) **Fxe4+** gagne la dame,
+- soit **23.Cxf3 Dxf3+** (sur **24.Rh3 Th8#**; sur **24.Rh2 Th8+ 25.Rg1 Th1#**) **24.Rg1 Dxg3+ 25.Dg2** (**25.Rh1(2) Th8**) **De3+ 26.Rh1 Th8** remporte la dame.
+
 ### Tournoi Interne EVT 2014-2015
 
 #### &#9823; **?? - Laffont (EVT)**, *Villeneuve-lès-Maguelone, juillet 2014*
