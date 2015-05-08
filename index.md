@@ -21,13 +21,21 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 -le samedi, foyer du 3e âge, 10h-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte.
 
-### Tournoi Roger Pelat 8 mai 2015
+### Juste innoubliable !
+
+Avec 112 inscrits dans le tournoi principal, et 26 dans le tournoi enfant, le tournoi "du 8 mai" de l'Echiquier Villeneuve Tolosane (Tournoi Roger Pelat de son vrai nom) établit un record absolu. 
+
+Alors oui, nous avons passé une journée inoubliable avec vous tous ! Merci à tous pour le succès de votre participation !
+
+Au passage, un grand merci également à Françoise Cwiek qui a assuré l'arbitrage principal du tournoi.
+
+L'équipe de l'EVT.
+PS : le palmarès, les photos et les grilles du tournoi arrivent rapidement sur cette même page.
+
 <table style="border: 0"><tr><td style="border: 0">
 <a href="/documents/affiche_tournoi_2015.pdf"><img src="/images/affiche-pelat-2015.png" /></a></td>
-<td style="border: 0"><a href="/images/tournoi-2015-prix.jpg"><img src="/images/tournoi-2015-prix.jpg" style="width: 400px;"/></a></td>
 </tr></table>
 
-Les **préinscriptions** sont ouvertes à l'[adresse suivante](mailto:echecsvilleneuve@gmail.com) (remise 1 euros). Les détails et la liste des prix sur les affiches.
 
 ### Le diagramme de la semaine ###
 
