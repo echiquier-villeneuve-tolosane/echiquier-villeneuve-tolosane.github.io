@@ -25,7 +25,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 ####Avec 112 inscrits dans le tournoi principal, et 26 dans le tournoi enfant, le tournoi "du 8 mai" de l'Echiquier Villeneuve Tolosane (Tournoi Roger Pelat de son vrai nom) établit un record absolu.
 
-####Alors oui, nous avons passé une journée inoubliable avec vous tous ! Merci à tous pour le succès de votre participation !
+######Alors oui, nous avons passé une journée inoubliable avec vous tous ! Merci à tous pour le succès de votre participation !
 
 ####Au passage, un grand merci également à Françoise Cwiek qui a assuré l'arbitrage principal du tournoi.
 
