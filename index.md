@@ -31,7 +31,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 #####L'équipe de l'EVT.
 
-PS : le palmarès, les photos et les grilles du tournoi arrivent rapidement sur cette même page.
+######PS : le palmarès, les photos et les grilles du tournoi arrivent rapidement sur cette même page.
 
 <table style="border: 0"><tr><td style="border: 0">
 <a href="/documents/affiche_tournoi_2015.pdf"><img src="/images/affiche-pelat-2015.png" /></a></td>
