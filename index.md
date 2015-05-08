@@ -30,6 +30,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 **Au passage, un grand merci également à Françoise Cwiek qui a assuré l'arbitrage principal du tournoi.**
 
 **L'équipe de l'EVT.**
+
 PS : le palmarès, les photos et les grilles du tournoi arrivent rapidement sur cette même page.
 
 <table style="border: 0"><tr><td style="border: 0">
