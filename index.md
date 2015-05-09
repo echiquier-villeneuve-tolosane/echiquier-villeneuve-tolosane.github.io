@@ -31,7 +31,8 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 #####L'équipe de l'EVT.
 
-######PS : Les grilles du tournoi principal et du tournoi enfants sont disponibles sur cette [page](http://echiquier-villeneuve-tolosane.github.io/tournoi-roger-pelat.html "page")
+######PS : Les grilles du tournoi principal et du tournoi enfants sont disponibles sur cette [page](http://echiquier-villeneuve-tolosane.github.io/tournoi-roger-pelat.html "page").
+
 ######PPS : les photos arrivent rapidement sur cette même page.
 
 <table style="border: 0"><tr><td style="border: 0">
