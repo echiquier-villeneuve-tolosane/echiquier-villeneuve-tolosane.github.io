@@ -18,7 +18,28 @@ L’équipe de l’EVT.
 
 #### Grille américaine du tournoi enfant (26 participant(e)s) ####
 
-<body><tr class="papi_titre"><td colspan="18" align="center">TOURNOI JEUNES EVT 2015<br>Grille américaine après la ronde 5</td></tr>
+<div align="center">
+<table border="0" cellpadding="1" cellspacing="0" bordercolor="#000000">
+ <colgroup>
+  <col align="right">
+  <col align="right">
+  <col align="left">
+  <col align="char" char=" ">
+  <col align="center">
+  <col align="center">
+  <col align="center">
+  <col align="center">
+  <col align="center">
+  <col align="center">
+  <col align="center">
+  <col align="center">
+  <col align="char" char=",">
+  <col align="char" char=",">
+  <col align="char" char=",">
+  <col align="char" char=",">
+  <col align="right">
+ </col></col></col></col></col></col></col></col></col></col></col></col></col></col></col></col></col></colgroup>
+ <tr class="papi_titre"><td colspan="18" align="center">TOURNOI JEUNES EVT 2015<br />Grille américaine après la ronde 5</td></tr>
  <tr class="papi_small_t">
   <td>Pl</td>
   <td>&nbsp;</td>
@@ -532,7 +553,7 @@ L’équipe de l’EVT.
   <td>1000</td>
   <td>1000</td>
  </tr>
-</body>
+</table>
 
 
 #### Palmarès de l'édition 2014 (72 joueurs, 2 MI) ####
