@@ -18,7 +18,7 @@ L’équipe de l’EVT.
 
 #### Grille américaine du tournoi enfant (26 participant(e)s) ####
 
-<tbody><tr class="papi_titre"><td colspan="18" align="center">TOURNOI JEUNES EVT 2015<br>Grille américaine après la ronde 5</td></tr>
+<body><tr class="papi_titre"><td colspan="18" align="center">TOURNOI JEUNES EVT 2015<br>Grille américaine après la ronde 5</td></tr>
  <tr class="papi_small_t">
   <td>Pl</td>
   <td>&nbsp;</td>
