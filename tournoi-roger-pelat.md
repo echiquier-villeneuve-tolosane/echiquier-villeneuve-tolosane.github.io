@@ -61,7 +61,7 @@ L’équipe de l’EVT.
  </tr>
  <tr class="papi_small_c">
   <td>1</td>
-  <td>g</td>
+  <td>GM</td>
   <td><b>PRIE Eric</b></td>
   <td>2570</td>
   <td>Sen</td>
@@ -82,7 +82,7 @@ L’équipe de l’EVT.
  </tr>
  <tr class="papi_small_f">
   <td>2</td>
-  <td>m</td>
+  <td>IM</td>
   <td><b>TOUZANE Olivier</b></td>
   <td>2410</td>
   <td>Sen</td>
@@ -103,7 +103,7 @@ L’équipe de l’EVT.
  </tr>
  <tr class="papi_small_c">
   <td>3</td>
-  <td>mf</td>
+  <td>WIM</td>
   <td><b>BENMESBAH Natacha</b></td>
   <td>2254</td>
   <td>Sen</td>
@@ -502,7 +502,7 @@ L’équipe de l’EVT.
  </tr>
  <tr class="papi_small_f">
   <td>22</td>
-  <td>m</td>
+  <td>IM</td>
   <td><b>BROCHET Philippe</b></td>
   <td>2520</td>
   <td>Sen</td>
