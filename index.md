@@ -37,6 +37,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 <a href="/documents/affiche_tournoi_2015.pdf"><img src="/images/affiche-pelat-2015.png" /></a></td>
 </tr></table>
 
+[Ex](http://echiquier-villeneuve-tolosane.github.io/tournoi-roger-pelat.html "Ex")
 
 ### Le diagramme de la semaine ###
 
