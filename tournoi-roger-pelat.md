@@ -9,7 +9,7 @@ title: Tournoi Roger Pelat
 
 
 
-## Palmarès de l'édition 2014 ##
+#### Palmarès de l'édition 2014 (72 joueurs, 2 MI) ####
 
 <body topmargin='4' leftmargin='4'>
 <div align='center'>
