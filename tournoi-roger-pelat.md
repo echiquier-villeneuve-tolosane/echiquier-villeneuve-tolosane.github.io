@@ -7,10 +7,12 @@ title: Tournoi Roger Pelat
 
 ## 2015 : un tournoi inoubliable ! ##
 
-Avec 112 inscrits dans le tournoi principal, et 26 dans le tournoi enfant, le tournoi “du 8 mai” de l’Echiquier Villeneuve Tolosane (Tournoi Roger Pelat de son vrai nom) établit un record absolu.
+Avec 112 inscrits dans le tournoi principal, et 26 dans le tournoi enfant, le tournoi “du 8 mai” de l’Echiquier Villeneuve Tolosane (Tournoi Roger Pelat de son vrai nom) établit un record absolu. La hiérarchie a été respecté puisque c'est **Eric Prié** (GM, Echiquier Carcassonais) qui s'impose devant **Olivier Touzane** (IM, Echecs Club Montpellier) et **Natacha Benmesbah** (WIM, Club d'Echecs Metz Fischer). Un tournoi relevé avec plus de 30 joueurs au dessus de 2000 ELO, mais surtout une journée agréable avec de magnifiques passes d'armes tout au long de la journée, et ce y compris dans le tournoi enfant.
 
 Alors oui, nous avons passé une journée inoubliable avec vous tous ! Merci à tous pour le succès de votre participation !
+
 Au passage, nous adressons un grand merci également à Françoise Cwiek qui a assuré l’arbitrage principal du tournoi.
+
 L’équipe de l’EVT.
 
 #### Grille américaine du tournoi principal (112 participant(e)s dont 1 GMI, 2 MI, 1 WMI) ####
