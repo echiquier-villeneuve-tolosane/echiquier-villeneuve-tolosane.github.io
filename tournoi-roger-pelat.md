@@ -15,7 +15,7 @@ title: Tournoi Roger Pelat
 
 ######L’équipe de l’EVT.
 
-####### PS : les photos seront disponibles très prochainement.
+###### PS : les photos seront disponibles très prochainement.
 
 <table style="border: 0"><tr><td style="border: 0">
 <a href="/documents/affiche_tournoi_2015.pdf"><img src="/images/affiche-pelat-2015.png" /></a></td>
