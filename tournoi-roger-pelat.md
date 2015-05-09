@@ -532,7 +532,7 @@ L’équipe de l’EVT.
   <td>1000</td>
   <td>1000</td>
  </tr>
-</tbody>
+</body>
 
 
 #### Palmarès de l'édition 2014 (72 joueurs, 2 MI) ####
