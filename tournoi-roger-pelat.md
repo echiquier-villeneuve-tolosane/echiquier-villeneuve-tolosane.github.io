@@ -77,7 +77,7 @@ title: Tournoi Roger Pelat
  </tr>
  <tr class='papi_small_f'>
   <td>2</td>
-  <td>m</td>
+  <td>IM</td>
   <td><b>BROCHET Philippe</b></td>
   <td>2500</td>
   <td>Sen</td>
@@ -117,7 +117,7 @@ title: Tournoi Roger Pelat
  </tr>
  <tr class='papi_small_f'>
   <td>4</td>
-  <td>m</td>
+  <td>IM</td>
   <td><b>TOUZANE Olivier</b></td>
   <td>2470</td>
   <td>Sen</td>
