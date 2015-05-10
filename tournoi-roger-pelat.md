@@ -15,16 +15,17 @@ title: Tournoi Roger Pelat
 
 ######L’équipe de l’EVT.
 
-###### PS : les photos seront disponibles très prochainement.
-
 <table style="border: 0"><tr><td style="border: 0">
+<img src="/images/100_7676.JPG" /></td></tr>
+<tr><td style="border: 0">
+<img src="/images/100_7674.JPG" /></td></tr>
+<tr><td style="border: 0">
 <a href="/documents/affiche_tournoi_2015.pdf"><img src="/images/affiche-pelat-2015.png" /></a></td>
 </tr></table>
 
-
 #### Grille américaine du tournoi principal (112 participant(e)s dont 1 GMI, 2 MI, 1 WMI) ####
 <div align="center">
-<table border="0" cellpadding="1" cellspacing="0" bordercolor="#000000">
+<table style="font-size: 70%;" border="0" cellpadding="1" cellspacing="0" bordercolor="#000000">
  <colgroup>
   <col align="right">
   <col align="right">
@@ -2427,8 +2428,7 @@ title: Tournoi Roger Pelat
 
 #### Grille américaine du tournoi enfant (26 participant(e)s) ####
 
-<div align="center">
-<table border="0" cellpadding="1" cellspacing="0" bordercolor="#000000">
+<table style="font-size: 70%;" border="0" cellpadding="1" cellspacing="0" bordercolor="#000000">
  <colgroup>
   <col align="right">
   <col align="right">
@@ -2963,15 +2963,10 @@ title: Tournoi Roger Pelat
   <td>1000</td>
  </tr>
 </table>
-</div>
-
-
 
 #### Palmarès de l'édition 2014 (72 joueurs, 2 MI) ####
 
-<body topmargin='4' leftmargin='4'>
-<div align='center'>
-<table border='0' cellpadding='1' cellspacing='0' bordercolor='#000000'>
+<table style="font-size: 70%" border='0' cellpadding='1' cellspacing='0' bordercolor='#000000'>
  <colgroup>
   <col align='right'>
   <col align='right'>
@@ -3214,5 +3209,3 @@ title: Tournoi Roger Pelat
   <td>2093</td>
  </tr>
 </table>
-</div>
-</body>
