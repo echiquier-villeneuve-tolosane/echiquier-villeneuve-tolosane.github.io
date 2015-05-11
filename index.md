@@ -41,11 +41,11 @@ Les primés du tournoi principal
 <td style="border: 0">
 La relève est bientôt là ...
 </td>
+</tr>
+<tr>
 <td style="border: 0">
 <img src="/images/100_7674.JPG" />
 </td>
-</tr>
-<tr>
 <td style="border: 0">
 <img src="/images/100_7676.JPG" />
 </td>
