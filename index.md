@@ -35,7 +35,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 <table style="border: 0">
 <tr>
-<td>
+<td style="border: 0">
 Les primés du tournoi principal
 </td>
 </tr>
@@ -45,12 +45,12 @@ Les primés du tournoi principal
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 0">
 La relève est bientôt là ...
 </td>
 </tr>
 <tr>
-<td>
+<td style="border: 0">
 <img src="/images/100_7674.JPG" />
 </td>
 </tr>
