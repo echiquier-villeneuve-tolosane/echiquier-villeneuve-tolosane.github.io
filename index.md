@@ -36,7 +36,10 @@ En résumé, le planning hebdomadaire se résume ainsi :
 <table style="border: 0">
 <tr>
 <td style="border: 0">
-<img src="/images/100_7676.JPG" /><img src="/images/100_7674.JPG" />
+<img src="/images/100_7676.JPG" />
+</td>
+<td>
+<img src="/images/100_7674.JPG" />
 </td>
 </tr>
 </table>
