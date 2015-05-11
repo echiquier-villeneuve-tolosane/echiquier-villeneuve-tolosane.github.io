@@ -37,6 +37,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 <tr>
 <td style="border: 0">
 <img src="/images/100_7676.JPG" />
+Les primés du tournoi principal
 </td>
 <td>
 <img src="/images/100_7674.JPG" />
