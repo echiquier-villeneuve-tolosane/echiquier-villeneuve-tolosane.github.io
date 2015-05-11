@@ -44,10 +44,10 @@ En résumé, le planning hebdomadaire se résume ainsi :
 </tr>
 <tr>
 <td style="border: 0">
-Les primés du tournoi principal
+**Les primés du tournoi principal**
 </td>
 <td style="border: 0">
-La relève est bientôt là ...
+**La relève est bientôt là ...**
 </td>
 </tr>
 </table>
