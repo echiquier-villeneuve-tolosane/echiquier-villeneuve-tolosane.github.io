@@ -31,7 +31,11 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 #####L'équipe de l'EVT.
 
-######PS : Les grilles du tournoi principal et du tournoi enfants sont disponibles sur cette [page](/tournoi-roger-pelat.html "page").
+######PS : Les grilles et les photos du tournoi principal et du tournoi enfants sont disponibles sur cette [page](/tournoi-roger-pelat.html "page").
+
+<img src="/images/100_7676.JPG" /></td></tr>
+<img src="/images/100_7674.JPG" /></td></tr>
+
 
 <table style="border: 0"><tr><td style="border: 0">
 <a href="/documents/affiche_tournoi_2015.pdf"><img src="/images/affiche-pelat-2015.png" /></a></td>
