@@ -21,7 +21,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 -le samedi, foyer du 3e âge, 10h-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte.
 
-### Juste innoubliable !
+### Tournoi Roger Pelat 2015 : juste innoubliable !
 
 #####Avec 112 inscrits dans le tournoi principal, et 26 dans le tournoi enfant, le tournoi "du 8 mai" de l'Echiquier Villeneuve Tolosane (Tournoi Roger Pelat de son vrai nom) établit un record absolu.
 
@@ -30,8 +30,6 @@ En résumé, le planning hebdomadaire se résume ainsi :
 #####Au passage, nous adressons un grand merci également à Françoise Cwiek qui a assuré l'arbitrage principal du tournoi.
 
 #####L'équipe de l'EVT.
-
-######PS : Les grilles et les photos du tournoi principal et du tournoi enfants sont disponibles sur cette [page](/tournoi-roger-pelat.html "page").
 
 <table style="border: 0">
 <tr>
@@ -44,14 +42,15 @@ En résumé, le planning hebdomadaire se résume ainsi :
 </tr>
 <tr>
 <td style="border: 0">
-**Les primés du tournoi principal**
+Les primés du tournoi principal
 </td>
 <td style="border: 0">
-**La relève est bientôt là ...**
+La relève est bientôt là ...
 </td>
 </tr>
 </table>
 
+######PS : Les grilles et les photos du tournoi principal et du tournoi enfants sont disponibles sur cette [page](/tournoi-roger-pelat.html "page").
 
 
 ### Le diagramme de la semaine ###
