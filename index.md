@@ -33,14 +33,13 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 ######PS : Les grilles et les photos du tournoi principal et du tournoi enfants sont disponibles sur cette [page](/tournoi-roger-pelat.html "page").
 
-<img src="/images/100_7676.JPG" />
-
-<img src="/images/100_7674.JPG" />
-
-
-<table style="border: 0"><tr><td style="border: 0">
-<a href="/documents/affiche_tournoi_2015.pdf"><img src="/images/affiche-pelat-2015.png" /></a></td>
-</tr></table>
+<table style="border: 0">
+<tr>
+<td style="border: 0">
+<img src="/images/100_7676.JPG" /><img src="/images/100_7674.JPG" />
+</td>
+</tr>
+</table>
 
 
 
