@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ### Pas de trève estivale ! ###
 
 Tels d'irréductibles gaulois, les joueurs assurent l'ouverture du club **tous les vendredis soir** (à partir de 21h00) pendant les congés d'été.
@@ -33,14 +34,16 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 **Retrouvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-##### &#9822; **Garrel - Dorival**, *Nationale 4, ronde 4, 2015.01.11*
+#### &#9821; **Couret-Bréhault**, *Tournoi interne EVT 2014*
 
-`5r2/1p4k1/p4q2/3Pp1p1/2p1P1b1/2P3P1/PPQ3K1/R5N1 b - - 1 37`
+`r2q1rk1/1bp2pp1/p3pb1p/8/1P1N4/P2B4/1B3PPP/R2Q1RK1 b - - 0 15`
 
-&#9679; Avec un coup direct, les Noirs matent ou gagnent la dame.
+&#9679; les Noirs viennent de donner un cavalier pour un pion pensant regagner
+une pièce après les échanges en d4: **15...Fxd4 16 Fxd4 Dxd4** mais ils
+n'avaient pas pensé à **17 Fh7+** qui ferait perdre la Dame.
+Pourtant, les Noirs ont trouvé un coup intermédiaire qui permet de reprendre le matériel perdu sans danger, et ce pendant la partie ! Lequel ?
 
-> **22... Fxf3+!** est le plus direct, et maintenant :
-- soit **23.Rh3 Th8#** (ou **23...Dh6#**),
-- soit **23.Rh2 Dh6+ 24.Ch3 Dxh3! 25.Rxh3** (**25.Rg1 Dh1+ 26.Rg2 Dg2+** gagne la dame) **Th8#**,
-- soit **23.Rf2** (idem sur **23.Rf1**) **Fxe4+** gagne la dame,
-- soit **23.Cxf3 Dxf3+** (sur **24.Rh3 Th8#**; sur **24.Rh2 Th8+ 25.Rg1 Th1#**) **24.Rg1 Dxg3+ 25.Dg2** (**25.Rh1(2) Th8**) **De3+ 26.Rh1 Th8** remporte la dame.
+> **15...Dd5!** qui menace de mat en g2. Et sur les seules défenses les Noirs récupèrent le matériel :
+> - soit **16.f3** et maintenant la prise est sur échec : **16...Fxd5+ 17.Fxd5 18.Dxd5+ (-+)**,
+> - soit **16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!!** et les Noirs vont doubler les tours pour réconquérir le matériel.
+
