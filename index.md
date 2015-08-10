@@ -5,6 +5,7 @@ title: Accueil
 published: true
 ---
 
+
 ### Bienvenu(e) de l'EVT !###
 
 L'EVT est un club très convivial qui se réunit traitionnellement tous les **vendredis soirs à partir de 20h45** ... jusqu'à épuisement des joueurs ! Les soirées sont habituellement animées par le jeu libre, les **cours d'Olivier Touzane (Maître International)**, le **Tournoi Interne Open**, les commentaires sur les compétitions et parties récentes ou les tournois de Blitz improvisés.
@@ -21,37 +22,9 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 -le samedi, foyer du 3e âge, 10h-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte.
 
-### Tournoi Roger Pelat 2015 : juste innoubliable !
+### Pas de trève estivale ! ###
 
-#####Avec 112 inscrits dans le tournoi principal, et 26 dans le tournoi enfant, le tournoi "du 8 mai" de l'Echiquier Villeneuve Tolosane (Tournoi Roger Pelat de son vrai nom) établit un record absolu.
-
-#####Alors oui, nous avons passé une journée inoubliable avec vous tous ! Merci à tous pour le succès de votre participation !
-
-#####Au passage, nous adressons un grand merci également à Françoise Cwiek qui a assuré l'arbitrage principal du tournoi.
-
-#####L'équipe de l'EVT.
-
-<table style="border: 0">
-<tr>
-<td style="border: 0">
-<img src="/images/100_7676.JPG" />
-</td>
-<td style="border: 0">
-<img src="/images/100_7674.JPG" />
-</td>
-</tr>
-<tr>
-<td style="border: 0">
-Les primés du tournoi principal
-</td>
-<td style="border: 0">
-La relève est bientôt là ...
-</td>
-</tr>
-</table>
-
-######PS : Les grilles et les photos du tournoi principal et du tournoi enfants sont disponibles sur cette [page](/tournoi-roger-pelat.html "page").
-
+Tels d'irréductibles gaulois, les joueurs assurent l'ouverture du club tous les vendredis soir (à partir de 21h00) pendant les congés d'été.
 
 ### Le diagramme de la semaine ###
 
