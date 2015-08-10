@@ -8,7 +8,7 @@ published: true
 
 ### Pas de trève estivale ! ###
 
-Tels d'irréductibles gaulois, les joueurs assurent l'ouverture du club tous les vendredis soir (à partir de 21h00) pendant les congés d'été.
+Tels d'irréductibles gaulois, les joueurs assurent l'ouverture du club **tous les vendredis soir** (à partir de 21h00) pendant les congés d'été.
 
 
 ### Bienvenu(e) de l'EVT !###
