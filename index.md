@@ -8,6 +8,12 @@ published: true
 
 
 
+### Réunion de rentrée le vendredi 4 septembre à 21h ###
+
+Composition des équipes, calendrier de l'année, et autres questions, au menu de la réunion de rentrée du 4 septembre 2015. Et probablement une petit blitz (en tournoi ?) pour continuer la soirée.
+
+D'ici là, le club sera ouvert bien entendu vendredi prochain 28 août.
+
 ### Pas de trève estivale ! ###
 
 Tels d'irréductibles gaulois, les joueurs assurent l'ouverture du club **tous les vendredis soir** (à partir de 21h00) pendant les congés d'été.
@@ -45,4 +51,3 @@ Pourtant, les Noirs ont trouvé un coup intermédiaire qui permet de reprendre l
 > **15...Dd5!** qui menace de mat en g2. Et sur les seules défenses les Noirs récupèrent le matériel :
 > - soit **16.f3** et maintenant la prise est sur échec : **16...Fxd5+ 17.Fxd5 18.Dxd5+ (-+)**,
 > - soit **16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!!** et les Noirs vont doubler les tours pour réconquérir le matériel.
-
