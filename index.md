@@ -9,10 +9,13 @@ published: true
 
 
 
+
 ### Démarrage des cours du mercredi ###
 
 A vos agendas ! Les cours du mercredi on débuté ! 
+
 -- Séances **Enfants 1e niveau** : 14h-16h les mercredis 23/09, 7/10.
+
 -- Séances **Enfants 2e niveau** : 18h30-20h30 les mercredis 16/09, 30/09, 14/10.
 
 ### Bienvenu(e) de l'EVT !###
