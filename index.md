@@ -8,11 +8,12 @@ published: true
 
 
 
-### Réunion de rentrée le vendredi 4 septembre à 21h ###
 
-Composition des équipes, calendrier de l'année, et autres questions, au menu de la réunion de rentrée du 4 septembre 2015. Et probablement une petit blitz (en tournoi ?) pour continuer la soirée.
+### Démarrage des cours du mercredi ###
 
-D'ici là, le club sera ouvert bien entendu vendredi prochain 28 août.
+A vos agendas ! Les cours du mercredi on débuté ! 
+-- Séances **Enfants 1e niveau** : 14h-16h les mercredis 23/09, 7/10.
+-- Séances **Enfants 2e niveau** : 18h30-20h30 les mercredis 16/09, 30/09, 14/10.
 
 ### Pas de trève estivale ! ###
 
