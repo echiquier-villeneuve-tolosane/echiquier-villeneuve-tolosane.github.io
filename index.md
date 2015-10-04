@@ -10,6 +10,7 @@ published: true
 
 
 
+
 ### Démarrage des cours du mercredi ###
 
 A vos agendas ! Les cours du mercredi on débuté ! 
@@ -32,7 +33,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 -- le vendredi, foyer du 3e âge, 20h30-1h+? : jeu libre, tournoi interne, cours adulte, analyse, etc ;
 
--- le samedi, foyer du 3e âge, 10h-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte.
+-- le samedi, foyer du 3e âge, 10h30-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte.
 
 
 ### Le diagramme de la semaine ###
