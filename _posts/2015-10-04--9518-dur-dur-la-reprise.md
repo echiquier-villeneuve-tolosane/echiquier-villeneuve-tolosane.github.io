@@ -2,7 +2,7 @@
 published: true
 layout: default
 root: ../../..
-title: "&#9518; Dur dur la reprise !"
+title: "&#9822; Dur dur la reprise !"
 ---
 
 ## L'équipe 1 s'incline face à Gaillac !
