@@ -11,6 +11,7 @@ published: true
 
 
 
+
 ### Démarrage des cours du mercredi ###
 
 A vos agendas ! Les cours du mercredi on débuté ! 
@@ -40,15 +41,10 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 **Retrouvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-#### &#9821; **Couret-Bréhault**, *Tournoi interne EVT 2014*
+#### &#9817; **Campos - Dorival**, *Nationale 4, éch. 2*
 
-`r2q1rk1/1bp2pp1/p3pb1p/8/1P1N4/P2B4/1B3PPP/R2Q1RK1 b - - 0 15`
+`1r6/pp2nRb1/3pk1p1/2pNp1q1/2P3p1/1P1PP2r/PB4Q1/5RK1 w - - 4 28`
 
-&#9679; les Noirs viennent de donner un cavalier pour un pion pensant regagner
-une pièce après les échanges en d4: **15...Fxd4 16 Fxd4 Dxd4** mais ils
-n'avaient pas pensé à **17 Fh7+** qui ferait perdre la Dame.
-Pourtant, les Noirs ont trouvé un coup intermédiaire qui permet de reprendre le matériel perdu sans danger, et ce pendant la partie ! Lequel ?
+&#9675; Les Noirs viennent de jouer le désespéré **27...Cb6-e7** (les Blancs menaçaient Cc7#). Quel est le moyen le plus rapide d'en finir pour les Blancs ?
 
-> **15...Dd5!** qui menace de mat en g2. Et sur les seules défenses les Noirs récupèrent le matériel :
-> - soit **16.f3** et maintenant la prise est sur échec : **16...Fxd5+ 17.Fxd5 18.Dxd5+ (-+)**,
-> - soit **16.Df3 Dxf3 17.gxf3! (17.Cxf3? Fxb2 -+) Tad8! 18.Tad1 Td6!!** et les Noirs vont doubler les tours pour réconquérir le matériel.
+> En matant en deux coups ! > **28.Txe7+! Dxe7 29.Dxg4#** 
