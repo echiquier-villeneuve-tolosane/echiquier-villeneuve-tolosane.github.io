@@ -5,9 +5,15 @@ root: .
 title: Exercices et problèmes
 ---
 
+
 ##### **Au travail !!! Revivez dans cette rubrique les moments forts des compétitions de l'EVT.**
 
 La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme proposé. Les **solutions** sont disponibles à la suite des diagrammes.
+
+##### Saison 2015-2016
+
+
+##### Saison 2014-2015
 
 ### Lardennes 2 - EVT
 
@@ -36,7 +42,9 @@ _Nationale 4, ronde 4 (2015/01/11)_
 > **27... Txa8 (27...Txd2?? De8#)**
 
 
-##### **En PDF !**
+##### Saison 2014-2015 
+
+**En PDF !**
 
 Retrouvez la récolte des diagrammes EVT 20134-2014 en [document PDF](http://echiquier-villeneuve-tolosane.github.io/documents/EVT_exercisebook_20132014.pdf "Diagrammes EVT 2013-2014").
 
