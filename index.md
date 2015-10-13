@@ -56,6 +56,6 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 `1r6/pp2nRb1/3pk1p1/2pNp1q1/2P3p1/1P1PP2r/PB4Q1/5RK1 w - - 4 28`
 
-&#9679; Les Noirs viennent de jouer le désespéré **27...Cb6-e7** (les Blancs menaçaient Cc7#). Quel est le moyen le plus rapide d'en finir pour les Blancs ?
+&#9679; Les Noirs viennent de jouer le désespéré **27...Cc6-e7** (les Blancs menaçaient Cc7#). Quel est le moyen le plus rapide d'en finir pour les Blancs ?
 
 > En matant en deux coups ! **28.Txe7+! Dxe7 29.Dxg4#**
