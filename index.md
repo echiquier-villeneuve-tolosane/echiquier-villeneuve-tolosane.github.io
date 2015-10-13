@@ -12,6 +12,7 @@ published: true
 
 
 
+
 ### Démarrage des cours du mercredi ###
 
 A vos agendas ! Les cours du mercredi on débuté ! 
@@ -47,4 +48,4 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 &#9675; Les Noirs viennent de jouer le désespéré **27...Cb6-e7** (les Blancs menaçaient Cc7#). Quel est le moyen le plus rapide d'en finir pour les Blancs ?
 
-> En matant en deux coups ! > **28.Txe7+! Dxe7 29.Dxg4#** 
+> En matant en deux coups ! **28.Txe7+! Dxe7 29.Dxg4#**
