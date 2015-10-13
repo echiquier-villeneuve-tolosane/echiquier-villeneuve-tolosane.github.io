@@ -47,9 +47,9 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 `3q1r2/pp1bppbk/3p1np1/4P1Bp/2rN3P/2N2P2/PPPQ2P1/1K1R3R b - - 0 16`
 
-&#9675; Les Blancs viennent de pousser **16.e5!?**. Les Noirs peuvent-ils accepter le pion ?
+&#9675; Les Blancs viennent de pousser **16.e5!?** Les Noirs peuvent-ils accepter le pion ?
 
-> Je ne sais pas ! Je n'ai pas joué **16...dxe5** par peur de **17.Fxf6 Fxf6 18.Cb5** qui semble gagner une pièce (le Fd7), mais mon PC semble dire que le pion est prenable (et doit être pris)...
+> Je ne sais pas ! Je n'ai pas joué **16...dxe5** par peur de **17.Fxf6 Fxf6 18.Cb5** qui semble gagner une pièce, mais mon PC semble dire que le pion est prenable (et doit être pris)...
 
 
 #### &#9817; **Campos - Dorival**, *Nationale 4, ronde 1, éch. 2*
