@@ -47,7 +47,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 `3q1r2/pp1bppbk/3p1np1/4P1Bp/2rN3P/2N2P2/PPPQ2P1/1K1R3R b - - 0 16`
 
-&#9675; Les Blancs viennent de pousser **16.e5!?** Les Noirs peuvent-ils accepter le pion ?
+&#9679; Les Blancs viennent de pousser **16.e5!?** Les Noirs peuvent-ils accepter le pion ?
 
 > Je ne sais pas ! Je n'ai pas joué **16...dxe5** par peur de **17.Fxf6 Fxf6 18.Cb5** qui semble gagner une pièce, mais mon PC semble dire que le pion est prenable (et doit être pris)...
 
@@ -56,6 +56,6 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 `1r6/pp2nRb1/3pk1p1/2pNp1q1/2P3p1/1P1PP2r/PB4Q1/5RK1 w - - 4 28`
 
-&#9679; Les Noirs viennent de jouer le désespéré **27...Cc6-e7** (les Blancs menaçaient Cc7#). Quel est le moyen le plus rapide d'en finir pour les Blancs ?
+&#9675; Les Noirs viennent de jouer le désespéré **27...Cc6-e7** (les Blancs menaçaient Cc7#). Quel est le moyen le plus rapide d'en finir pour les Blancs ?
 
 > En matant en deux coups ! **28.Txe7+! Dxe7 29.Dxg4#**
