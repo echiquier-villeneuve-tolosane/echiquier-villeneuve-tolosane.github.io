@@ -14,6 +14,7 @@ published: true
 
 
 
+
 ### Démarrage des cours du mercredi ###
 
 A vos agendas ! Les cours du mercredi on débuté ! 
@@ -39,11 +40,20 @@ En résumé, le planning hebdomadaire se résume ainsi :
 -- le samedi, foyer du 3e âge, 10h30-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte.
 
 
-### Le diagramme de la semaine ###
+### Les diagrammes de la semaine ###
 
 **Retrouvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-#### &#9817; **Cesbron - Dorival**, *Coupe de France, 1er tour, éch. 2*
+#### &#9816; **Rich - Grimault**, *Coupe de France, 1er tour, éch. 1*
+
+`3r2k1/p2P1ppp/bp6/8/2Pp4/8/PP2BPPP/5RK1 w - - 0 23`
+
+&#9679; Après l'échange des dames, les Blancs peuvent-ils rester entreprenant ?
+
+> La poussée **23.c5!?** s'avère prometteuse ! Mais après **23... Fxe2** (forcé) **24.c6 Fa6** (encore forcé), les Noirs peuvent jouer **25.Fc8!** et rendre le fou pour essayer de tenir la finale.
+
+
+#### &#9815; **Cesbron - Dorival**, *Coupe de France, 1er tour, éch. 2*
 
 `3q1r2/pp1bppbk/3p1np1/4P1Bp/2rN3P/2N2P2/PPPQ2P1/1K1R3R b - - 0 16`
 
