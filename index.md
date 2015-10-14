@@ -48,7 +48,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 `3r2k1/p2P1ppp/bp6/8/2Pp4/8/PP2BPPP/5RK1 w - - 0 23`
 
-&#9679; Après l'échange des dames, les Blancs peuvent-ils rester entreprenant ?
+&#9675; Après l'échange des dames, les Blancs peuvent-ils rester entreprenant ?
 
 > La poussée **23.c5!?** s'avère prometteuse ! Mais après **23... Fxe2** (forcé) **24.c6 Fa6** (encore forcé), les Noirs peuvent jouer **25.Fc8!** et rendre le fou pour essayer de tenir la finale.
 
