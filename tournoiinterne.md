@@ -5,9 +5,34 @@ title: Tournoi interne
 published: true
 ---
 
-## Lancement du tournoi interne 2015
 
-Le **tournoi interne 2015** de l'EVT sera un Open en système suisse en 7 rondes. La cadence est 1h30+30sec/coup (40) suivi de 15min+30sec/coup. Premier départage : Sonneborn-Berger, second départage : performance ELO. A l'arbitrage : Daniel Poussy et Olivier Dorival.
+## Tournoi interne 2015/2016
+
+Le tournoi interne 2015/2016 de l’EVT sera un Open au système suisse en 6 rondes.
+
+La cadence est 1h30+30sec/coup(40c) suivi de 15min+30sec/coup.
+
+Premier départage : cumul, second départage : performance ELO.
+
+À l’arbitrage : Daniel Poussy et Olivier Dorival.
+
+Les dates des joutes sont les suivantes :
+
+- ronde 1: **20/11/2015** à 21h15 (ATTENTION : Clôture des inscriptions à 21h00!! )
+- ronde 2: **18/12/2015** à 21h00,
+- ronde 3: **08/01/2016** à 21h00,
+- ronde 4: **05/02/2016** à 21h00,
+- ronde 5: **25/03/2016** à 21h00,
+- ronde 6: **08/04/2016** à 21h00,
+- date de secours pour intempéries éventuelles en janvier ou février:4/03/2015.
+
+Prix : la gloire et le plaisir de jouer entre amis !! :-)
+
+Possibilité de **préinscription** à l'[adresse suivante](mailto:echecsvilleneuve@gmail.com).
+
+## Tournoi interne 2014/2015
+
+Le **tournoi interne 2014/2015** de l'EVT sera un Open en système suisse en 7 rondes. La cadence est 1h30+30sec/coup (40) suivi de 15min+30sec/coup. Premier départage : Sonneborn-Berger, second départage : performance ELO. A l'arbitrage : Daniel Poussy et Olivier Dorival.
 
 Les dates des joutes sont les suivantes :
 
@@ -22,9 +47,9 @@ Les dates des joutes sont les suivantes :
 
 Possibilité de **préinscription** à l'[adresse suivante](mailto:echecsvilleneuve@gmail.com).
 
-## Retour sur le tournoi 2014
+## Retour sur le tournoi 2013/2014
 
-Le **tournoi interne 2014** de l'EVT est organisé en Open toutes rondes avec pas moins de 10 joueurs (9 rondes), à la cadence 1h30 + 30s/c. Il est homologué FFE et FIDE.
+Le **tournoi interne 2013/2014** de l'EVT est organisé en Open toutes rondes avec pas moins de 10 joueurs (9 rondes), à la cadence 1h30 + 30s/c. Il est homologué FFE et FIDE.
 
 Le tournoi a été la scène d'affrontements sans concession. Pas de "nulle de salon" ici ! Au fil des rondes, les passes d'armes se sont succédées sans fin, avec seulement 4 parties nulles et 3 forfaits sur l'ensemble des 50 parties. Chacun a mobilisé le maximum de ses troupes, préparé ses combinaisons secrètes, tendu des pièges sournois pour parvenir a ses fins. Mais **toujours dans la bonne humeur habituelle du club !**
 
