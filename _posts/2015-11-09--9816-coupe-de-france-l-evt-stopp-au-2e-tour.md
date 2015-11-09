@@ -2,7 +2,7 @@
 published: true
 layout: default
 root: ../../..
-title: "&#9816; Coupe de France : l'EVT stoppé au 2e tour"
+title: "&#9812; Coupe de France : l'EVT stoppé au 2e tour"
 ---
 
 
