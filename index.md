@@ -45,10 +45,10 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 **Retrouvez tous les diagrammes (et leurs solutions) issues des parties de l'EVT dans la rubrique [Exercices](http://echiquier-villeneuve-tolosane.github.io/exercices.html "Exercices").**
 
-#### &#9816; **Dorival - Mekel**, *Coupe de France, 2e tour, éch. 3*
+#### &#9815; **Dorival - Mekel**, *Coupe de France, 2e tour, éch. 3*
 
 `r2q4/1pp3k1/3p2p1/p1nPp2n/2P1PrbP/2N1Q3/PP5R/1K2RBN1 b - - 6 21`
 
-&#9675; Le dernier coup blanc, **21. Dd2-e3**, visait à défendre à la fois contre Cg3 et Tf3. Pourtant les Noirs ont montré que c'était une erreur.
+&#9679; Le dernier coup blanc, **21. Dd2-e3**, visait à défendre à la fois contre Cg3 et Tf3. Pourtant les Noirs ont montré que c'était une erreur.
 
 > Le coup d'assomoir est **21...Cxe4!** car si les Blancs reprennent **22.Cxe4? Txe4! 23. Dxe3??**, les Noirs alignent le mortel **23... Ff5!**.
