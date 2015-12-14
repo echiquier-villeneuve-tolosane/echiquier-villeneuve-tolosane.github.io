@@ -25,4 +25,4 @@ Restent alors John, engagé dans une partie très compliquée, et Jean-Paul. Ce 
 
 A moins que ce ne soit celle de John. Opposé à Muratet, avec les Noirs, John avait fort à faire. Dans un milieu de jeu compliqué, il lâche une pièce pour 3 pions, et des chances sur le roi. La suite est longue et peu claire (pour moi). Muratet joue son 40 coup avec 30 secondes uniquement à la pendule. Muratet parvient en finale : Dame et fou contre dame et beaucoup de pions. Ca semblait difficile de tenir, et effectivement John s'incline quelques coups plus tard. Mais un bien belle partie également.
 
-Résultat final 3-1 pour l'échiquier toulousain, qui passe un tour supplémentaire vers la conservation de son titre.
+Résultat final 3-1 pour l'échiquier toulousain, qui passe un tour supplémentaire vers la conservation de son titre. Et fin de l'aventure en Coupe MPY pour l'EVT ... jusqu'à l'an prochain.
