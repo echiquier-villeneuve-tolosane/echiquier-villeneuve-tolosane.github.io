@@ -8,22 +8,6 @@ published: true
 
 
 
-
-
-
-
-
-
-
-
-### Démarrage des cours du mercredi ###
-
-A vos agendas ! Les cours du mercredi on débuté ! 
-
--- Séances **Enfants 1e niveau** : 14h-16h les mercredis 23/09, 7/10, à l'espace Marcel Pagnol.
-
--- Séances **Enfants 2e niveau** : 18h30-20h30 les mercredis 16/09, 30/09, 14/10 dans la salle de la Tour du Fort.
-
 ### Bienvenu(e) de l'EVT !###
 
 L'EVT est un club très convivial qui se réunit traitionnellement tous les **vendredis soirs à partir de 20h45** ... jusqu'à épuisement des joueurs ! Les soirées sont habituellement animées par le jeu libre, les **cours d'Olivier Touzane (Maître International)**, le **Tournoi Interne Open**, les commentaires sur les compétitions et parties récentes ou les tournois de Blitz improvisés.
