@@ -1,3 +1,10 @@
+---
+published: true
+layout: default
+root: ../../..
+title: "&#9818; L'EVT à La Coupe Loubatière"
+---
+
 
 
 
@@ -10,5 +17,3 @@ Résultat des courses
 Première ronde : 2-2 (victoire de Jean-Christophe et Stéphane, défaite Laurent et Eric)
 Deuxième ronde : 0-3 (dur, dur après le repas…  défaite Jean-Christophe, Daniel et Stéphane… Heureusement que Laurent sauve une nulle)
 Troisième ronde : 3-1 On s’est bien rattrapé sur la fin avec 3 victoires : Laurent, Daniel et Stéphane
-
-
