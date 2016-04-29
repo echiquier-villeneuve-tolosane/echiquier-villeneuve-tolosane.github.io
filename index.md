@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ### Bienvenu(e) de l'EVT !###
 
 L'EVT est un club très convivial qui se réunit traitionnellement tous les **vendredis soirs à partir de 20h45** ... jusqu'à épuisement des joueurs ! Les soirées sont habituellement animées par le jeu libre, les **cours d'Olivier Touzane (Maître International)**, le **Tournoi Interne Open**, les commentaires sur les compétitions et parties récentes ou les tournois de Blitz improvisés.
@@ -24,4 +25,3 @@ En résumé, le planning hebdomadaire se résume ainsi :
 -- le vendredi, foyer du 3e âge, 20h30-1h+? : jeu libre, tournoi interne, cours adulte, analyse, etc ;
 
 -- le samedi, foyer du 3e âge, 10h30-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte.
-
