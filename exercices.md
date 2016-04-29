@@ -14,6 +14,23 @@ La pièce noire au-dessus de l'échiquier indique la difficulté du diagramme pr
 
 ## Saison 2015-2016
 
+#### &#9815; **Dorival - Mekel**, *Coupe de France, 2e tour, éch. 3*
+
+`r1bq1rk1/1ppn1pbp/3p1npB/p2Pp3/2P1P3/2N2P2/PP1Q2PP/R3KBNR b KQ - 3 9`
+
+&#9679; Les Blancs viennent de proposer l'échange des fous : **9Fh6**. Et une erreur, une, que les Noirs n'ont pas vu dans la partie. 
+
+> Le surprenant **9...Cxe4!** permet d'encaisser un pion ! Car après **10.fxe4** les Noirs intercalent **10...Dh4+!** et regagnent une pièce en h6.
+
+
+#### &#9815; **Dorival - Mekel**, *Coupe de France, 2e tour, éch. 3*
+
+`r2q4/1pp3k1/3p2p1/p1nPp2n/2P1PrbP/2N1Q3/PP5R/1K2RBN1 b - - 6 21`
+
+&#9679; Décidément les Blancs n'y sont pas ... Leur dernier coup, **21. Dd2-e3**, visait à défendre à la fois contre Cg3 et Tf3. Pourtant les Noirs ont montré que c'était une erreur.
+
+> Le coup d'assomoir est **21...Cxe4!** car si les Blancs reprennent **22.Cxe4? Txe4! 23. Dxe3??**, les Noirs alignent le mortel **23... Ff5!**.
+
 #### &#9816; **Rich - Grimault**, *Coupe de France, 1er tour, éch. 1*
 
 `3r2k1/p2P1ppp/bp6/8/2Pp4/8/PP2BPPP/5RK1 w - - 0 23`
