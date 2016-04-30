@@ -7,7 +7,7 @@ published: true
 
 ### Le tournoi du 8 mai approche !###
 
-<img src="/documents/affiche_du_tournoi_roger_pelat_2016.pdf" style="width: 20%;"/>
+<img src="/documents/affiche_du_tournoi_roger_pelat_2016.jpg" style="width: 20%;"/>
 
 L'affiche du tournoi Roger Pelat 2015-2016.
 
