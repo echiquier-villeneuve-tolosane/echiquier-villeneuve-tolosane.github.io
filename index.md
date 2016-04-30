@@ -7,9 +7,18 @@ published: true
 
 ### Le tournoi du 8 mai approche !###
 
+Tournois homologués FFE.
+
+Tournoi principal : inscription de 8h30 à 9h, 1e ronde à 9h15, 7 rondes de 15 min + 3 sec/c.
+
+Tournoi enfant : inscription à partir de 13h30, 1e ronde à 14h.
+
+Préinscription avant le 7 mai à [mailto:echecsvilleneuve@gmail.com](mailto:echecsvilleneuve@gmail.com "Me préinscrire") (remise 1 euro).
+
+Tous les détails sur l'affiche du tournoi 2015-2016.
+
 <img src="/documents/affiche_du_tournoi_roger_pelat_2016.jpg" style="width: 50%;"/>
 
-L'affiche du tournoi Roger Pelat 2015-2016.
 
 [Détail des récompenses](/documents/prix_du_tournoi_roger_pelat_2016.png).
 
