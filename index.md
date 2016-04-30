@@ -7,10 +7,10 @@ published: true
 
 ### Le tournoi du 8 mai approche !###
 
-[Tous les détails](/documents/affiche_du_tournoi_roger_pelat_2016.pdf).
+<img src="/documents/affiche_du_tournoi_roger_pelat_2016.pdf" style="width: 20%;"/>
+L'affiche du tournoi Roger Pelat 2015-2016.
 
-Les prix:
-<img src="/documents/prix_du_tournoi_roger_pelat_2016.png" style="width: 50%;"/>
+[Détail des récompenses](/documents/prix_du_tournoi_roger_pelat_2016.png).
 
 ### Bienvenu(e) de l'EVT !###
 
