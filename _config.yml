@@ -1,6 +1,6 @@
 name: Echiquier Villeneuve-Tolosane
 markdown: kramdown
-pygments: true
+highlighter: rouge
 prose:
   media: "photos"
   siteurl: "http://echiquier-villeneuve-tolosane.github.io"
