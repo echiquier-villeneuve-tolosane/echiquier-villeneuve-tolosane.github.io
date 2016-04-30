@@ -10,9 +10,7 @@ published: true
 [Tous les détails](/documents/affiche_du_tournoi_roger_pelat_2016.pdf).
 
 Les prix:
-<img src="/documents/prix_du_tournoi_roger_pelat_2016.png" />
-
-
+<img src="/documents/prix_du_tournoi_roger_pelat_2016.png" style="width: 50%;"/>
 
 ### Bienvenu(e) de l'EVT !###
 
