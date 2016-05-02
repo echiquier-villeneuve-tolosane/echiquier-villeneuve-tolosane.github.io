@@ -2,7 +2,7 @@
 published: true
 layout: default
 root: ../../..
-title: "&#9815; Les joueurs de l'EVT brillent à Tarbes ..."
+title: "&#9813; Les joueurs de l'EVT brillent à Tarbes ..."
 ---
 Lors du 24e Open International de Tarbes, John et Laurent ont vaillamment livré bataille au cours des 7 rondes réparties sur 3 jours.
 
