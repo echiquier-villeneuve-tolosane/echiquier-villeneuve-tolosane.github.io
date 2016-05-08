@@ -11,8 +11,7 @@ title: Tournoi Roger Pelat
 
 ####Les récompensés####
 
-<img src="/photos/DSC09798.JPG" style="width: 490%;"/>
-<img src="/photos/DSC09804.JPG" style="width: 49%;"/>
+<img src="/photos/DSC09798.JPG" style="width: 49%;"/><img src="/photos/DSC09804.JPG" style="width: 49%;"/>
 
 ####Quelques photos du tournoi enfant####
 
