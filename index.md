@@ -7,11 +7,11 @@ published: true
 
 ### Tournoi Roger Pelat 2016 : merci à tous !###
 
-<img src="/documents/affiche_du_tournoi_roger_pelat_2016.jpg" style="width: 10%;"/>
+<img src="/documents/affiche_du_tournoi_roger_pelat_2016.jpg" style="width: 20%;"/>
 
 **Les récompensés**
 
-<img src="/photos/DSC09798.JPG" style="width: 30%;"/>
+<img src="/photos/DSC09798.JPG" style="width: 80%;"/>
 
 
 ### Bienvenu(e) de l'EVT !###
