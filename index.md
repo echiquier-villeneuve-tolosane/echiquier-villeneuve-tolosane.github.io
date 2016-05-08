@@ -7,7 +7,7 @@ published: true
 
 ### Tournoi Roger Pelat 2016 : merci à tous !###
 
-<img src="/documents/affiche_du_tournoi_roger_pelat_2016.jpg" style="width: 30%;"/>
+<img src="/documents/affiche_du_tournoi_roger_pelat_2016.jpg" style="width: 40%;"/>
 
 
 
