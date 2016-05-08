@@ -13,6 +13,8 @@ published: true
 
 <img src="/photos/DSC09798.JPG" style="width: 80%;"/>
 
+Les autres photos sont sur la page du [tournoi Roger Pelat](http://echiquier-villeneuve-tolosane.github.io/tournoi-roger-pelat.html).
+
 
 ### Bienvenu(e) de l'EVT !###
 
