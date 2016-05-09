@@ -5,7 +5,7 @@ root: .
 title: Tournoi Roger Pelat
 ---
 
-### 2016 : victoire de Philippe Brochet devant Olivier Touzane ! ###
+### 2016 : victoire de Philippe Brochet devant Olivier Touzane et Jean-Michel Daloz ! ###
 
 <img src="/documents/affiche_du_tournoi_roger_pelat_2016.jpg" style="width: 20%;"/>
 
