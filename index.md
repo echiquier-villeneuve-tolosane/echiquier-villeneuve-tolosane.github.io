@@ -144,7 +144,7 @@ published: true
 
 La grille du Tournoi Principal complète, ainsi que celle du Tournoi Enfants, sont sur la page du [tournoi Roger Pelat](http://echiquier-villeneuve-tolosane.github.io/tournoi-roger-pelat.html).
 
-** La photo des primés **
+**La photo des primés**
 
 <img src="/photos/DSC09798.JPG" style="width: 80%;"/>
 
