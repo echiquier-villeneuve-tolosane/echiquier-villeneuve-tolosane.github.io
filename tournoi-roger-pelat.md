@@ -9,10 +9,6 @@ title: Tournoi Roger Pelat
 
 <img src="/documents/affiche_du_tournoi_roger_pelat_2016.jpg" style="width: 20%;"/>
 
-#### Les récompensés ####
-
-<img src="/photos/DSC09798.JPG" style="width: 49%;"/><img src="/photos/DSC09804.JPG" style="width: 49%;"/>
-
 #### Grille américaine du Tournoi Principal ####
 
 <body topmargin="4" leftmargin="4">
@@ -1087,7 +1083,163 @@ title: Tournoi Roger Pelat
 
 #### Grille américaine du Tournoi Enfants ####
 
+<body topmargin="4" leftmargin="4">
+<div align="center">
+<table style="border-collapse:collapse;" width="750" cellpadding="2" cellspacing="0">
+ <tbody><tr class="papi_titre">
+  <td colspan="16" align="center">EVT JEUNES 2 <br>Grille américaine après la ronde 5</td>
+ </tr>
+ <tr class="papi_small_t">
+  <td class="papi_r">Pl</td>
+  <td class="papi_r">&nbsp;</td>
+  <td class="papi_l">Nom</td>
+  <td class="papi_c">Rapide</td>
+  <td class="papi_c">Cat.</td>
+  <td class="papi_c">Fede</td>
+  <td class="papi_c">Ligue</td>
+  <td class="papi_r">R 1</td>
+  <td class="papi_r">R 2</td>
+  <td class="papi_r">R 3</td>
+  <td class="papi_r">R 4</td>
+  <td class="papi_r">R 5</td>
+  <td class="papi_r">Pts</td>
+  <td class="papi_r">Tr.</td>
+  <td class="papi_r">Perf</td>
+  <td class="papi_c">&nbsp;</td>
+ </tr>
+ <tr class="papi_small_f">
+  <td class="papi_r">1</td>
+  <td class="papi_r">&nbsp;</td>
+  <td class="papi_l"><b>DESTIC Elena</b></td>
+  <td class="papi_r">1730&nbsp;R</td>
+  <td class="papi_c">BenF</td>
+  <td class="papi_c">FRA</td>
+  <td class="papi_c">MPY</td>
+  <td class="papi_r">+&nbsp;&nbsp;7N</td>
+  <td class="papi_r">+&nbsp;&nbsp;4B</td>
+  <td class="papi_r">+&nbsp;&nbsp;2N</td>
+  <td class="papi_r">+&nbsp;&nbsp;3B</td>
+  <td class="papi_r">+&nbsp;&nbsp;6B</td>
+  <td class="papi_r"><b>5</b></td>
+  <td class="papi_r">10</td>
+  <td class="papi_r">2015</td>
+  <td class="papi_c">2015</td>
+ </tr>
+ <tr class="papi_small_c">
+  <td class="papi_r">2</td>
+  <td class="papi_r">&nbsp;</td>
+  <td class="papi_l"><b>DOUCHEZ Tony</b></td>
+  <td class="papi_r">1370&nbsp;R</td>
+  <td class="papi_c">PupM</td>
+  <td class="papi_c">FRA</td>
+  <td class="papi_c">MPY</td>
+  <td class="papi_r">+&nbsp;&nbsp;6N</td>
+  <td class="papi_r">+&nbsp;&nbsp;5B</td>
+  <td class="papi_r">-&nbsp;&nbsp;1B</td>
+  <td class="papi_r">+&nbsp;&nbsp;7N</td>
+  <td class="papi_r">EXE</td>
+  <td class="papi_r"><b>4</b></td>
+  <td class="papi_r">10½</td>
+  <td class="papi_r">1406</td>
+  <td class="papi_c">1406</td>
+ </tr>
+ <tr class="papi_small_f">
+  <td class="papi_r">3</td>
+  <td class="papi_r">&nbsp;</td>
+  <td class="papi_l"><b>PAQUET Louis</b></td>
+  <td class="papi_r">1310&nbsp;R</td>
+  <td class="papi_c">PupM</td>
+  <td class="papi_c">FRA</td>
+  <td class="papi_c">MPY</td>
+  <td class="papi_r">=&nbsp;&nbsp;5N</td>
+  <td class="papi_r">+&nbsp;&nbsp;6B</td>
+  <td class="papi_r">+&nbsp;&nbsp;4N</td>
+  <td class="papi_r">-&nbsp;&nbsp;1N</td>
+  <td class="papi_r">+&nbsp;&nbsp;7B</td>
+  <td class="papi_r"><b>3½</b></td>
+  <td class="papi_r">10</td>
+  <td class="papi_r">1344</td>
+  <td class="papi_c">1344</td>
+ </tr>
+ <tr class="papi_small_c">
+  <td class="papi_r">4</td>
+  <td class="papi_r">&nbsp;</td>
+  <td class="papi_l"><b>GRIMAULT Leane</b></td>
+  <td class="papi_r">1260&nbsp;R</td>
+  <td class="papi_c">PouF</td>
+  <td class="papi_c">FRA</td>
+  <td class="papi_c">MPY</td>
+  <td class="papi_r">EXE</td>
+  <td class="papi_r">-&nbsp;&nbsp;1N</td>
+  <td class="papi_r">-&nbsp;&nbsp;3B</td>
+  <td class="papi_r">+&nbsp;&nbsp;6N</td>
+  <td class="papi_r">+&nbsp;&nbsp;5B</td>
+  <td class="papi_r"><b>3</b></td>
+  <td class="papi_r">12½</td>
+  <td class="papi_r">1253</td>
+  <td class="papi_c">1253</td>
+ </tr>
+ <tr class="papi_small_f">
+  <td class="papi_r">5</td>
+  <td class="papi_r">&nbsp;</td>
+  <td class="papi_l"><b>GARDES Gabriel</b></td>
+  <td class="papi_r">999&nbsp;E</td>
+  <td class="papi_c">PupM</td>
+  <td class="papi_c">FRA</td>
+  <td class="papi_c">MPY</td>
+  <td class="papi_r">=&nbsp;&nbsp;3B</td>
+  <td class="papi_r">-&nbsp;&nbsp;2N</td>
+  <td class="papi_r">+&nbsp;&nbsp;7B</td>
+  <td class="papi_r">EXE</td>
+  <td class="papi_r">-&nbsp;&nbsp;4N</td>
+  <td class="papi_r"><b>2½</b></td>
+  <td class="papi_r">11½</td>
+  <td class="papi_r">1090</td>
+  <td class="papi_c">1090</td>
+ </tr>
+ <tr class="papi_small_c">
+  <td class="papi_r">6</td>
+  <td class="papi_r">&nbsp;</td>
+  <td class="papi_l"><b>ROBIN Jules</b></td>
+  <td class="papi_r">799&nbsp;E</td>
+  <td class="papi_c">PouM</td>
+  <td class="papi_c">FRA</td>
+  <td class="papi_c">MPY</td>
+  <td class="papi_r">-&nbsp;&nbsp;2B</td>
+  <td class="papi_r">-&nbsp;&nbsp;3N</td>
+  <td class="papi_r">EXE</td>
+  <td class="papi_r">-&nbsp;&nbsp;4B</td>
+  <td class="papi_r">-&nbsp;&nbsp;1N</td>
+  <td class="papi_r"><b>1</b></td>
+  <td class="papi_r">14½</td>
+  <td class="papi_r">-161</td>
+  <td class="papi_c">-161</td>
+ </tr>
+ <tr class="papi_small_f">
+  <td class="papi_r">7</td>
+  <td class="papi_r">&nbsp;</td>
+  <td class="papi_l"><b>ROBIN Lucien</b></td>
+  <td class="papi_r">799&nbsp;E</td>
+  <td class="papi_c">PpoM</td>
+  <td class="papi_c">FRA</td>
+  <td class="papi_c">MPY</td>
+  <td class="papi_r">-&nbsp;&nbsp;1B</td>
+  <td class="papi_r">EXE</td>
+  <td class="papi_r">-&nbsp;&nbsp;5N</td>
+  <td class="papi_r">-&nbsp;&nbsp;2B</td>
+  <td class="papi_r">-&nbsp;&nbsp;3N</td>
+  <td class="papi_r"><b>1</b></td>
+  <td class="papi_r">14</td>
+  <td class="papi_r">-161</td>
+  <td class="papi_c">-161</td>
+ </tr>
+</tbody></table>
+</div>
+</body>
 
+#### Photos des primés du Tournoi Principal ####
+
+<img src="/photos/DSC09798.JPG" style="width: 49%;"/><img src="/photos/DSC09804.JPG" style="width: 49%;"/>
 
 #### Quelques photos du tournoi enfant ####
 
