@@ -11,6 +11,18 @@ Salle comble (ou presque) vendredi dernier. Entre les nouveaux qui débutent, le
 
 Quelques informations concernant la rentrée :
 
+-- animation dans le **restaurant Mac Donald's** le mercredi 21 septembre;
+
+-- les **cours** 1er niveau (Laurent, espace Marcel Pagnol) et 2e niveau (Philippe, salle du Fort, 18h30) reprennent le mercredi 21 septembre à raison d'une semaine sur deux;
+
+-- le club a réouvert le **samedi matin** pour le jeu libre ou encadré des enfants ... et des plus grands (foyer du 3e âge, 10h30).
+
+-- un **challenge "Blitz"** va se mettre en place cette saison à la place à la place du tournoi Interne. Il est **ouvert à tous**, même extérieurs du club !
+
+-- le **calendrier** du club est quasiment à jour sur le site, et résume toutes ces actions; vous pouvez l'importer dans votre Google Agenda ou dans ICal.
+
+A bientôt au club.
+
 
 
 ### Bienvenu(e) de l'EVT !###
