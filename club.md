@@ -28,11 +28,3 @@ Le club s'est engagé en **Coupe de France** et en **Coupe Loubatière**.
 Après le succès des séances de l'an dernier, les cours d'**Olivier Touzane** sont reconduits pour l'année à venir. **Olivier Touzane**, **_Maître International_**, partage avec nous ses connaissances et analyse les moments forts de nos parties.
 
 Le calendrier des cours est consultable [ici]({{ page.root }}/calendar.html).
-
-###Le tournoi interne ouvert 2014-2015###
-
-Cette année, le **Tournoi Interne** sera un Open - système suisse en 7 rondes.
-
-Daniel Poussy, assisté d'Olivier Dorival, sera l'infatigable arbitre du tournoi.
-
-Les résultats du cru 2013/2014 sont consultables sur la page du [tournoi interne]({{ page.root }}/tournoiinterne.html).
