@@ -19,13 +19,15 @@ Quelques informations concernant la rentrée :
 
 -- un **challenge "Blitz"** va se mettre en place cette saison à la place à la place du tournoi Interne. Il est **ouvert à tous**, même extérieurs du club !
 
+-- les dates des compétitions (Nationale 4, Régionale 1, Coupe de France, etc) sont sorties;
+
 -- le **calendrier** du club est quasiment à jour sur le site, et résume toutes ces actions; vous pouvez l'importer dans votre Google Agenda ou dans ICal.
 
 A bientôt au club.
 
 
 
-### Bienvenu(e) de l'EVT !###
+### L'EVT en bref ! ###
 
 L'EVT est un club très convivial qui se réunit traitionnellement tous les **vendredis soirs à partir de 20h45** ... jusqu'à épuisement des joueurs ! Les soirées sont habituellement animées par le jeu libre, les **cours d'Olivier Touzane (Maître International)**, le **Tournoi Interne Open**, les commentaires sur les compétitions et parties récentes ou les tournois de Blitz improvisés.
 
