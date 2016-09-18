@@ -11,7 +11,7 @@ Salle comble (ou presque) vendredi dernier. Entre les nouveaux qui débutent, le
 
 Quelques informations concernant la rentrée :
 
--- animation dans le **restaurant Mac Donald's** le mercredi 21 septembre;
+-- animation dans les **restaurants Mac Donald's** les mercredis 21 septembre (Roques/Garonne) et le 28 septembre (Cugnaux);
 
 -- les **cours** 1er niveau (Laurent, espace Marcel Pagnol) et 2e niveau (Philippe, salle du Fort, 18h30) reprennent le mercredi 21 septembre à raison d'une semaine sur deux;
 
@@ -37,7 +37,7 @@ En résumé, le planning hebdomadaire se résume ainsi :
 
 -- le mercredi, espace Marcel Pagnol, 14h-16h : cours enfants 1er niveau ;
 
--- le mercredi, salle de la tour du Fort, 18h30-20h30 : cours enfants 2e niveau ;
+-- le mercredi, salle de la tour du Fort, 18h30-20h00 : cours enfants 2e niveau ;
 
 -- le vendredi, foyer du 3e âge, 20h30-1h+? : jeu libre, tournoi interne, cours adulte, analyse, etc ;
 
