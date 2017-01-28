@@ -9,7 +9,7 @@ published: true
 
 La rentrée de janvier a été ponctuée par la 3e soirée du tournoi interne de Blitz ... Les parties se sont succédées sur un rythme d'enfer ... tout en laissant la place à quelques parts de galettes et autres verres de cidres.
 
-![]({{site.baseurl}}/../photos/2017_Blitz1.JPG)
+![](/../photos/2017_Blitz1.JPG)
 
 ### L'EVT fait le plein pour la rentrée ! ###
 
