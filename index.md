@@ -5,15 +5,6 @@ title: Accueil
 published: true
 ---
 
-### Blitz enfants avec Laurent ###
-
-Laurent a récemment participé à la formation d'animateur (DAFFE) en vue d'entrainer nos jeunes espoirs. Application avec un tournoi de Blitz très disputé !
-
-![](photos/2017_blitz_efts1.JPG)
-![](photos/2017_blitz_efts2.JPG)
-![](photos/2017_blitz_efts3.JPG)
-![](photos/2017_blitz_efts4.JPG)
-
 
 ### Soirée des Rois : Galettes et Blitz ! ###
 
@@ -21,6 +12,18 @@ La rentrée de janvier a été ponctuée par la 3e soirée du tournoi interne de
 
 ![](photos/2017_Blitz1.JPG)
 
+### Cours enfants avec Laurent ###
+
+Les cours enfants tournent à plein régime, avec un coatching réussi de Laurent !
+
+![](photos/2017_cours_Laurent1.JPG)![](photos/2017_cours_Laurent2.JPG)
+
+### Blitz enfants avec Laurent ###
+
+Laurent a récemment participé à la formation d'animateur (DAFFE) en vue d'entrainer nos jeunes espoirs. Application avec un tournoi de Blitz très disputé !
+
+![](photos/2017_blitz_efts1.JPG)![](photos/2017_blitz_efts2.JPG)
+![](photos/2017_blitz_efts3.JPG)![](photos/2017_blitz_efts4.JPG)
 
 ### L'EVT en bref ###
 
