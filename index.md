@@ -5,18 +5,17 @@ title: Accueil
 published: true
 ---
 
+### Cours enfants avec Laurent ###
+
+Les cours enfants tournent à plein régime, avec un coatching réussi de Laurent !
+
+![](photos/2017_cours_Laurent1.JPG)![](photos/2017_cours_Laurent2.JPG)
 
 ### Soirée des Rois : Galettes et Blitz ! ###
 
 La rentrée de janvier a été ponctuée par la 3e soirée du tournoi interne de Blitz ... Les parties se sont succédées sur un rythme d'enfer ... tout en laissant la place à quelques parts de galettes et autres verres de cidres.
 
 ![](photos/2017_Blitz1.JPG)
-
-### Cours enfants avec Laurent ###
-
-Les cours enfants tournent à plein régime, avec un coatching réussi de Laurent !
-
-![](photos/2017_cours_Laurent1.JPG)![](photos/2017_cours_Laurent2.JPG)
 
 ### Blitz enfants avec Laurent ###
 
