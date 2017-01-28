@@ -16,7 +16,7 @@ La rentrée de janvier a été ponctuée par la 3e soirée du tournoi interne de
 
 Les cours enfants tournent à plein régime, avec un coatching réussi de Laurent !
 
-![](photos/2017_cours_Laurent1.JPG)(photos/2017_cours_Laurent2.JPG)
+![](photos/2017_cours_Laurent1.JPG)![](photos/2017_cours_Laurent2.JPG)
 
 ### Blitz enfants avec Laurent ###
 
