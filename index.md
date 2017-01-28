@@ -5,29 +5,18 @@ title: Accueil
 published: true
 ---
 
+### Soirée des Rois : Galettes et Blitz ! ###
+
+La rentrée de janvier a été ponctuée par la 3e soirée du tournoi interne de Blitz ... Les parties se sont succédées sur un rythme d'enfer ... tout en laissant la place à quelques parts de galettes et autres verres de cidres.
+
+
+
 ### L'EVT fait le plein pour la rentrée ! ###
 
-Salle comble (ou presque) vendredi dernier. Entre les nouveaux qui débutent, les anciens qui s'y remettent, et les habitués qui n'ont pas fermé de tout l'été, l'ambiance était chaleureuse vendredi soir !
-
-Quelques informations concernant la rentrée :
-
--- animation dans les **restaurants Mac Donald's** les mercredis 21 septembre (Roques/Garonne) et le 28 septembre (Cugnaux);
-
--- les **cours** 1er niveau (Laurent, espace Marcel Pagnol) et 2e niveau (Philippe, salle du Fort, 18h30) reprennent le mercredi 21 septembre à raison d'une semaine sur deux;
-
--- le club a réouvert le **samedi matin** pour le jeu libre ou encadré des enfants ... et des plus grands (foyer du 3e âge, 10h30).
-
--- un **challenge "Blitz"** va se mettre en place cette saison à la place à la place du tournoi Interne. Il est **ouvert à tous**, même extérieurs du club !
-
--- les dates des compétitions (Nationale 4, Régionale 1, Coupe de France, etc) sont sorties;
-
--- le **calendrier** du club est quasiment à jour sur le site, et résume toutes ces actions; vous pouvez l'importer dans votre Google Agenda ou dans ICal.
-
-A bientôt au club.
 
 
 
-### L'EVT en bref ! ###
+### L'EVT en bref ###
 
 L'EVT est un club très convivial qui se réunit traitionnellement tous les **vendredis soirs à partir de 20h45** ... jusqu'à épuisement des joueurs ! Les soirées sont habituellement animées par le jeu libre, les **cours d'Olivier Touzane (Maître International)**, le **Tournoi Interne Open**, les commentaires sur les compétitions et parties récentes ou les tournois de Blitz improvisés.
 
