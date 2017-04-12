@@ -268,7 +268,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 1200px;
+  max-width: 1000px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -414,7 +414,7 @@ Small Device Styles
 
 #news {
   float: right;
-  width: 40%;
+  width: 512px;
   background-color: #fff;
   padding: 0 1em;
 }
