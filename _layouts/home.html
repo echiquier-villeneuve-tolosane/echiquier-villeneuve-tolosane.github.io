@@ -32,14 +32,6 @@
         <aside id="news">
           <h3>Les dernières actualités</h3>
           <ul id="post-list">
-            {% for post in site.posts limit:1 %}
-              <li>
-                <a href="{{ page.root }}{{ post.url }}">{{ post.title }}</a> - <span class="date">{{ post.date | date: "%d/%m/%Y" }}</span>
-                {% if forloop.index == 1 %}
-                  {{ post.content | strip_html | truncatewords:20}} <a href="{{ post.url }}">Lire la suite...</a>
-                {% endif %}
-              </li>
-            {% endfor %}
             <li>
               <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1314353008650699%26id%3D1314106495342017&width=500&show_text=true&height=174&appId" width="500" height="174" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
             </li>
