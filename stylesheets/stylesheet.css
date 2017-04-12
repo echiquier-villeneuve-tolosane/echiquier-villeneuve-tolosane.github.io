@@ -415,6 +415,7 @@ Small Device Styles
 #news {
   float: right;
   width: 350px;
+  height: 1000px;
   background-color: #fff;
   padding: 0 1em;
 }
