@@ -32,7 +32,7 @@
         <aside id="news">
           <h3>Les dernières actualités</h3>
           <ul id="post-list">
-            {% for post in site.posts limit:4 %}
+            {% for post in site.posts limit:1 %}
               <li>
                 <a href="{{ page.root }}{{ post.url }}">{{ post.title }}</a> - <span class="date">{{ post.date | date: "%d/%m/%Y" }}</span>
                 {% if forloop.index == 1 %}
