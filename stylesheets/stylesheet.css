@@ -415,7 +415,7 @@ Small Device Styles
 #news {
   float: right;
   width: 40%;
-  background-color: white;
+  background-color: #fff;
   padding: 0 1em;
 }
 #main_content p img {
