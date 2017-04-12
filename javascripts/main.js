@@ -9,7 +9,7 @@ $(document).ready(function() {
         });
         board.position(fen, true);
     });
-    $('blockquote').each(function(i, el) {
+    $('blockquote2').each(function(i, el) {
         var link = $('<a href="#">Solution</a>');
         link.click(function() {
             $(el).toggle();
