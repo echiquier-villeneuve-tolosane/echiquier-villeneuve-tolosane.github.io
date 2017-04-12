@@ -7,7 +7,7 @@ published: true
 
 ### L'affiche du Tournoi Roger Pelat 2017 dévoilée ! ###
 
-![](images/Tournoi_Roger_Pelat_2017_800x600.jpg)
+![](images/Tournoi_Roger_Pelat_2017_600x400.jpg)
 
 Les pré-inscriptions pour le tournoi sont ouvertes.
 
