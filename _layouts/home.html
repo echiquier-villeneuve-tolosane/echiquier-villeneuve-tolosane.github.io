@@ -14,18 +14,7 @@
   </head>
 
   <body>
-    
-    <div id="fb-root"></div>
-    <script>(function(d, s, id)
-             {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/fr_FR/sdk.js#xfbml=1&version=v2.8";
-        fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
-    
+        
     {% include header.html %}
 
     <!-- MAIN CONTENT -->
@@ -47,8 +36,7 @@
         {{ content }}
       </section>
     </div>
-    <div class="fb-post" data-href="https://www.facebook.com/events/147954275736282/" data-show-text="true"></div>
-
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fevents%2F147954275736282%2F&width=500" width="500" height="496" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
     {% include footer.html %}
 
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
