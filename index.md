@@ -5,11 +5,13 @@ title: Accueil
 published: true
 ---
 
-### L'affiche du Tournoi Roger Pelat 2017 dévoilée ! ###
+### Le Tournoi Roger Pelat 2017 approche ###
+
+La liste des prix est maintenant fixée : [Prix 2017](documents/Prix_2017.pdf).
 
 ![](images/Tournoi_Roger_Pelat_2017_600x400.jpg)
 
-Les pré-inscriptions pour le tournoi sont ouvertes.
+Les pré-inscriptions pour le tournoi sont ouvertes à l'adresse suivante : echecs-villeneuve@gmail.com
 
 ### L'EVT en bref ###
 
