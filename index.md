@@ -11,7 +11,7 @@ La **liste des prix** est maintenant fixée : [Prix 2017](documents/Prix_2017.pd
 
 ![](images/Tournoi_Roger_Pelat_2017_600x400.jpg)
 
-Les **pré-inscriptions** pour le tournoi sont ouvertes à l'adresse suivante : [mailto:echecs-villeneuve@gmail.com]()
+Les **pré-inscriptions** pour le tournoi sont ouvertes à l'adresse suivante : [echecs-villeneuve@gmail.com]()
 
 ### L'EVT en bref ###
 
