@@ -5,6 +5,10 @@ title: Accueil
 published: true
 ---
 
+### La Journée Portes-Ouvertes de Villeneuve-Tolosane le 9 septembre ###
+
+Le club y sera bien entendu présent pour vous faire découvrir le jeu, le club et vous donner toutes les informations nécessaires.
+
 ### Le comité directeur évolue ###
 
 Suite à la dernière Assemblée Générale (juin 2017), le comité directeur a été légèrement modifié. Il est maintenant composé de (par ordre alphabétique) :
