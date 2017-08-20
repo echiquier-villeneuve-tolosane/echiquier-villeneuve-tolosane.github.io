@@ -5,13 +5,31 @@ title: Accueil
 published: true
 ---
 
-### Le Tournoi Roger Pelat 2017 approche ###
+### Le comité directeur évolue ###
 
-La **liste des prix** est maintenant fixée : [Prix 2017](documents/Prix_2017.pdf).
+Suite à la dernière Assemblée Générale (juin 2017), le comité directeur a été légèrement modifié. Il est maintenant composé de (par ordre alphabétique) :
 
-Les **pré-inscriptions** pour le tournoi sont ouvertes à l'adresse suivante : [echecsvilleneuve@gmail.com]()
+-- Olivier Dorival (Président)
 
-![](images/Tournoi_Roger_Pelat_2017_600x400.jpg)
+-- Alexis Favarel
+
+-- Laurent Guérin (Vice-Président)
+
+-- Marie-Emmanuelle Guillaumont
+
+-- Stéphane Lidoine (Trésorier)
+
+-- Daniel Poussy
+
+-- Philippe Rich (Secrétaire)
+
+Le Bureau de l'EVT évolue également, réunissant Président, Vice-Président, Trésorier et Secrétaire.
+
+Nous espérons que ces changements apporteront le maximum au club !
+
+
+
+A bientôt pour la rentrée
 
 ### L'EVT en bref ###
 
