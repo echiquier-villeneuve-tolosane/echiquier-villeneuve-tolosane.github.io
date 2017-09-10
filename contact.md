@@ -17,13 +17,13 @@ Le plus simple est de venir **nous rencontrer directement tous les vendredis soi
     <p>Maison Leyrisse<br/>
         16 rue de la République<br/>
         31270 Villeneuve-Tolosane<br/>
-      Email: <b>echecsvilleneuve@gmail.com</b>
+      Email: echecsvilleneuve@gmail.com
     </p>
 </address>
 
 **Président** : 
 <p>Olivier DORIVAL<br/>
-  Email: <b>olivier.dorival@gmail.com**</b>
+  Email: olivier.dorival@gmail.com
 </p>
 
 **Salle de jeu**
