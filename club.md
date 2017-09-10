@@ -10,10 +10,10 @@ published: true
 
 L'ouverture hebdomadaire du club suit le planning suivant :
 
-- le mercredi, espace Marcel Pagnol, 14h-16h : cours 1er niveau (Laurent) ;
-- le mercredi, salle de la tour du Fort, 18h30-20h00 : cours 2e niveau (Philippe) ;
-- le vendredi, foyer du 3e âge, 20h30-1h+? : jeu libre, tournoi interne, cours adulte, analyse, etc
-- le samedi, foyer du 3e âge, 10h30-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte
+- le mercredi, espace Marcel Pagnol, 14h-16h : **cours 1er niveau** (Laurent) ;
+- le mercredi, salle de la tour du Fort, 18h30-20h00 : **cours 2e niveau** (Philippe) ;
+- le vendredi, foyer du 3e âge, 20h30-1h+? : **jeu libre, tournoi interne, blitz, cours adulte, analyses**, etc
+- le samedi, foyer du 3e âge, 10h30-12h : **jeu libre enfants et adultes** ...
 
 ### Les équipes pour la saison 2017-2018 ###
 
