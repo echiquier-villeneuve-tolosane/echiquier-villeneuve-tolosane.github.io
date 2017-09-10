@@ -24,6 +24,7 @@ Le plus simple est de venir **nous rencontrer directement tous les vendredis soi
 **Président** : 
 <p>Olivier DORIVAL<br/>
   Email: olivier.dorival@gmail.com
+  <a href="mailto:olivier.dorival@gmail.com">olivier.dorival@gmail.com</a>
 </p>
 
 **Salle de jeu**
