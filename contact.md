@@ -7,7 +7,7 @@ published: true
 
 ### Comment nous joindre ###
 
-Le plus simple est de venir nous rencontrer directement tous les vendredis soirs à partir de 20h45 au Foyer du 3e âge (adresse ci-dessous). Le mail est aussi une bonne solution
+Le plus simple est de venir **nous rencontrer directement tous les vendredis soirs à partir de 20h45 au Foyer du 3e âge** (adresse ci-dessous). Le mail est aussi une solution efficace.
 
 
 ### Coordonnées ###
