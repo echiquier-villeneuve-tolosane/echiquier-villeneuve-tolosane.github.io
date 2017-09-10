@@ -9,7 +9,7 @@ published: true
 
 Le **calendrier du club** est en cours de peaufinage, mais un certain nombre de dates sont déjà figées, notamment concernant : 
 
--- reprise des **cours 1er niveau (Laurent) et 2e niveau (Philippe) le 20 septembre**, à raison d'une semaine sur deux ;
+-- la reprise des **cours 1er niveau (Laurent) et 2e niveau (Philippe) le 20 septembre**, à raison d'une semaine sur deux ;
 
 -- les dates de compétitions **Interclub (Nationale 4 et Ligues 1 et 2)** : les 8/10, 19/11, 3/12, 17/12, 14/01, 28/01 et 18/03 ;
 
