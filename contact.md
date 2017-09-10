@@ -22,7 +22,7 @@ Le plus simple est de venir **nous rencontrer directement tous les vendredis soi
 </address>
 
 **Président** : 
-<p>Olivier DORIVAL</br>
+<p>Olivier DORIVAL<br/>
 Email: <olivier.dorival@gmail.com>
 </p>
 
