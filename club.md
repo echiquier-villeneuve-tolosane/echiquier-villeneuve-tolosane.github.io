@@ -15,7 +15,7 @@ L'ouverture hebdomadaire du club suit le planning suivant :
 - le vendredi, foyer du 3e âge, 20h30-1h+? : jeu libre, tournoi interne, cours adulte, analyse, etc
 - le samedi, foyer du 3e âge, 10h30-12h : encadrement enfants 1er et 2e niveau, jeu libre adulte
 
-### Les équipes pour la saison 2016-2017 ###
+### Les équipes pour la saison 2017-2018 ###
 
 Suite au maintien, l'[équipe 1](http://www.echecs.asso.fr/ListeJoueurs.aspx?Action=EQUIPE&Equipe=3907) joue en **Nationale 4** dans le groupe [Occitanie Sud-Ouest](http://www.echecs.asso.fr/Equipes.aspx?Groupe=85 "Nationale 4 / Groupe Occitanie Sud-Ouest").
 
