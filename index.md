@@ -23,7 +23,7 @@ Restent à fixer : les cours avec Olivier Touzane (M.I.), le tournoi interne de 
 
 ### Adhésions 2017 ###
 
-La rentrée est maintenant dernière nous, et les activités vont reprendre leur rythme de croisière. Avant celà, il nous faut finaliser les adhésions au club. Vous pouvez **retirer votre feuille d'adhésion** auprès des membres du Comité Directeur (lors des séances du club par exemple), ou bien la télécharger en [**version pdf**](http://echiquier-villeneuve-tolosane.github.io/documents/Bulletin_adhesion_2017.pdf.pdf "Fiche d'adhésion"). Si vous étiez dans un autre club l'an dernier, n'oubliez pas de [**demander votre transfert**](http://www.echecs.asso.fr/Actu.aspx?Ref=6171 "transfert").
+La rentrée est maintenant dernière nous, et les activités vont reprendre leur rythme de croisière. Avant celà, il nous faut finaliser les adhésions au club. Vous pouvez **retirer votre feuille d'adhésion** auprès des membres du Comité Directeur (lors des séances du club par exemple), ou bien la télécharger en [**version pdf**](http://echiquier-villeneuve-tolosane.github.io/documents/Bulletin_adhesion_2017.pdf "Fiche d'adhésion"). Si vous étiez dans un autre club l'an dernier, n'oubliez pas de [**demander votre transfert**](http://www.echecs.asso.fr/Actu.aspx?Ref=6171 "transfert").
 
 
 ### Compétitions par équipe 2017 ###
