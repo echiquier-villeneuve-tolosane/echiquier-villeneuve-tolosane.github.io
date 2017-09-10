@@ -5,7 +5,7 @@ title: Accueil
 published: true
 ---
 
-### Calendrier de la saison ###
+### Calendrier de la saison 2017-2018 ###
 
 Le **calendrier du club** est en cours de peaufinage, mais un certain nombre de dates sont déjà figées, notamment concernant : 
 
