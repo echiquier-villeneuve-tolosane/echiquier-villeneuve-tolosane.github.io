@@ -5,6 +5,13 @@ title: Tournoi interne
 published: true
 ---
 
+## Tournoi de blitz 2016/2017
+
+Pour la saison 2016/2017, le tournoi interne a été remplacé par un **tournoi de blitz** "à la bonne franquette".
+
+Le grand vainqueur de l'année, malgrè tous ses coups-bas, est Philippe :))
+
+La formule, qui a séduit l'ensemble des joueurs, sera probablement reconduite pour la saison 2017/2018.
 
 ## Tournoi interne 2015/2016
 
