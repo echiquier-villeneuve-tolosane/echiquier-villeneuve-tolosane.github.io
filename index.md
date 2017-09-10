@@ -17,7 +17,7 @@ Le **calendrier du club** est en cours de peaufinage, mais un certain nombre de 
 
 -- les dates du **Circuit Jeunes** (a priori validées) : le 16/12 (Colomiers), le 11/02 (CEIT), le 11/3 (Muret), le 8/4 (Gagnac), **le 8/5 (Villeneuve-Tolosane)** et le 10/6 (Lardennes).
 
-Retrouvez ces dates, ainsi que les autres, sur le [**agenda du club**](http://echiquier-villeneuve-tolosane.github.io/calendar.html "calendrier EVT"), ou bien en version pdf.
+Retrouvez ces dates, ainsi que les autres, sur l'[**agenda du club**](http://echiquier-villeneuve-tolosane.github.io/calendar.html "calendrier EVT"), ou bien en version pdf.
 
 Restent à fixer : les cours avec Olivier Touzane (M.I.), le tournoi interne de blitz.
 
