@@ -21,6 +21,22 @@ Retrouvez ces dates, ainsi que les autres, sur l'[**agenda du club**](http://ech
 
 Restent à fixer : les cours avec Olivier Touzane (M.I.), le tournoi interne de blitz.
 
+### Adhésions 2017 ###
+
+La rentrée est maintenant dernière nous, et les activités vont reprendre leur rythme de croisière. Avant celà, il nous faut finaliser les adhésions au club. Vous pouvez **retirer votre feuille d'adhésion** auprès des membres du Comité Directeur (lors des séances du club par exemple), ou bien la télécharger en [**version pdf**](http://echiquier-villeneuve-tolosane.github.io/documents/Bulletin_adhesion_2017.pdf.pdf "Fiche d'adhésion"). Si vous étiez dans un autre club l'an dernier, n'oubliez pas de [**demander votre transfert**](http://www.echecs.asso.fr/Actu.aspx?Ref=6171 "transfert").
+
+
+### Compétitions par équipe 2017 ###
+
+Le club a déjà engagé une équipe d'interclub en **Nationale 4** et en **Coupe de France/Coupe d'Occitanie**. En fonction des arrivées au club, la question se pose de :
+
+-- constituer une **équipe de Ligue 2** (ex-régionale 2) : l'objectif de cette équipe sera notamment de faire jouer nos jeunes talents ou des joueurs peu capés ;
+
+-- si les effectifs adultes le permettent, engager un autre équipe en **Ligue 1** (ex-régionale 1), éventuellement dans le cadre d'une entente avec un autre club.
+
+-- pourquoi pas également envisager de jouer la **Coupe 2000** ?
+
+N'hésitez pas à nous faire part de vos souhaits de façon à ce que nous puissions envisager sereinement la constitution des équipes. La date limite d'engagement de certaines de ces compétitions approche très rapidement !
 
 
 ### Le comité directeur évolue ###
