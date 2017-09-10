@@ -2,19 +2,29 @@
 layout: map
 root: .
 title: Contact
+published: true
 ---
 
-###Coordonnées###
-Président : M. Daniel POUSSY
+### Comment nous joindre ###
 
-Tél. : 05 61 48 44 48 ou 05 61 58 46 99
+Le plus simple est de venir nous rencontrer directement tous les vendredis soirs à partir de 20h45 au Foyer du 3e âge (adresse ci-dessous). Le mail est aussi une bonne solution
 
-Email: <echecsvilleneuve@gmail.com>
 
-###Comment nous joindre###
-Venez-nous rencontrer directement tous les vendredis soirs à partir de 20h30.
+### Coordonnées ###
 
-###Adresse du local###
+**Siège social**
+<address>
+    <p>Maison Leyrisse<br/>
+        16 rue de la République<br/>
+        31270 Villeneuve-Tolosane<br/>
+        Email: <echecsvilleneuve@gmail.com>
+    </p>
+</address>
+
+**Président** : Olivier DORIVAL
+Email: <olivier.dorival@gmail.com>
+
+**Salle de jeu**
 <address>
     <p>Foyer du 3ème âge<br/>
         Rue de l'Esplanade<br/>
@@ -22,4 +32,3 @@ Venez-nous rencontrer directement tous les vendredis soirs à partir de 20h30.
     </p>
 </address>
 <div id="map"></div>
-
