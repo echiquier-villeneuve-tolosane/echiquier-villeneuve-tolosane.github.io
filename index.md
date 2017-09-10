@@ -7,15 +7,15 @@ published: true
 
 ### Calendrier de la saison ###
 
-Le calendrier du club est en cours de peaufinage, mais un certain nombre de dates sont déjà figées, notamment concernant : 
+Le **calendrier du club** est en cours de peaufinage, mais un certain nombre de dates sont déjà figées, notamment concernant : 
 
--- reprise des cours 1er niveau (Laurent) et 2e niveau (Philippe) le 20 septembre, à raison d'une semaine sur deux ;
+-- reprise des **cours 1er niveau (Laurent) et 2e niveau (Philippe) le 20 septembre**, à raison d'une semaine sur deux ;
 
--- les dates de compétitions Interclub (Nationale 4 et Ligues 1 et 2) : les 8/10, 19/11, 3/12, 17/12, 14/01, 28/01 et 18/03 ;
+-- les dates de compétitions **Interclub (Nationale 4 et Ligues 1 et 2)** : les 8/10, 19/11, 3/12, 17/12, 14/01, 28/01 et 18/03 ;
 
--- les dates de Coupe de France et de Coupe d'Occitanie : 15/10, 5/11, 10/12, 21/01, 25/03, 29/04, 13/05 ;
+-- les dates de **Coupe de France** et de **Coupe d'Occitanie** : 15/10, 5/11, 10/12, 21/01, 25/03, 29/04, 13/05 ;
 
--- les dates du Circuit Jeunes (a priori validées) : le 16/12 (Colomiers), le 11/02 (CEIT), le 11/3 (Muret), le 8/4 (Gagnac), **le 8/5 (Villeneuve-Tolosane)** et le 10/6 (Lardennes).
+-- les dates du **Circuit Jeunes** (a priori validées) : le 16/12 (Colomiers), le 11/02 (CEIT), le 11/3 (Muret), le 8/4 (Gagnac), **le 8/5 (Villeneuve-Tolosane)** et le 10/6 (Lardennes).
 
 Retrouvez ces dates, ainsi que les autres, sur le [**agenda du club**](http://echiquier-villeneuve-tolosane.github.io/calendar.html "calendrier EVT"), ou bien en version pdf.
 
