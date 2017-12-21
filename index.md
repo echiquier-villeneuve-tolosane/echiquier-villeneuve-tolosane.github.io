@@ -5,10 +5,6 @@ title: Accueil
 published: true
 ---
 
-![EVT_christmas2_ptt.jpg]({{site.baseurl}}/photos/EVT_christmas2_ptt.jpg)
-
-
-
 ### Calendrier de la saison 2017-2018 ###
 
 Le **calendrier du club** est en cours de peaufinage, mais un certain nombre de dates sont déjà figées, notamment concernant : 
