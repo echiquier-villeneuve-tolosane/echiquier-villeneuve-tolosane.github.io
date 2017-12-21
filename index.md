@@ -5,7 +5,8 @@ title: Accueil
 published: true
 ---
 
-![EVT_christmas2.jpg]({{site.baseurl}}/photos/EVT_christmas2.jpg)
+![EVT_christmas2_ptt.jpg]({{site.baseurl}}/photos/EVT_christmas2_ptt.jpg)
+
 
 
 ### Calendrier de la saison 2017-2018 ###
