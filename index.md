@@ -4,29 +4,23 @@ root: .
 title: Accueil
 published: true
 ---
-
-### Réunion de rentrée 2018 ! ###
-
-C'est la reprise ! Bien que le club n'ait pas fermé pendant tout l'été, nous lancerons la saison 2018-2019 vendredi 7 septembre à 20h avec une réunion suivie d'une collation conviviale. Au menu, les dernières actualités, ainsi que quelques questions importantes pour la saison à venir.
-
-**Nouveauté** pour cette reprise : nous nous proposons d'ouvrir le club le vendredi soir **à partir de 19h** afin que nos jeunes puissent venir se mesurer aux anciens ! Ce créneau étendu vient en remplacement de celui du samedi matin qui est abandonné.
-
 ### Calendrier de la saison 2018-2019 ! ###
 
 Le **calendrier du club** est en cours de peaufinage, mais un certain nombre de dates sont déjà figées, notamment concernant : 
 
 -- les dates de compétitions **Interclub (Nationale 4 et Ligues 1 et 2)** : les 8/10, 19/11, 3/12, 17/12, 14/01, 28/01 et 18/03 ;
--- les dates de **Coupe de France** et de **Coupe d'Occitanie** : 15/10, 5/11, 10/12, 25/03, 29/04, 13/05 ;
+-- les dates de **Coupe de France** : 15/10, 5/11, 10/12, 25/03, 29/04, 13/05 ;
 
 Retrouvez ces dates, ainsi que les autres, sur l'[**agenda du club**](http://echiquier-villeneuve-tolosane.github.io/calendar.html "calendrier EVT").
 
 
-### Compétitions par équipe 2017-18 ###
+### Compétitions par équipe 2018-19 ###
 
 Pour cette saison, le club a engagé :
 
 -- une équipe d'interclub en **[Nationale 4](http://www.echecs.asso.fr/Equipes.aspx?Groupe=85 "Nationale 4 / Groupe Occitanie Sud-Ouest")**;
--- une équipe en **Coupe de France** qui poursuivra (si elle est éliminée !) ensuite en **Coupe Occitanie**.
+-- une équipe en **Coupe de France**;
+-- une équipe d'interclub jeunes en **Nationale 3**.
 
 En fonction des effectifs, pourquoi pas également envisager de jouer la **Coupe 2000** ?
 
