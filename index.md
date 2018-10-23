@@ -9,6 +9,7 @@ published: true
 Le **calendrier du club** est en cours de peaufinage, mais un certain nombre de dates sont déjà figées, notamment concernant : 
 
 -- les dates de compétitions **Interclub (Nationale 4 et Ligues 1 et 2)** : les 8/10, 19/11, 3/12, 17/12, 14/01, 28/01 et 18/03 ;
+
 -- les dates de **Coupe de France** : 15/10, 5/11, 10/12, 25/03, 29/04, 13/05 ;
 
 Retrouvez ces dates, ainsi que les autres, sur l'[**agenda du club**](http://echiquier-villeneuve-tolosane.github.io/calendar.html "calendrier EVT"). Mais aussi en version [PDF](http://echiquier-villeneuve-tolosane.github.io/documents/calendrier-EVT-2018-2019.pdf "calendrier 2018-19").
@@ -19,7 +20,9 @@ Retrouvez ces dates, ainsi que les autres, sur l'[**agenda du club**](http://ech
 Pour cette saison, le club a engagé :
 
 -- une équipe d'interclub en **[Nationale 4](http://www.echecs.asso.fr/Equipes.aspx?Groupe=85 "Nationale 4 / Groupe Occitanie Sud-Ouest")**;
+
 -- une équipe en **Coupe de France**;
+
 -- une équipe d'interclub jeunes en **Nationale 3**.
 
 En fonction des effectifs, pourquoi pas également envisager de jouer la **Coupe 2000** ?
