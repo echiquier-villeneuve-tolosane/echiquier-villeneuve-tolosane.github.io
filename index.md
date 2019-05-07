@@ -4,30 +4,17 @@ root: .
 title: Accueil
 published: true
 ---
-### Calendrier de la saison 2018-2019 ! ###
+### Tournoi enfants 2019 ###
 
-Le **calendrier du club** est en cours de peaufinage, mais un certain nombre de dates sont déjà figées, notamment concernant : 
+Cette année, une fois n'est pas coutûme, seul le tournoi enfants (du 8 mai) a lieu. 
+Mille excuses pour le retard d'affiche suite à une difficulté technique.
 
--- les dates de compétitions **Interclub (Nationale 4 et Ligues 1 et 2)** : les 8/10, 19/11, 3/12, 17/12, 14/01, 28/01 et 18/03 ;
+7 rondes, 2x10 min + 5 sec/coup.
 
--- les dates de **Coupe de France** : 15/10, 5/11, 10/12, 25/03, 29/04, 13/05 ;
-
-Retrouvez ces dates, ainsi que les autres, sur l'[**agenda du club**](http://echiquier-villeneuve-tolosane.github.io/calendar.html "calendrier EVT"). Mais aussi en version [PDF](http://echiquier-villeneuve-tolosane.github.io/documents/calendrier-EVT-2018-2019.pdf "calendrier 2018-19").
+Pré-inscriptions souhaitées, inscriptions à partir de 13h15. 1e ronde à 14h.
 
 
-### Compétitions par équipe 2018-19 ###
 
-Pour cette saison, le club a engagé :
-
--- une équipe d'interclub en **[Nationale 4](http://www.echecs.asso.fr/Equipes.aspx?Groupe=85 "Nationale 4 / Groupe Occitanie Sud-Ouest")**;
-
--- une équipe en **Coupe de France**;
-
--- une équipe d'interclub jeunes en **Nationale 3**.
-
-En fonction des effectifs, pourquoi pas également envisager de jouer la **Coupe 2000** ?
-
-N'hésitez pas à nous faire part de vos souhaits de façon à ce que nous puissions envisager sereinement la constitution des équipes. La date limite d'engagement de certaines de ces compétitions approche très rapidement !
 
 ### L'EVT en bref ###
 
