@@ -13,7 +13,9 @@ Mille excuses pour le retard d'affiche suite à une difficulté technique.
 
 Pré-inscriptions souhaitées, inscriptions à partir de 13h15. 1e ronde à 14h.
 
-
+Le lieu : salle du Préau Couvert (à coté de la Maison Pour Tous, ancien foyer du 3e âge)
+1 Rue de l'Esplanade, 31270 Villeneuve-Tolosane
+https://www.google.com/maps/place/Salle+du+Pr%C3%A9au+Couvert/@43.5238732,1.3407585,15z/data=!4m2!3m1!1s0x0:0x27a5443216bd6261?sa=X&ved=2ahUKEwje5_TRkYriAhWF1uAKHSe_D4IQ_BIwCnoECA8QCA
 
 
 ### L'EVT en bref ###
